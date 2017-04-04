@@ -1,0 +1,21 @@
+---
+title: "Ohio first attempt"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(tidyverse)
+library(mdsr)
+
+library(effects)
+library(popbio)
+library(ISLR)
+library(lubridate)
+```
+
+
+```{r cars}
+wow <- read_csv('/home/thomaca/Downloads/SWVF_45_88.TXT', na = c("", "NA"))
+```
