@@ -15,3 +15,15 @@ library(lubridate)
 ```
 
 ## adding an age variable
+
+```{r}
+# make sure Ohio_df_lite.csv is in Downloads
+
+Ohio_df_lite <- read_csv("~/Downloads/Ohio_df_lite.csv", na = c("", "NA"))
+
+Ohio_df_lite <- mutate(Ohio_df_lite, age = 2017 - year(DATE_OF_BIRTH))
+
+#I checked the df using unique. I see age 18 and 19 which is a good sign. I see some 137, 135, and 132 year olds which is bad.
+
+unique(Ohio_df_lite$age)
+```
