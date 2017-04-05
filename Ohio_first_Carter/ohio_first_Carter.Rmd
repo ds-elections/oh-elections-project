@@ -1,30 +1,39 @@
 ---
 title: "Ohio first attempt"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(tidyverse)
+library(mdsr)
+
+
+
+library(ISLR)
+library(lubridate)
 ```
 
-## GitHub Documents
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+```{r}
+#download files from google drive
+#make sure they are in the download folder and unpack them
+#this will import each as a separate df
 
-## Including Code
+wow1 <- read_csv('~/Downloads/SWVF_45_88.TXT', na = c("", "NA"))
+wow2 <- read_csv('~/Downloads/SWVF_1_44.TXT', na = c("", "NA"))
 
-You can include R code in the document as follows:
+# this combines them into one frame
+Ohio_df <- tbl_df(rbind(wow1, wow2))
 
-```{r cars}
-summary(cars)
+# remove wow1 and wow2 from the environment to free up memory
+rm(wow1, wow2)
+
+#this removes columns we aren't using to make it smaller
+Ohio_df_lite <- select(Ohio_df, SOS_VOTERID, COUNTY_ID, DATE_OF_BIRTH, REGISTRATION_DATE, VOTER_STATUS, PARTY_AFFILIATION, RESIDENTIAL_CITY, RESIDENTIAL_STATE, `PRIMARY-03/06/2012`, `GENERAL-11/06/2012`, `PRIMARY-05/06/2014`, `GENERAL-11/04/2014`, `PRIMARY-03/15/2016`, `GENERAL-06/07/2016`, `PRIMARY-09/13/2016`, `GENERAL-11/08/2016` )
+
+#export as a smaller .csv to save space and make it easier to retrieve in the future 
+# write.csv(Ohio_df_lite, "~/Downloads/Ohio_df_lite.csv")
+
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
