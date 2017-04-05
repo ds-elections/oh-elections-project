@@ -9,14 +9,14 @@ library(readr)
 library(tidyverse)
 library(mdsr)
 
-library(effects)
+
 
 library(ISLR)
 library(lubridate)
 ```
 
 
-```{r cars}
+```{r}
 #download files from google drive
 #make sure they are in the download folder and unpack them
 #this will import each as a separate df
@@ -34,6 +34,6 @@ rm(wow1, wow2)
 Ohio_df_lite <- select(Ohio_df, SOS_VOTERID, COUNTY_ID, DATE_OF_BIRTH, REGISTRATION_DATE, VOTER_STATUS, PARTY_AFFILIATION, RESIDENTIAL_CITY, RESIDENTIAL_STATE, `PRIMARY-03/06/2012`, `GENERAL-11/06/2012`, `PRIMARY-05/06/2014`, `GENERAL-11/04/2014`, `PRIMARY-03/15/2016`, `GENERAL-06/07/2016`, `PRIMARY-09/13/2016`, `GENERAL-11/08/2016` )
 
 #export as a smaller .csv to save space and make it easier to retrieve in the future 
-write.csv(Ohio_df_lite, "~/Downloads/Ohio_df_lite.csv")
+# write.csv(Ohio_df_lite, "~/Downloads/Ohio_df_lite.csv")
 
 ```
