@@ -106,7 +106,7 @@ CCES14
     ## # ... with 56,190 more rows
 
 ``` r
-CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% select(inputstate, votereg, birthyr, AskParty_post, votereg_post, CC16_401)
+CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% select(inputstate, votereg, birthyr, AskParty_post, votereg_post, CC16_401, CC16_403)
 ```
 
     ## Parsed with column specification:
@@ -150,17 +150,17 @@ CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16
 CCES16
 ```
 
-    ## # A tibble: 64,600 × 6
-    ##    inputstate votereg birthyr AskParty_post votereg_post CC16_401
-    ##         <int>   <int>   <int>         <int>        <int>    <int>
-    ## 1          33       1    1969             1            1        5
-    ## 2          22       1    1994             1            1        5
-    ## 3          29       1    1964            NA           NA       NA
-    ## 4           1       1    1988            NA           NA       NA
-    ## 5           8       1    1982             1            1        5
-    ## 6           1       2    1963             0            2       NA
-    ## 7          48       1    1962             0            1        5
-    ## 8          42       2    1991            NA           NA       NA
-    ## 9          13       1    1963             0            1        5
-    ## 10         42       1    1957             1            1        5
+    ## # A tibble: 64,600 × 7
+    ##    inputstate votereg birthyr AskParty_post votereg_post CC16_401 CC16_403
+    ##         <int>   <int>   <int>         <int>        <int>    <int>    <int>
+    ## 1          33       1    1969             1            1        5        1
+    ## 2          22       1    1994             1            1        5        1
+    ## 3          29       1    1964            NA           NA       NA       NA
+    ## 4           1       1    1988            NA           NA       NA       NA
+    ## 5           8       1    1982             1            1        5        2
+    ## 6           1       2    1963             0            2       NA       NA
+    ## 7          48       1    1962             0            1        5        1
+    ## 8          42       2    1991            NA           NA       NA       NA
+    ## 9          13       1    1963             0            1        5        1
+    ## 10         42       1    1957             1            1        5        1
     ## # ... with 64,590 more rows

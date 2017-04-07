@@ -14,7 +14,7 @@ Each dataset has over 400 variables. They become increasingly well labeled (12<1
 CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12.tab") 
 CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14.tab") %>% subset(select = c(54, 58, 65))
 CCES14
-CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% select(inputstate, votereg, birthyr, AskParty_post, votereg_post, CC16_401)
+CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% select(inputstate, votereg, birthyr, AskParty_post, votereg_post, CC16_401, CC16_403)
 CCES16
 ```
 
