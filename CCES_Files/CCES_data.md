@@ -4,7 +4,7 @@ Cleaned and Tidied CCES Data
 Each dataset has over 400 variables. They become increasingly well labeled (12&lt;14&lt;16) but even the 2016 has hundreds of illegible variables. We're going to have to take some time to figure out what each column actually is and whether we need it. Since we're mostly looking at age I suspect we don't need most of the columns but it's going to be a bear to sort through this. Ohio is input state 39.
 
 ``` r
-CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12.tab") 
+CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12.tab") %>% mutate(age = 2017-(birthyr)) %>% select(StateAbbr, age, votereg, CC401, CC403, CC350) %>% filter(StateAbbr == "OH") 
 ```
 
     ## Parsed with column specification:
@@ -46,7 +46,11 @@ CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12
     ## See problems(...) for more details.
 
 ``` r
-CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14.tab") %>% subset(select = c(54, 58, 65))
+colnames(CCES12)[4] <- "askvote"
+colnames(CCES12)[6] <- "party_ID"
+colnames(CCES12)[5] <- "vote_method"
+write.csv(CCES12, file = "CCES12.csv")
+CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14.tab") %>% mutate(age = 2017-(birthyr)) %>% select(StateAbbr, age, votereg, pid3, CC401, CC403) %>% filter(StateAbbr == "OH")
 ```
 
     ## Parsed with column specification:
@@ -87,26 +91,11 @@ CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14
     ## See problems(...) for more details.
 
 ``` r
-CCES14
-```
-
-    ## # A tibble: 56,200 × 3
-    ##    StateAbbr birthyr votereg
-    ##        <chr>   <int>   <int>
-    ## 1         NV    1986       1
-    ## 2         MD    1971       2
-    ## 3         MN    1992       3
-    ## 4         AR    1974       1
-    ## 5         CA    1979       1
-    ## 6         IN    1957       1
-    ## 7         NY    1951       1
-    ## 8         NY    1994       3
-    ## 9         TX    1995       2
-    ## 10        MI    1954       1
-    ## # ... with 56,190 more rows
-
-``` r
-CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% select(inputstate, votereg, birthyr, AskParty_post, votereg_post, CC16_401, CC16_403)
+colnames(CCES14)[4] <- "party_ID"
+colnames(CCES14)[5] <- "askvote"
+colnames(CCES14)[6] <- "vote_method"
+write.csv(CCES14, file = "CCES14.csv")
+CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% mutate(age = 2017-(birthyr)) %>% select(inputstate, votereg, age, CC16_421a, CC16_401, CC16_403) %>% filter(inputstate == "39")
 ```
 
     ## Parsed with column specification:
@@ -147,20 +136,8 @@ CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16
     ## See problems(...) for more details.
 
 ``` r
-CCES16
+colnames(CCES16)[4] <- "party_ID"
+colnames(CCES16)[5] <- "askvote"
+colnames(CCES16)[6] <- "vote_method"
+write.csv(CCES16, file = "CCES16.csv")
 ```
-
-    ## # A tibble: 64,600 × 7
-    ##    inputstate votereg birthyr AskParty_post votereg_post CC16_401 CC16_403
-    ##         <int>   <int>   <int>         <int>        <int>    <int>    <int>
-    ## 1          33       1    1969             1            1        5        1
-    ## 2          22       1    1994             1            1        5        1
-    ## 3          29       1    1964            NA           NA       NA       NA
-    ## 4           1       1    1988            NA           NA       NA       NA
-    ## 5           8       1    1982             1            1        5        2
-    ## 6           1       2    1963             0            2       NA       NA
-    ## 7          48       1    1962             0            1        5        1
-    ## 8          42       2    1991            NA           NA       NA       NA
-    ## 9          13       1    1963             0            1        5        1
-    ## 10         42       1    1957             1            1        5        1
-    ## # ... with 64,590 more rows
