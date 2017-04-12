@@ -1,25 +1,14 @@
----
-title: "Untitled"
-output: github_document
----
+Untitled
+================
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(readr)
-library(tidyverse)
-library(mdsr)
+Scroll all the way to the bottom thats where it gets good
+---------------------------------------------------------
 
-
-
-
-library(lubridate)
-```
-## Scroll all the way to the bottom thats where it gets good
 #### (the last chunk combines everything in the first few chunks)
 
-```{r voted, eval=FALSE}
+``` r
 #this should pull directly from the github csv
-vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
+vote16 <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES16.csv")
 
 #making a vote y/n option
 # according to the CCES key 1-4 indicate not voting, 5 indicates voted, 8&9 indicate skipped and not asked
@@ -31,8 +20,7 @@ table(vote16vote$voted)
 table(vote16$askvote)
 ```
 
-```{r party, eval=FALSE}
-
+``` r
 vote16vote_party <- mutate(vote16vote, party = ifelse(party_ID %in% 1,"Democrat",
 ifelse(party_ID %in% 2, "Republican", 
 ifelse(party_ID %in% 3, "Independent",
@@ -41,22 +29,20 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" )))))
 #how does it look
 table(vote16vote_party$party)
 table(vote16$party_ID)
-```  
-```{r registration, eval=FALSE}
+```
+
+``` r
 vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in% 1, "Yes", 
                                                                            ifelse(votereg %in% 2, "No", 
         ifelse(votereg %in% 3, "DontKnow", "NAorMissing"
                                     ))))
-
-
-
 ```
 
-```{r, }
+``` r
 #rewriting this terrible code to be more succicinct (intentionally mispelled thats the joke)
 
 #this should pull directly from the github csv
-vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
+vote16 <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES16.csv")
 
 #making a vote column
 vote16complete <- mutate(vote16, voted = ifelse(askvote %in% 1:4,"no",
@@ -86,4 +72,10 @@ select(1, 4, 8:11)
 head(vote16complete)
 ```
 
-
+    ##   X age voted       party registered               method_vote
+    ## 1 1  25   yes    Democrat        Yes Voted by mail or absentee
+    ## 2 2  58   yes Independent        Yes In person on election day
+    ## 3 3  81   yes  Republican        Yes In person on election day
+    ## 4 4  30   yes       Other        Yes Voted by mail or absentee
+    ## 5 5  50   yes    Democrat        Yes Voted by mail or absentee
+    ## 6 6  30    no    Democrat        Yes Dontknow_skipped_notasked
