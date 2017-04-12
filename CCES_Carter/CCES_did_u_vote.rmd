@@ -14,7 +14,10 @@ library(mdsr)
 
 library(lubridate)
 ```
-```{r voted}
+## Scroll all the way to the bottom thats where it gets good
+#### (the last chunk combines everything in the first few chunks)
+
+```{r voted, eval=FALSE}
 #this should pull directly from the github csv
 vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
 
@@ -28,7 +31,7 @@ table(vote16vote$voted)
 table(vote16$askvote)
 ```
 
-```{r party}
+```{r party, eval=FALSE}
 
 vote16vote_party <- mutate(vote16vote, party = ifelse(party_ID %in% 1,"Democrat",
 ifelse(party_ID %in% 2, "Republican", 
@@ -39,7 +42,7 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" )))))
 table(vote16vote_party$party)
 table(vote16$party_ID)
 ```  
-```{r registration}
+```{r registration, eval=FALSE}
 vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in% 1, "Yes", 
                                                                            ifelse(votereg %in% 2, "No", 
         ifelse(votereg %in% 3, "DontKnow", "NAorMissing"
@@ -49,8 +52,8 @@ vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in
 
 ```
 
-```{r}
-#rewriting this terrible code to be more succicinct
+```{r, }
+#rewriting this terrible code to be more succicinct (intentionally mispelled thats the joke)
 
 #this should pull directly from the github csv
 vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")

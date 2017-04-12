@@ -1,6 +1,11 @@
 Untitled
 ================
 
+Scroll all the way to the bottom thats where it gets good
+---------------------------------------------------------
+
+#### (the last chunk combines everything in the first few chunks)
+
 ``` r
 #this should pull directly from the github csv
 vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
@@ -11,20 +16,9 @@ vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
 vote16vote <- mutate(vote16, voted = ifelse(askvote %in% 1:4,"no",
                                             ifelse(askvote %in% 5, "yes",  "NAorMissing" )))
 table(vote16vote$voted)
-```
-
-    ## 
-    ## NAorMissing          no         yes 
-    ##         594         151        1953
-
-``` r
 #this works, but the data itself does not conform to the key provided. There is supposed to be an 8 for Skipped and a 9 for Not Asked but the dataframe has NAs instead. In fact there are no 8s or 9s in the set
 table(vote16$askvote)
 ```
-
-    ## 
-    ##    1    2    3    4    5 
-    ##   79   22   31   19 1953
 
 ``` r
 vote16vote_party <- mutate(vote16vote, party = ifelse(party_ID %in% 1,"Democrat",
@@ -34,19 +28,8 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" )))))
 
 #how does it look
 table(vote16vote_party$party)
-```
-
-    ## 
-    ##    Democrat Independent NAorMissing       Other  Republican 
-    ##         915         631         432         103         617
-
-``` r
 table(vote16$party_ID)
 ```
-
-    ## 
-    ##   1   2   3   4 
-    ## 915 617 631 103
 
 ``` r
 vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in% 1, "Yes", 
@@ -56,7 +39,7 @@ vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in
 ```
 
 ``` r
-#rewriting this terrible code to be more succicinct
+#rewriting this terrible code to be more succicinct (intentionally mispelled thats the joke)
 
 #this should pull directly from the github csv
 vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
