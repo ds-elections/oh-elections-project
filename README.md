@@ -11,11 +11,11 @@ A data project looking at demographical discrepensies in voting in Ohio. By comp
 ### Timeline:
 
 By the end of the week of 4/2: Have data cleaned and tidied
+done
+By 4/14: visualize data
 
-By the end of the week of 4/9: visualize data
+By 4/21: model data
 
-By the end of the week of 4/16: model data
+By 4/28: revise transformation of data based on the previous model
 
-By the end of the week of 4/23: revise transformation of data based on the previous model
-
-By the end of the week of 4/30: Remodel and communicate our findings
+After Renn Fayre: Remodel and communicate our findings

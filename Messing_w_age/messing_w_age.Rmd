@@ -10,13 +10,15 @@ library(mdsr)
 
 
 
-library(ISLR)
+
 library(lubridate)
 ```
 
 ## adding an age variable
 
 ```{r}
+#download file from https://drive.google.com/a/reed.edu/uc?export=download&confirm=vfYf&id=0B16R3n7VKQteeEh5SmozTXRVb2s
+
 # make sure Ohio_df_lite.csv is in Downloads
 
 Ohio_df_lite <- read_csv("~/Downloads/Ohio_df_lite.csv", na = c("", "NA"))
