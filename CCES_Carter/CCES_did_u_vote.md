@@ -1,20 +1,7 @@
----
-title: "Untitled"
-output: github_document
----
+Untitled
+================
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(readr)
-library(tidyverse)
-library(mdsr)
-
-
-
-
-library(lubridate)
-```
-```{r voted}
+``` r
 #this should pull directly from the github csv
 vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
 
@@ -24,12 +11,22 @@ vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
 vote16vote <- mutate(vote16, voted = ifelse(askvote %in% 1:4,"no",
                                             ifelse(askvote %in% 5, "yes",  "NAorMissing" )))
 table(vote16vote$voted)
+```
+
+    ## 
+    ## NAorMissing          no         yes 
+    ##         594         151        1953
+
+``` r
 #this works, but the data itself does not conform to the key provided. There is supposed to be an 8 for Skipped and a 9 for Not Asked but the dataframe has NAs instead. In fact there are no 8s or 9s in the set
 table(vote16$askvote)
 ```
 
-```{r party}
+    ## 
+    ##    1    2    3    4    5 
+    ##   79   22   31   19 1953
 
+``` r
 vote16vote_party <- mutate(vote16vote, party = ifelse(party_ID %in% 1,"Democrat",
 ifelse(party_ID %in% 2, "Republican", 
 ifelse(party_ID %in% 3, "Independent",
@@ -37,19 +34,28 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" )))))
 
 #how does it look
 table(vote16vote_party$party)
+```
+
+    ## 
+    ##    Democrat Independent NAorMissing       Other  Republican 
+    ##         915         631         432         103         617
+
+``` r
 table(vote16$party_ID)
-```  
-```{r registration}
+```
+
+    ## 
+    ##   1   2   3   4 
+    ## 915 617 631 103
+
+``` r
 vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in% 1, "Yes", 
                                                                            ifelse(votereg %in% 2, "No", 
         ifelse(votereg %in% 3, "DontKnow", "NAorMissing"
                                     ))))
-
-
-
 ```
 
-```{r}
+``` r
 #rewriting this terrible code to be more succicinct
 
 #this should pull directly from the github csv
@@ -83,4 +89,10 @@ select(1, 4, 8:11)
 head(vote16complete)
 ```
 
-
+    ##   X age voted       party registered               method_vote
+    ## 1 1  25   yes    Democrat        Yes Voted by mail or absentee
+    ## 2 2  58   yes Independent        Yes In person on election day
+    ## 3 3  81   yes  Republican        Yes In person on election day
+    ## 4 4  30   yes       Other        Yes Voted by mail or absentee
+    ## 5 5  50   yes    Democrat        Yes Voted by mail or absentee
+    ## 6 6  30    no    Democrat        Yes Dontknow_skipped_notasked
