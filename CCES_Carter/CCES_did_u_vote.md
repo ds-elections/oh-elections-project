@@ -79,3 +79,18 @@ head(vote16complete)
     ## 4 4  30   yes       Other        Yes Voted by mail or absentee
     ## 5 5  50   yes    Democrat        Yes Voted by mail or absentee
     ## 6 6  30    no    Democrat        Yes Dontknow_skipped_notasked
+
+``` r
+#problem tho
+table(vote16complete$voted)
+```
+
+    ## 
+    ## NAorMissing          no         yes 
+    ##         594         151        1953
+
+``` r
+ggplot(vote16complete, aes(age, col = voted)) + geom_density()
+```
+
+![](CCES_did_u_vote_files/figure-markdown_github/unnamed-chunk-2-1.png)

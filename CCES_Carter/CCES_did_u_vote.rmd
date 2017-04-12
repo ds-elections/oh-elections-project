@@ -88,4 +88,10 @@ head(vote16complete)
 table(vote16complete$voted)
 ```
 
+```{r}
+ggplot(vote16complete, aes(age, col = voted)) + geom_density()
+
+
+```
+
 
