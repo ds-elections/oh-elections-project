@@ -1,12 +1,26 @@
-Untitled
-================
+---
+title: "completing the CCES cleanup"
+output: html_document
+---
 
-Scroll all the way to the bottom thats where it gets good
----------------------------------------------------------
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
 
+library(tidyverse)
+
+library(mdsr)
+
+
+
+
+library(lubridate)
+
+```  
+## Scroll all the way to the bottom thats where it gets good
 #### (the last chunk combines everything in the first few chunks)
 
-``` r
+```{r}
 #this should pull directly from the github csv
 vote16 <- read.csv("~/oh-elections-project/CCES_Files/CCES16.csv")
 
@@ -20,7 +34,7 @@ table(vote16vote$voted)
 table(vote16$askvote)
 ```
 
-``` r
+```{r}
 vote16vote_party <- mutate(vote16vote, party = ifelse(party_ID %in% 1,"Democrat",
 ifelse(party_ID %in% 2, "Republican", 
 ifelse(party_ID %in% 3, "Independent",
@@ -31,14 +45,14 @@ table(vote16vote_party$party)
 table(vote16$party_ID)
 ```
 
-``` r
+```{r}
 vote16vote_party_reg <- mutate(vote16vote_party, registered = ifelse(votereg %in% 1, "Yes", 
                                                                            ifelse(votereg %in% 2, "No", 
         ifelse(votereg %in% 3, "DontKnow", "NAorMissing"
                                     ))))
 ```
 
-``` r
+```{r}
 #rewriting this terrible code to be more succicinct (intentionally mispelled thats the joke)
 
 #this should pull directly from the github csv
@@ -72,25 +86,10 @@ select(1, 4, 8:11)
 head(vote16complete)
 ```
 
-    ##   X age voted       party registered               method_vote
-    ## 1 1  25   yes    Democrat        Yes Voted by mail or absentee
-    ## 2 2  58   yes Independent        Yes In person on election day
-    ## 3 3  81   yes  Republican        Yes In person on election day
-    ## 4 4  30   yes       Other        Yes Voted by mail or absentee
-    ## 5 5  50   yes    Democrat        Yes Voted by mail or absentee
-    ## 6 6  30    no    Democrat        Yes Dontknow_skipped_notasked
 
-``` r
-#problem tho
-table(vote16complete$voted)
-```
 
-    ## 
-    ## NAorMissing          no         yes 
-    ##         594         151        1953
-
-``` r
+```{r}
 ggplot(vote16complete, aes(age, col = voted)) + geom_density()
 ```
 
-![](CCES_did_u_vote_files/figure-markdown_github/unnamed-chunk-2-1.png)
+

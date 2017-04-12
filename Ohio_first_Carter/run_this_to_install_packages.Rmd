@@ -14,8 +14,7 @@ library(mdsr)
 install.packages("mdsr")
 
 
-library(ISLR)
-install.packages("ISLR")
+
 library(lubridate)
 install.packages("lubridate")
 ```
