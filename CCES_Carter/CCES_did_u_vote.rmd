@@ -84,6 +84,8 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" ))))) %>%
 select(1, 4, 8:11)
 
 head(vote16complete)
+#problem tho
+table(vote16complete$voted)
 ```
 
 
