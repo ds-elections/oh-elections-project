@@ -45,3 +45,8 @@ ggplot(Ohio_df_lite, aes(age)) + geom_density(kernel = "gaussian")
 #under 140
 ggplot(Ohio_under120, aes(age)) + geom_density(kernel = "gaussian")
 ```
+
+```{r}
+unique_ages <- Ohio_under120 %>% distinct(age) %>% arrange(age)
+```
+
