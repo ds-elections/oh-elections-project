@@ -10,12 +10,12 @@ viz16 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote16.csv")
     ## Parsed with column specification:
     ## cols(
     ##   X1 = col_integer(),
-    ##   X = col_integer(),
-    ##   votereg = col_integer(),
-    ##   vote_method = col_integer(),
+    ##   weight = col_double(),
+    ##   age = col_integer(),
     ##   voted = col_character(),
     ##   party = col_character(),
-    ##   registered = col_character()
+    ##   registered = col_character(),
+    ##   method_vote = col_character()
     ## )
 
 ``` r
@@ -27,12 +27,12 @@ viz14 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote14.csv")
     ## Parsed with column specification:
     ## cols(
     ##   X1 = col_integer(),
-    ##   X = col_integer(),
-    ##   StateAbbr = col_character(),
-    ##   vote_method = col_integer(),
+    ##   weight = col_double(),
+    ##   age = col_integer(),
     ##   voted = col_character(),
     ##   party = col_character(),
-    ##   registered = col_character()
+    ##   registered = col_character(),
+    ##   method_vote = col_character()
     ## )
 
 ``` r
@@ -44,12 +44,12 @@ viz12 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote12.csv")
     ## Parsed with column specification:
     ## cols(
     ##   X1 = col_integer(),
-    ##   X = col_integer(),
-    ##   StateAbbr = col_character(),
-    ##   vote_method = col_integer(),
+    ##   weight = col_double(),
+    ##   age = col_integer(),
     ##   voted = col_character(),
     ##   party = col_character(),
-    ##   registered = col_character()
+    ##   registered = col_character(),
+    ##   method_vote = col_character()
     ## )
 
 ``` r

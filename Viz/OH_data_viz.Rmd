@@ -16,3 +16,10 @@ viz14 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote14.csv")
 viz12 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote12.csv")
 ohfiles <- read_csv("~/Desktop/oh-elections-project/Ohio_df_lite.csv")
 ```
+
+```{r viz}
+
+
+```
+
+

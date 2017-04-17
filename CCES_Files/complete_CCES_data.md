@@ -25,9 +25,7 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" ))))) %>%
   mutate(method_vote = ifelse(vote_method %in% 1, "In person on election day", 
                               ifelse(vote_method %in% 2, "In person early", 
                               ifelse(vote_method %in% 3, "Voted by mail or absentee", "Dontknow_skipped_notasked"
-                              )))) %>%
-#remove old columns
-select(1, 4, 8:11)
+                              )))) %>% select(weight, age, voted, party, registered, method_vote)
 ```
 
 ``` r
@@ -56,7 +54,7 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" ))))) %>%
                               ifelse(vote_method %in% 3, "Voted by mail or absentee", "Dontknow_skipped_notasked"
                               )))) %>%
 #remove old columns
-select(1, 3, 8:11)
+select(weight, age, voted, party, registered, method_vote)
 ```
 
 ``` r
@@ -85,7 +83,7 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" ))))) %>%
                               ifelse(vote_method %in% 3, "Voted by mail or absentee", "Dontknow_skipped_notasked"
                               )))) %>%
 #remove old columns
-select(1, 3, 8:11)
+select(weight, age, voted, party, registered, method_vote)
 ```
 
 ``` r
