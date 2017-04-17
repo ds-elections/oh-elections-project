@@ -4,7 +4,7 @@ Cleaned and Tidied CCES Data
 Each dataset has over 400 variables. They become increasingly well labeled (12&lt;14&lt;16) but even the 2016 has hundreds of illegible variables. We're going to have to take some time to figure out what each column actually is and whether we need it. Since we're mostly looking at age I suspect we don't need most of the columns but it's going to be a bear to sort through this. Ohio is input state 39.
 
 ``` r
-CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12.tab") %>% mutate(age = 2017-(birthyr)) %>% select(StateAbbr, age, votereg, CC401, CC403, CC350) %>% filter(StateAbbr == "OH") 
+CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12.tsv") %>% mutate(age = 2017-(birthyr)) %>% select(weight_vv, StateAbbr, age, votereg, CC401, CC403, CC350) %>% filter(StateAbbr == "OH") 
 ```
 
     ## Parsed with column specification:
@@ -46,11 +46,12 @@ CCES12 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES12
     ## See problems(...) for more details.
 
 ``` r
-colnames(CCES12)[4] <- "askvote"
+colnames(CCES12)[1] <- "weight"
+colnames(CCES12)[5] <- "askvote"
 colnames(CCES12)[6] <- "party_ID"
-colnames(CCES12)[5] <- "vote_method"
+colnames(CCES12)[7] <- "vote_method"
 write.csv(CCES12, file = "CCES12.csv")
-CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14.tab") %>% mutate(age = 2017-(birthyr)) %>% select(StateAbbr, age, votereg, pid3, CC401, CC403) %>% filter(StateAbbr == "OH")
+CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14.tsv") %>% mutate(age = 2017-(birthyr)) %>% select(weight, StateAbbr, age, votereg, pid3, CC401, CC403) %>% filter(StateAbbr == "OH")
 ```
 
     ## Parsed with column specification:
@@ -91,11 +92,11 @@ CCES14 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES14
     ## See problems(...) for more details.
 
 ``` r
-colnames(CCES14)[4] <- "party_ID"
-colnames(CCES14)[5] <- "askvote"
-colnames(CCES14)[6] <- "vote_method"
+colnames(CCES14)[5] <- "party_ID"
+colnames(CCES14)[6] <- "askvote"
+colnames(CCES14)[7] <- "vote_method"
 write.csv(CCES14, file = "CCES14.csv")
-CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tab") %>% mutate(age = 2017-(birthyr)) %>% select(inputstate, votereg, age, CC16_421a, CC16_401, CC16_403) %>% filter(inputstate == "39")
+CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16.tsv") %>% mutate(age = 2017-(birthyr)) %>% select(commonweight, inputstate, votereg, age, CC16_421a, CC16_401, CC16_403) %>% filter(inputstate == "39")
 ```
 
     ## Parsed with column specification:
@@ -136,8 +137,9 @@ CCES16 <- read_tsv("/home/shaswitz/Desktop/oh-elections-project/CCES_data/CCES16
     ## See problems(...) for more details.
 
 ``` r
-colnames(CCES16)[4] <- "party_ID"
-colnames(CCES16)[5] <- "askvote"
-colnames(CCES16)[6] <- "vote_method"
+colnames(CCES16)[1] <- "weight"
+colnames(CCES16)[5] <- "party_ID"
+colnames(CCES16)[6] <- "askvote"
+colnames(CCES16)[7] <- "vote_method"
 write.csv(CCES16, file = "CCES16.csv")
 ```
