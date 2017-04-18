@@ -71,6 +71,7 @@ filteredOhio <- filter(Ohio_summary2, age %in% 19:91)
 #merging
 merged <- merge(filteredCCES, filteredOhio, by = "age")
 
-diff <- mutate(merged, difference = percent_voted-perc)
+diff <- mutate(merged, percent difference = percent_voted-perc)
 
 ggplot(diff, aes(age, difference)) +geom_point()
+
