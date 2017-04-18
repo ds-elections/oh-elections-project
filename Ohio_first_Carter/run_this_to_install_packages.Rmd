@@ -6,7 +6,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-library(readr)
+library(readr )
 install.packages("readr")
 library(tidyverse)
 install.packages("tidyverse")
@@ -18,5 +18,11 @@ install.packages("mdsr")
 library(lubridate)
 install.packages("lubridate")
 ```
+
+```{r}
+# sharable link to ohio df
+https://drive.google.com/open?id=0B16R3n7VKQteeEh5SmozTXRVb2s
+
+
 ```
 
