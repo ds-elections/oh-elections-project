@@ -12,7 +12,7 @@ library(lubridate)
 ```
 
 ```{r 2016}
-vote16 <- read.csv("CCES_Files/CCES16.csv")
+vote16 <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES16.csv")
 
 #making a vote column
 vote16complete <- mutate(vote16, voted = ifelse(askvote %in% 1:4,"no",
@@ -48,6 +48,7 @@ vote16_noNA <- vote16_noNA %>%
 vote16_long <- vote16_noNA %>% 
   mutate(ids = map(wtd, seq_len)) %>% 
   unnest()
+write.csv(vote16_long, "vote16_long.csv")
 ```
 
 ```{r}

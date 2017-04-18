@@ -11,15 +11,12 @@ library(tidyverse)
 ```
 
 ```{r data import}
-viz16 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote16.csv")
-viz14 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote14.csv")
-viz12 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote12.csv")
-ohfiles <- read_csv("~/Desktop/oh-elections-project/Ohio_df_lite.csv")
+viz16 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/vote16_long.csv")
 ```
 
-```{r viz}
-
-
+```{r play}
+smallviz16 <- viz16 %>% select(age, voted) %>% group_by(age) %>% summarize(percent_voted = mean(voted == "yes"))
+ggplot(smallviz16, aes(x = age, y = percent_voted)) + geom_line()
 ```
 
 

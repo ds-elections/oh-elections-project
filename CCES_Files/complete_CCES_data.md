@@ -7,8 +7,8 @@ vote16 <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES16.csv")
 #making a vote column
 vote16complete <- mutate(vote16, voted = ifelse(askvote %in% 1:4,"no",
                                             ifelse(askvote %in% 5, "yes",  "NAorMissing" ))) %>%
-  
-#making a party column
+
+  #making a party column
   mutate(party = ifelse(party_ID %in% 1,"Democrat",
 ifelse(party_ID %in% 2, "Republican", 
 ifelse(party_ID %in% 3, "Independent",
@@ -27,6 +27,27 @@ ifelse(party_ID %in% 4, "Other",  "NAorMissing" ))))) %>%
                               ifelse(vote_method %in% 3, "Voted by mail or absentee", "Dontknow_skipped_notasked"
                               )))) %>% select(weight, age, voted, party, registered, method_vote)
 ```
+
+``` r
+vote16_noNA <- vote16complete %>% filter(registered == "Yes") %>% 
+  select(-registered)
+
+vote16_noNA <- vote16_noNA %>% 
+  mutate(wtd = round(weight * 100))
+
+vote16_long <- vote16_noNA %>% 
+  mutate(ids = map(wtd, seq_len)) %>% 
+  unnest()
+write.csv(vote16_long, "vote16_long.csv")
+```
+
+``` r
+vote16_long %>% 
+  ggplot(aes(x = age)) +
+  geom_histogram(color = "white", binwidth = 1)
+```
+
+![](complete_CCES_data_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 ``` r
 vote14 <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES14.csv")
