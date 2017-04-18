@@ -21,6 +21,7 @@ viz16 <- read_csv("~/Desktop/oh-elections-project/CCES_Files/vote16_long.csv")
 
 ``` r
 smallviz16 <- viz16 %>% select(age, voted) %>% group_by(age) %>% summarize(percent_voted = mean(voted == "yes"))
+write.csv(smallviz16, "smallviz16.csv")
 ggplot(smallviz16, aes(x = age, y = percent_voted)) + geom_line()
 ```
 
