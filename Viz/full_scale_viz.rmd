@@ -60,14 +60,17 @@ smallviz16 <- viz16 %>% select(age, voted) %>% group_by(age) %>% summarize(perce
 #tidying it up so we can merge
 
 
-filteredCCES <- filter(smallviz16, age > 19 | age < 99) 
+filteredCCES <- filter(smallviz16, age %in% 19:91) 
 
-filteredOhio <- filter(Ohio_summary2, age > 19 | age < 99)
+filteredOhio <- filter(Ohio_summary2, age %in% 19:91)
 
 ```
 
 
 ```{r}
 #merging
+merged <- merge(filteredCCES, filteredOhio, by = "age")
 
+diff <- mutate(merged, difference = percent_voted-perc)
 
+ggplot(diff, aes(age, difference)) +geom_point()
