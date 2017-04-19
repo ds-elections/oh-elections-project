@@ -75,7 +75,7 @@ diff <- mutate(merged, CCESminusVoterReg = CCESpercent-VoterRegPercent)
 
 SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN)+((VoterRegPercent*(1-VoterRegPercent))/VoterRegN))
 
-ggplot(SEdiff, aes(age, CCESminusVoterReg)) + geom_errorbar(aes(ymin = CCESminusVoterReg - SE, ymax = CCESminusVoterReg + SE))
+ggplot(SEdiff, aes(age, CCESminusVoterReg, col = (CCESN + VoterRegN))) + geom_errorbar(aes(ymin = CCESminusVoterReg - SE, ymax = CCESminusVoterReg + SE))
 ```
 
 ![](full_scale_viz_files/figure-markdown_github/Merge%20and%20Plot-1.png)
