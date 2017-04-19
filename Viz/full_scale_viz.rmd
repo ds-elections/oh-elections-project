@@ -3,16 +3,24 @@ title: "Data visualization of voting by age according to polls"
 output: github_document
 ---
 
-```{r setup}
+```{r setup, include=FALSE}
 library(readr)
 library(tidyverse)
 library(dplyr)
 library(lubridate)
 ```
 ## creating summary tables for voting percentage my age with Ohio data
-```{r Ohio}
+```{r Ohio, cache=TRUE}
 
-ohio_age_vote <- read_csv("~/Desktop/oh-elections-project/Viz/ohio_age_vote.csv")
+ Ohio_df_lite <- read.csv ("~/Downloads/Ohio_df_lite.csv")
+ 
+ #mutate to make an age variable
+ 
+ Ohio_df_lite <- mutate(Ohio_df_lite, age = 2017 - year(DATE_OF_BIRTH))
+ 
+ ohio_age_vote <- select(Ohio_df_lite, age, GENERAL.11.08.2016) %>% filter(age < 99)
+ #remove ohio_df_lite to save space
+ rm(Ohio_df_lite)
 
 #rename column names
 colnames(ohio_age_vote) <- c("age", "vote")
@@ -59,7 +67,7 @@ colnames(merged) <-c("age", "CCESpercent", "CCESN", "VoterRegPercent", "VoterReg
 
 diff <- mutate(merged, CCESminusVoterReg = CCESpercent-VoterRegPercent)
 
-SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN)+(VoterRegPercent*(1-VoterRegPercent)/VoterRegN))
+SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN)+((VoterRegPercent*(1-VoterRegPercent))/VoterRegN))
 
 ggplot(SEdiff, aes(age, CCESminusVoterReg)) + geom_errorbar(aes(ymin = CCESminusVoterReg - SE, ymax = CCESminusVoterReg + SE))
 ```

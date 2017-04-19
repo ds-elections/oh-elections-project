@@ -1,51 +1,20 @@
 Data visualization of voting by age according to polls
 ================
 
-``` r
-library(readr)
-library(tidyverse)
-```
-
-    ## Loading tidyverse: ggplot2
-    ## Loading tidyverse: tibble
-    ## Loading tidyverse: tidyr
-    ## Loading tidyverse: purrr
-    ## Loading tidyverse: dplyr
-
-    ## Conflicts with tidy packages ----------------------------------------------
-
-    ## filter(): dplyr, stats
-    ## lag():    dplyr, stats
-
-``` r
-library(dplyr)
-library(lubridate)
-```
-
-    ## 
-    ## Attaching package: 'lubridate'
-
-    ## The following object is masked from 'package:base':
-    ## 
-    ##     date
-
 creating summary tables for voting percentage my age with Ohio data
 -------------------------------------------------------------------
 
 ``` r
-ohio_age_vote <- read_csv("~/Desktop/oh-elections-project/Viz/ohio_age_vote.csv")
-```
+ Ohio_df_lite <- read.csv ("~/Downloads/Ohio_df_lite.csv")
+ 
+ #mutate to make an age variable
+ 
+ Ohio_df_lite <- mutate(Ohio_df_lite, age = 2017 - year(DATE_OF_BIRTH))
+ 
+ ohio_age_vote <- select(Ohio_df_lite, age, GENERAL.11.08.2016) %>% filter(age < 99)
+ #remove ohio_df_lite to save space
+ rm(Ohio_df_lite)
 
-    ## Warning: Missing column names filled in: 'X1' [1]
-
-    ## Parsed with column specification:
-    ## cols(
-    ##   X1 = col_integer(),
-    ##   age = col_integer(),
-    ##   vote = col_character()
-    ## )
-
-``` r
 #rename column names
 colnames(ohio_age_vote) <- c("age", "vote")
 
@@ -104,7 +73,7 @@ colnames(merged) <-c("age", "CCESpercent", "CCESN", "VoterRegPercent", "VoterReg
 
 diff <- mutate(merged, CCESminusVoterReg = CCESpercent-VoterRegPercent)
 
-SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN)+(VoterRegPercent*(1-VoterRegPercent)/VoterRegN))
+SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN)+((VoterRegPercent*(1-VoterRegPercent))/VoterRegN))
 
 ggplot(SEdiff, aes(age, CCESminusVoterReg)) + geom_errorbar(aes(ymin = CCESminusVoterReg - SE, ymax = CCESminusVoterReg + SE))
 ```
