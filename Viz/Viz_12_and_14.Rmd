@@ -48,6 +48,8 @@ colnames(merged12) <-c("age", "CCESpercent", "CCESN", "VoterRegPercent", "VoterR
 
 diff12 <- mutate(merged12, CCESminusVoterReg = CCESpercent-VoterRegPercent)
 
+write_csv(diff12, "diff12.csv")
+
 SEdiff12 <- mutate(diff12, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN + ((VoterRegPercent*(1-VoterRegPercent))/VoterRegN)))
 
 ggplot(SEdiff12, aes(age, CCESminusVoterReg, col = (CCESN + VoterRegN))) + geom_errorbar(aes(ymin = CCESminusVoterReg - SE, ymax = CCESminusVoterReg + SE))
@@ -75,6 +77,8 @@ merged14 <- merge(filteredCCES14, filteredOhio14, by = "age")
 colnames(merged14) <-c("age", "CCESpercent", "CCESN", "VoterRegPercent", "VoterRegN")
 
 diff14 <- mutate(merged14, CCESminusVoterReg = CCESpercent-VoterRegPercent)
+
+write_csv(diff14, "diff14.csv")
 
 SEdiff14 <- mutate(diff14, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN + ((VoterRegPercent*(1-VoterRegPercent))/VoterRegN)))
 

@@ -1,0 +1,34 @@
+---
+title: "Models"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+```
+
+```{r data import, include=FALSE}
+diff12 <- read_csv("~/Desktop/oh-elections-project/csv_files/diff12.csv")
+diff14 <- read_csv("~/Desktop/oh-elections-project/csv_files/diff14.csv")
+diff16 <- read_csv("~/Desktop/oh-elections-project/csv_files/diff14.csv")
+```
+
+```{r model 2012}
+m12 <- glm(CCESminusVoterReg ~ age, data = diff12, family = gaussian())
+summary(m12)
+```
+
+```{r model 2014}
+m14 <- glm(CCESminusVoterReg ~ age, data = diff14, family = gaussian())
+summary(m14)
+```
+
+```{r model 2016}
+m16 <- glm(CCESminusVoterReg ~ age, data = diff16, family = gaussian())
+summary(m16)
+```
+
