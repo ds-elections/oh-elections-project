@@ -1,0 +1,46 @@
+---
+title: "MDSR Wrangling Questions"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(tidyverse)
+library(ggplot2)
+library(lubridate)
+```
+## Wrangling Unruly Data
+There's a lot of data here. Let's start by making information on the year 2012 more managable. 
+
+# Exercise 1
+
+The CCES asks over 400 questions, most of which are irrelevant for comparing to the voter file. Narrow the dataset down to just the pertinent information. This should include the weighting of each participant, the state they live in, whether they're registered to vote, the party they're registered with, and whether they voted in the 2012 election. 
+
+Select for only the Ohio participants.
+
+Next recode the answers so that the table is more legible - it doesn't matter why someone didn't vote so all of those options can be collated into one answer, no.
+
+You should now have a table that looks like this:
+
+```{r CCES import, include=FALSE}
+vote12table <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote12.csv") 
+vote12table <- vote12table %>% select(weight, age, registered, party, voted)
+```
+```{r CCES Table}
+head(vote12table)
+```
+
+# Exercise 2
+
+Now, let's do the same thing with the Ohio voter registration file. There's a lot less here, and we only have Ohio voters but we want to narrow it down to just the general election in 2012 and get rid of any superfluous information like the voter's name or address. 
+
+You'll also want to create an age variable out of birthdate. For this, make sure you have the lubridate package installed.
+
+```{r Ohio Import, include=FALSE}
+Ohio12table <- read.csv ("~/Downloads/Ohio_df_lite.csv")
+Ohio12table <- mutate(Ohio12table, age = 2017 - year(DATE_OF_BIRTH))
+```
+```{r Ohio Table}
+head()
+```
