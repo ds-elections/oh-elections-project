@@ -49,7 +49,8 @@ ggplot(filteredRegistered, aes(age, col = voted)) + geom_density() + ggtitle('De
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-3-2.png)
 
 ``` r
-ggplot(vote16complete, aes(age, fill = voted)) + geom_bar(position = "dodge") + ylab('Total Count') + labs(fill = "Did They Vote?") + ggtitle('Reported Voting Behavior by Age', subtitle = '(Totals)')
+theme_update(plot.title = element_text(hjust = 0.5))
+ggplot(vote16complete, aes(age, fill = voted)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + labs(fill = "Did They Vote?") + ggtitle('Reported Voting Behavior by Age')
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-4-1.png)
@@ -83,7 +84,7 @@ colnames(ohio_age_vote) <- c("age", "vote")
 
 #renaming the NAs. If the column is marked X it is recorded as X, if there is anything else it is changed to O
 ohio_age_vote1 <- mutate(ohio_age_vote, newvote = ifelse(vote %in% "X", "X", "O"))
-
+#what does this do?
 Ohio_summary2 <- ohio_age_vote1 %>% group_by(age) %>% dplyr::summarise(perc = base::mean(newvote == "X"), n())
 ```
 
@@ -123,6 +124,7 @@ colnames(merged) <-c("age", "CCESpercent", "CCESN", "VoterRegPercent", "VoterReg
 
 diff <- mutate(merged, CCESminusVoterReg = CCESpercent-VoterRegPercent)
 
+#lol i dont know what this does I didn't do it but we use SEdiff to graph at the end
 write_csv(diff, "diff16.csv")
 
 SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN + ((VoterRegPercent*(1-VoterRegPercent))/VoterRegN)))
@@ -144,8 +146,8 @@ ggplot(ohio_age_vote, aes(age, fill = vote)) + geom_bar(position = "dodge") + yl
 
 ``` r
 #figuring out which df to use
-
-ggplot(ohio_age_vote1, aes(age, fill = vote)) + geom_bar(position = "dodge") + ylab('Total Count') + labs(fill = "Did They Vote?") + ggtitle('Actual Voting Behavior', subtitle = "(Totals)" )
+theme_update(plot.title = element_text(hjust = 0.5))
+ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + ggtitle('Actual Voting Behavior by Age') + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes"))
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-8-1.png)
