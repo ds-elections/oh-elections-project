@@ -119,6 +119,7 @@ colnames(merged) <-c("age", "CCESpercent", "CCESN", "VoterRegPercent", "VoterReg
 
 diff <- mutate(merged, CCESminusVoterReg = CCESpercent-VoterRegPercent)
 
+#lol i dont know I didn't do this
 write_csv(diff, "diff16.csv")
 
 SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN + ((VoterRegPercent*(1-VoterRegPercent))/VoterRegN)))
