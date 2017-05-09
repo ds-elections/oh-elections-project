@@ -59,7 +59,7 @@ ggplot(vote16complete, aes(age, col = voted)) + geom_density() + ggtitle('Densit
 
 #Next I am going to filter out the voters who did not register, and then visualize density by age
 filteredRegistered <- filter(vote16complete, registered == 'Yes')
-ggplot(filteredRegistered, aes(age, col = voted)) + geom_density() + ggtitle('Density Plot of Reported Voting Behavior by Age ', subtitle =  'Year: 2016 State: Ohio, & excluding unregistered respondents') + labs(col = "Did They Vote?") + scale_color_manual(values=c("blue", "#006400","red"), name="Did They Vote?", breaks=c("NAorMissing", "no", "yes"),  labels=c("NAorMissing", "No", "Yes"))
+ggplot(filteredRegistered, aes(age, col = voted)) + geom_density() + ggtitle('Density Plot of Reported Voting Behavior by Age ', subtitle =  '(excluding unregistered respondents) Year: 2016 State: Ohio') + labs(col = "Did They Vote?") + scale_color_manual(values=c("blue", "#006400","red"), name="Did They Vote?", breaks=c("NAorMissing", "no", "yes"),  labels=c("NAorMissing", "No", "Yes"))
 ```
 
 ```{r}
