@@ -43,14 +43,14 @@ ggplot(vote16complete, aes(age, col = voted)) + geom_density() + ggtitle('Densit
 ``` r
 #Next I am going to filter out the voters who did not register, and then visualize density by age
 filteredRegistered <- filter(vote16complete, registered == 'Yes')
-ggplot(filteredRegistered, aes(age, col = voted)) + geom_density() + ggtitle('Density Plot of Voting Behavior by Age', subtitle =  'excluding unregistered respondents') + labs(col = "Did They Vote?")
+ggplot(filteredRegistered, aes(age, col = voted)) + geom_density() + ggtitle('Density Plot of Reported Voting Behavior by Age ', subtitle =  'Year: 2016 State: Ohio, & excluding unregistered respondents') + labs(col = "Did They Vote?") + scale_color_manual(values=c("blue", "#006400","red"), name="Did They Vote?", breaks=c("NAorMissing", "no", "yes"),  labels=c("NAorMissing", "No", "Yes"))
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-3-2.png)
 
 ``` r
 theme_update(plot.title = element_text(hjust = 0.5))
-ggplot(vote16complete, aes(age, fill = voted)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + labs(fill = "Did They Vote?") + ggtitle('Reported Voting Behavior by Age')
+ggplot(vote16complete, aes(age, fill = voted)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + labs(fill = "Did They Vote?") + ggtitle('Reported Voting Behavior by Age', subtitle =  'Year: 2016 State: Ohio') + scale_fill_manual(values=c("blue", "green","red"), name="Did They Vote?", breaks=c("NAorMissing", "no", "yes"),  labels=c("NAorMissing", "No", "Yes"))
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-4-1.png)
@@ -150,7 +150,7 @@ SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN + ((VoterRe
 ``` r
 #plotting
 ggplot(SEdiff, aes(age, CCESminusVoterReg, col = (CCESN))) + geom_point() + ylab('Reported Voting Behavior - Actual Voting Behavior') + labs(col = "Total Number of Voters by Age") +
-    theme(legend.position="bottom")
+    theme(legend.position="bottom") +ggtitle("Difference Between Reported and Actual Voting Behavior", subtitle =  'Year: 2016 State: Ohio')
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-6-1.png)
@@ -166,14 +166,14 @@ ggplot(ohio_age_vote, aes(age, fill = vote)) + geom_bar(position = "dodge") + yl
 #figuring out which df to use
 theme_update(plot.title = element_text(hjust = 0.5))
 theme_update(plot.subtitle = element_text(hjust = 0.5))
-ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + ggtitle('Actual Voting Behavior by Age') + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes"))
+ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + ggtitle('Actual Voting Behavior by Age (2016)') + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes"))
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
 ``` r
 #this is dumb lol
-ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_density() + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes")) + ggtitle("this is dumb lol")
+ggplot(ohio_age_vote1, aes(age, col = newvote)) + geom_density(alpha = .8) + scale_color_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes")) + ggtitle("Density Plot of Actual Voting Behavior by Age", subtitle =  'Year: 2016 State: Ohio')
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-9-1.png)
