@@ -104,8 +104,10 @@ Ohio_summary2 <- ohio_age_vote1 %>% group_by(age) %>% dplyr::summarise(perc = ba
 ```{r CCES}
 #grabing and summarizing the CCES data
 viz16 <- read_csv("~/oh-elections-project/CCES_Files/vote16_long.csv")
-unweightedviz16 <-read_csv("~/oh-elections-project/CCES_Files/CCES_vote16.csv")
 smallviz16 <- viz16 %>% select(age, voted) %>% group_by(age) %>% summarize(percent_voted = base::mean(voted == "yes"), n())
+unweightedviz16 <-read_csv("~/oh-elections-project/CCES_Files/CCES_vote16.csv")
+
+
 
 #tidying it up so we can merge
 
@@ -144,8 +146,8 @@ ggplot(ohio_age_vote, aes(age, fill = vote)) + geom_bar(position = "dodge") + yl
 ```{r}
 #figuring out which df to use
 theme_update(plot.title = element_text(hjust = 0.5))
-theme_update(plot.subtitle = element_text(hjust = 0.5))
-ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + ggtitle('Actual Voting Behavior by Age (2016)') + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes"))
+
+ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + ggtitle('Actual Voting Behavior by Age', subtitle =  'Year: 2016 State: Ohio') + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes"))
 ```
 
 ```{r}
