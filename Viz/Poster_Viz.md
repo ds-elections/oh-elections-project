@@ -108,6 +108,23 @@ viz16 <- read_csv("~/oh-elections-project/CCES_Files/vote16_long.csv")
     ## )
 
 ``` r
+unweightedviz16 <-read_csv("~/oh-elections-project/CCES_Files/CCES_vote16.csv")
+```
+
+    ## Warning: Missing column names filled in: 'X1' [1]
+
+    ## Parsed with column specification:
+    ## cols(
+    ##   X1 = col_integer(),
+    ##   weight = col_double(),
+    ##   age = col_integer(),
+    ##   voted = col_character(),
+    ##   party = col_character(),
+    ##   registered = col_character(),
+    ##   method_vote = col_character()
+    ## )
+
+``` r
 smallviz16 <- viz16 %>% select(age, voted) %>% group_by(age) %>% summarize(percent_voted = base::mean(voted == "yes"), n())
 
 #tidying it up so we can merge
@@ -132,7 +149,8 @@ SEdiff <- mutate(diff, SE = sqrt((CCESpercent*(1-CCESpercent))/CCESN + ((VoterRe
 
 ``` r
 #plotting
-ggplot(SEdiff, aes(age, CCESminusVoterReg, col = (CCESN + VoterRegN))) + geom_errorbar(aes(ymin = CCESminusVoterReg - SE, ymax = CCESminusVoterReg + SE)) + ylab('Reported Voting Behavior Minus Actual Voting Behavior') + labs(col = "Total Number of Voters by Age") 
+ggplot(SEdiff, aes(age, CCESminusVoterReg, col = (CCESN))) + geom_point() + ylab('Reported Voting Behavior - Actual Voting Behavior') + labs(col = "Total Number of Voters by Age") +
+    theme(legend.position="bottom")
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-6-1.png)
@@ -147,7 +165,15 @@ ggplot(ohio_age_vote, aes(age, fill = vote)) + geom_bar(position = "dodge") + yl
 ``` r
 #figuring out which df to use
 theme_update(plot.title = element_text(hjust = 0.5))
+theme_update(plot.subtitle = element_text(hjust = 0.5))
 ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_bar(position = "dodge") + ylab('Total Count') + xlab("Age") + ggtitle('Actual Voting Behavior by Age') + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes"))
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-8-1.png)
+
+``` r
+#this is dumb lol
+ggplot(ohio_age_vote1, aes(age, fill = newvote)) + geom_density() + scale_fill_manual(values=c("#000000", "#FF0000"), name="Did They Vote?", breaks=c("O", "X"),  labels=c(" No", "Yes")) + ggtitle("this is dumb lol")
+```
+
+![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-9-1.png)
