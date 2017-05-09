@@ -23,7 +23,7 @@ Next recode the answers so that the table is more legible - it doesn't matter wh
 
 You should now have a table that looks like this:
 
-```{r CCES import, include=FALSE}
+```{r CCES Solution, include=FALSE}
 vote12table <- read.csv("~/Desktop/oh-elections-project/CCES_Files/CCES_vote12.csv") 
 vote12table <- vote12table %>% select(weight, age, registered, party, voted)
 ```
@@ -37,10 +37,12 @@ Now, let's do the same thing with the Ohio voter registration file. There's a lo
 
 You'll also want to create an age variable out of birthdate. For this, make sure you have the lubridate package installed.
 
-```{r Ohio Import, include=FALSE}
+```{r Ohio Solution, include=FALSE, cache=TRUE}
 Ohio12table <- read.csv ("~/Downloads/Ohio_df_lite.csv")
-Ohio12table <- mutate(Ohio12table, age = 2017 - year(DATE_OF_BIRTH))
+Ohio12table <- mutate(Ohio12table, age = 2017 - year(DATE_OF_BIRTH)) %>% select(age, PARTY_AFFILIATION, GENERAL.11.06.2012) 
+colnames(Ohio12table) <- c("age", "party", "voted")
+Ohio12table <- mutate(Ohio12table, voted = ifelse(voted %in% "X", "yes", "no"))
 ```
 ```{r Ohio Table}
-head()
+head(Ohio12table)
 ```
