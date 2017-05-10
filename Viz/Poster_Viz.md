@@ -35,7 +35,7 @@ select(weight, age, voted, party, registered, method_vote)
 
 ``` r
 # First visualizaton: visualizing voter density by age
-ggplot(vote16complete, aes(age, col = voted)) + geom_density() + ggtitle('Density Plot of Voting Behavior by Age', subtitle =  'including unregistered respondents') + labs(col = "Did They Vote?")
+ggplot(vote16complete, aes(age, col = voted)) + geom_density() + ggtitle('Density Plot of Voting Behavior by Age', subtitle =  '(excluding unregistered respondents) Year: 2016 State: Ohio') + labs(col = "Did They Vote?") + scale_color_manual(values=c("blue", "#006400","red"), name="Did They Vote?", breaks=c("NAorMissing", "no", "yes"),  labels=c("NAorMissing", "No", "Yes"))
 ```
 
 ![](Poster_Viz_files/figure-markdown_github/unnamed-chunk-3-1.png)
