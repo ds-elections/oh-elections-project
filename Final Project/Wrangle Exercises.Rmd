@@ -33,7 +33,7 @@ Next recode the answers so that the table is more legible - it doesn't matter wh
 You should now have a table that looks like this:
 
 ```{r CCES Solution, include=FALSE}
-CCES12 <- read_tsv("~/Desktop/CCES12.tab") %>% mutate(age = 2017-(birthyr)) %>% select(weight_vv, StateAbbr, age, votereg, CC401, CC403) %>% filter(StateAbbr == "OH") 
+CCES12 <- read_tsv("~/Downloads/CCES12.tab") %>% mutate(age = 2017-(birthyr)) %>% select(weight_vv, StateAbbr, age, votereg, CC401, CC403) %>% filter(StateAbbr == "OH") 
 colnames(CCES12)[1] <- "weight"
 colnames(CCES12)[5] <- "askvote"
 colnames(CCES12)[6] <- "party_ID"
