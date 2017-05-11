@@ -10,7 +10,7 @@ A data project looking at demographical discrepensies in voting in Ohio. By comp
 
 ### Final Deliverables:
 
-The MDSR questions are in a file called Wrangle Exercises. The .md should pull up what it would look like in the book, while the .rmd includes the hidden solution code. 
+The MDSR questions are in a file called Wrangle Exercises in the Final Project folder. The .md should pull up what it would look like in the book, while the .rmd contains the hidden solution code. 
 
 The link to download the CCES12.tab file is https://www.dropbox.com/s/2ngbvcodv1p5y48/CCES12.tab?dl=0
 
