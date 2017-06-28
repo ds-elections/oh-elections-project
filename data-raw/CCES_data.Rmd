@@ -1,0 +1,34 @@
+---
+title: "Cleaned and Tidied CCES Data"
+output: github_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = normalizePath("../"))
+library(tidyverse)
+library(dplyr)
+library(readr)
+```
+Each dataset has over 400 variables. They become increasingly well labeled (12<14<16) but even the 2016 has hundreds of illegible variables. We're going to have to take some time to figure out what each column actually is and whether we need it. Since we're mostly looking at age I suspect we don't need most of the columns but it's going to be a bear to sort through this. Ohio is input state 39.
+```{r data import}
+CCES12 <- read_tsv("data-raw/CCES12_Common_VV.tab") %>% mutate(age = 2017-(birthyr)) %>% select(weight_vv, StateAbbr, age, votereg, CC401, CC403, CC350) %>% filter(StateAbbr == "OH") 
+colnames(CCES12)[1] <- "weight"
+colnames(CCES12)[5] <- "askvote"
+colnames(CCES12)[6] <- "party_ID"
+colnames(CCES12)[7] <- "vote_method"
+write_csv(CCES12, path = "data/CCES12.csv")
+CCES14 <- read_tsv("data-raw/CCES14_Common_Content_Validated.tab") %>% mutate(age = 2017-(birthyr)) %>% select(weight, StateAbbr, age, votereg, pid3, CC401, CC403) %>% filter(StateAbbr == "OH")
+colnames(CCES14)[5] <- "party_ID"
+colnames(CCES14)[6] <- "askvote"
+colnames(CCES14)[7] <- "vote_method"
+write_csv(CCES14, path = "data/CCES14.csv")
+CCES16 <- read_tsv("data-raw/CCES2016_Common_FirstRelease.tab") %>% mutate(age = 2017-(birthyr)) %>% select(commonweight, inputstate, votereg, age, CC16_421a, CC16_401, CC16_403) %>% filter(inputstate == "39")
+colnames(CCES16)[1] <- "weight"
+colnames(CCES16)[5] <- "party_ID"
+colnames(CCES16)[6] <- "askvote"
+colnames(CCES16)[7] <- "vote_method"
+write_csv(CCES16, path = "data/CCES16.csv")
+```
+

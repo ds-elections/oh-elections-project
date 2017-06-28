@@ -1,0 +1,24 @@
+---
+title: "Visualizations"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = normalizePath("../"))
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+```
+
+```{r data import}
+viz16 <- read_csv("data/vote16_long.csv")
+```
+
+```{r play}
+smallviz16 <- viz16 %>% select(age, voted) %>% group_by(age) %>% summarize(percent_voted = mean(voted == "yes"))
+write_csv(smallviz16, "data/smallviz16.csv")
+ggplot(smallviz16, aes(x = age, y = percent_voted)) + geom_line()
+```
+
+

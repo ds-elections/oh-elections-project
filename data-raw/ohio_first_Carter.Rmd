@@ -1,0 +1,39 @@
+---
+title: "Ohio first attempt"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = normalizePath("../"))
+library(readr)
+library(tidyverse)
+library(mdsr)
+library(lubridate)
+```
+
+
+```{r}
+# Download data from here: https://www6.sos.state.oh.us/ords/f?p=111:1
+# save to data-raw folder
+
+wow1 <- read_csv('data-raw/SWVF_1_22.txt', na = c("", "NA"))
+wow2 <- read_csv('data-raw/SWVF_23_44.txt', na = c("", "NA"))
+wow3 <- read_csv('data-raw/SWVF_45_66.txt', na = c("", "NA"))
+wow4 <- read_csv('data-raw/SWVF_67_88.txt', na = c("", "NA"))
+
+# this combines them into one frame
+Ohio_df <- tbl_df(rbind(wow1, wow2, wow3, wow4))
+
+# remove wow1 and wow2 from the environment to free up memory
+rm(wow1, wow2, wow3, wow4)
+
+#this removes columns we aren't using to make it smaller
+Ohio_df_lite <- select(Ohio_df, SOS_VOTERID, COUNTY_ID, DATE_OF_BIRTH, REGISTRATION_DATE, VOTER_STATUS, PARTY_AFFILIATION, RESIDENTIAL_CITY, RESIDENTIAL_STATE, `PRIMARY-03/06/2012`, `GENERAL-11/06/2012`, `PRIMARY-05/06/2014`, `GENERAL-11/04/2014`, `PRIMARY-03/15/2016`, `GENERAL-06/07/2016`, `PRIMARY-09/13/2016`, `GENERAL-11/08/2016` )
+
+#rename columns
+colnames(Ohio_df_lite) <- c('SOS_VOTERID', 'COUNTY_ID', 'DATE_OF_BIRTH', 'REGISTRATION_DATE', 'VOTER_STATUS', 'PARTY_AFFILIATION', 'RESIDENTIAL_CITY', 'RESIDENTIAL_STATE', 'PRIMARY.03.06.2012', 'GENERAL.11.06.2012', 'PRIMARY.05.06.2014', 'GENERAL.11.04.2014', 'PRIMARY.03.15.2016', 'GENERAL.06.07.2016', 'PRIMARY.09.13.2016', 'GENERAL.11.08.2016')
+
+#export as a smaller .csv to save space and make it easier to retrieve in the future 
+write_csv(Ohio_df_lite, "data/Ohio_df_lite.csv")
+```
