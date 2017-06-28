@@ -1,0 +1,2453 @@
+weight,age,voted,party,registered,method_vote
+1.15875566123707,62,yes,Democrat,Yes,In person on election day
+0.340217371305808,51,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.852878510068502,50,yes,Independent,Yes,In person on election day
+0.369225104971249,81,yes,Independent,Yes,In person on election day
+0.555588252887409,74,yes,Democrat,Yes,Voted by mail or absentee
+0.123354282440898,76,yes,Other,Yes,In person on election day
+1.9476310737185,67,yes,Independent,Yes,Voted by mail or absentee
+0.269346377761494,76,yes,Democrat,Yes,Voted by mail or absentee
+2.43134700918459,67,yes,Republican,Yes,In person on election day
+0.291937219643938,75,yes,Other,Yes,In person on election day
+0.214651062363243,59,yes,Other,Yes,In person on election day
+0.852225408206508,48,yes,Democrat,Yes,In person on election day
+0.695961395636729,74,yes,Democrat,Yes,In person early
+3.1817695150276,47,yes,Independent,Yes,Voted by mail or absentee
+0.0923746267556391,55,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+1.06392123652301,60,yes,Independent,Yes,Voted by mail or absentee
+0.378931435910122,54,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.333984075005356,68,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.10787083669215,81,yes,Republican,Yes,In person on election day
+0.478436782497435,65,yes,Republican,Yes,Voted by mail or absentee
+1.65322280390883,62,yes,Democrat,Yes,In person early
+0.108958673542518,52,no,Republican,Yes,Dontknow_skipped_notasked
+0.994115779678123,62,yes,Independent,Yes,Voted by mail or absentee
+1.2442957081567,41,yes,Independent,Yes,In person on election day
+0.503846780973906,32,no,Democrat,Yes,Dontknow_skipped_notasked
+0.236748934720696,54,no,Republican,Yes,Dontknow_skipped_notasked
+0.694609632183828,54,yes,Democrat,Yes,In person on election day
+1.98210284112397,53,yes,Independent,Yes,In person on election day
+0.361983964991589,63,yes,Democrat,Yes,In person on election day
+0.781724329997837,81,yes,Republican,Yes,Voted by mail or absentee
+0.310369089385731,54,yes,Democrat,Yes,In person on election day
+1.38806893331244,36,yes,Democrat,Yes,In person on election day
+2.23847656306707,66,yes,Independent,Yes,Voted by mail or absentee
+0.574891344715469,35,yes,Democrat,Yes,In person on election day
+1.0249526775248,34,no,Independent,Yes,Dontknow_skipped_notasked
+0.951658393154347,38,yes,Democrat,Yes,Voted by mail or absentee
+0.375396702404265,73,yes,Independent,Yes,In person on election day
+1.19477218866641,58,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.683617672894538,60,yes,Independent,Yes,In person early
+0.116579042844407,68,yes,Other,Yes,In person on election day
+0.4894754383748,58,yes,Republican,Yes,In person on election day
+0.853418383776727,68,yes,Republican,Yes,In person on election day
+0.838158877536677,67,no,Independent,Yes,Dontknow_skipped_notasked
+0.776376857796289,83,yes,Democrat,Yes,Voted by mail or absentee
+0.26478427891212,67,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.546964387715958,60,yes,Democrat,Yes,Voted by mail or absentee
+1.08658027308213,73,yes,Democrat,Yes,In person on election day
+1.42658419381315,35,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.171846128637294,73,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.885066913134959,75,yes,Republican,Yes,In person on election day
+0.620122467587389,70,yes,NAorMissing,Yes,Voted by mail or absentee
+0.155057321730208,71,yes,Independent,Yes,In person on election day
+0.518824388160356,74,yes,Democrat,Yes,In person on election day
+0.830321171354588,80,yes,Independent,Yes,In person on election day
+0.853418383776727,71,yes,Republican,Yes,In person on election day
+0.735014043731238,64,yes,Democrat,Yes,In person on election day
+0.523032563886099,52,yes,Democrat,Yes,In person on election day
+3.02828457269341,30,yes,Democrat,Yes,Voted by mail or absentee
+1.34394439843374,64,yes,Democrat,Yes,Voted by mail or absentee
+0.32891231572222,50,yes,Independent,Yes,In person on election day
+0.855402756884051,71,yes,Democrat,Yes,Voted by mail or absentee
+0.198040819189519,57,yes,Democrat,Yes,In person early
+0.589535912203753,69,NAorMissing,Republican,No,Dontknow_skipped_notasked
+1.24274763985536,67,yes,Independent,Yes,In person on election day
+0.367678420353076,62,no,Independent,Yes,Dontknow_skipped_notasked
+1.35593784668859,62,yes,Republican,Yes,Voted by mail or absentee
+1.67462369578904,61,yes,Republican,Yes,In person on election day
+0.511715680239168,66,yes,Democrat,Yes,In person early
+3.54504739916768,77,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.502513100875214,58,yes,Democrat,Yes,In person on election day
+0.225400852531932,59,yes,Democrat,Yes,Voted by mail or absentee
+0.71903046001668,69,yes,Independent,Yes,In person on election day
+0.969957823201523,32,no,Independent,Yes,Dontknow_skipped_notasked
+0.353584916919204,79,yes,Republican,Yes,In person on election day
+0.304832439442422,63,yes,Democrat,Yes,In person early
+2.44806333712771,43,yes,Independent,Yes,In person on election day
+0.41709135962776,77,yes,Democrat,Yes,Voted by mail or absentee
+1.72274449203527,72,yes,Republican,Yes,In person on election day
+2.23847656306707,64,yes,Independent,Yes,In person on election day
+2.62367848929462,54,yes,Independent,Yes,Voted by mail or absentee
+0.754538531316193,56,yes,Republican,Yes,In person on election day
+0.57510262586728,70,yes,Democrat,Yes,In person early
+0.694609632183828,66,yes,Democrat,Yes,In person on election day
+1.33174937735081,60,yes,Independent,Yes,In person on election day
+0.587905997100073,70,yes,Democrat,Yes,In person on election day
+0.309172775736339,68,yes,Democrat,Yes,In person on election day
+0.0635177769075063,37,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.45159803848562,80,yes,Independent,Yes,In person on election day
+0.811300023518701,49,yes,Democrat,Yes,In person on election day
+0.470003591513701,72,yes,Republican,Yes,In person on election day
+1.50801928342198,64,yes,Democrat,Yes,Voted by mail or absentee
+0.6790790341231,59,yes,Democrat,Yes,In person on election day
+1.0835446686342,51,yes,Democrat,Yes,In person on election day
+0.83190960974838,76,yes,Independent,Yes,Voted by mail or absentee
+0.683617672894538,57,yes,Democrat,Yes,In person on election day
+0.34623095459761,57,yes,Democrat,Yes,In person on election day
+0.717657681413249,52,no,Democrat,Yes,In person on election day
+1.04342294161668,71,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.615806933501105,59,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.85950003142458,60,yes,Independent,Yes,Voted by mail or absentee
+1.48795791281983,65,yes,Republican,Yes,In person on election day
+0.546964387715958,65,yes,Democrat,Yes,In person on election day
+1.035782138851,85,yes,Independent,Yes,In person on election day
+0.659000592153276,57,no,Democrat,Yes,Dontknow_skipped_notasked
+1.06392123652301,56,yes,Independent,Yes,In person on election day
+0.565250535826872,72,yes,Democrat,Yes,In person on election day
+0.39285697715821,70,yes,Democrat,Yes,In person on election day
+0.546964387715958,54,yes,Democrat,Yes,Voted by mail or absentee
+0.496466985746836,50,yes,Democrat,Yes,In person on election day
+0.343656663567903,76,yes,Independent,Yes,In person on election day
+0.0731816668357735,66,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+1.9476310737185,62,yes,Independent,Yes,Voted by mail or absentee
+2.95273309504797,22,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+3.07856730818322,38,yes,Democrat,Yes,In person on election day
+0.789173184282181,59,yes,Democrat,Yes,In person on election day
+2.57617074953132,43,no,Independent,Yes,Dontknow_skipped_notasked
+0.491961990215634,65,yes,Democrat,Yes,Voted by mail or absentee
+0.26058662629909,54,yes,Democrat,Yes,In person on election day
+0.738712731883727,56,no,Democrat,Yes,Dontknow_skipped_notasked
+2.05740269226435,80,yes,Republican,Yes,In person on election day
+1.90203009052629,33,yes,Independent,Yes,In person on election day
+0.562424634284554,30,yes,Independent,Yes,In person on election day
+0.466452290488557,71,yes,Independent,Yes,In person on election day
+0.474229141281977,54,yes,Democrat,Yes,Voted by mail or absentee
+0.504633411663319,65,yes,Republican,Yes,Voted by mail or absentee
+0.655103876771786,72,yes,Republican,Yes,In person early
+1.2249052604904,63,yes,Republican,Yes,In person on election day
+1.61618427188146,72,yes,Democrat,Yes,Voted by mail or absentee
+1.41116417567345,58,no,Independent,Yes,Dontknow_skipped_notasked
+1.65322280390883,61,yes,Independent,Yes,Voted by mail or absentee
+0.554225161819485,65,yes,Independent,Yes,Voted by mail or absentee
+0.462099615547734,78,yes,Independent,Yes,In person on election day
+0.387252966037659,78,yes,Independent,Yes,In person on election day
+0.0883388330879029,67,yes,Other,Yes,In person on election day
+11.7120402404845,71,yes,Democrat,Yes,In person on election day
+0.555318002838475,74,no,Independent,Yes,Dontknow_skipped_notasked
+0.396586391005211,81,yes,Democrat,Yes,Voted by mail or absentee
+0.653664562730587,81,yes,Democrat,Yes,In person early
+0.57510262586728,69,yes,Democrat,Yes,In person on election day
+0.447060996749216,53,yes,Democrat,Yes,In person on election day
+1.21328252475084,68,yes,Republican,Yes,In person on election day
+1.01877030749895,62,no,Democrat,Yes,Dontknow_skipped_notasked
+0.175124028016301,58,yes,Other,Yes,In person on election day
+2.00647644802772,47,yes,Republican,Yes,Voted by mail or absentee
+0.631984132405538,57,yes,Democrat,Yes,In person on election day
+0.298935434478014,67,yes,Democrat,Yes,In person on election day
+2.51250347670506,85,yes,Independent,Yes,Voted by mail or absentee
+0.310369089385731,64,yes,Democrat,Yes,In person on election day
+0.482772181038204,56,yes,Republican,Yes,Voted by mail or absentee
+0.671422670623634,60,yes,Independent,Yes,Voted by mail or absentee
+0.39285697715821,73,yes,Democrat,Yes,In person on election day
+1.21633008370976,86,yes,Independent,Yes,In person on election day
+0.245822828082201,47,yes,Democrat,Yes,In person on election day
+2.20059446537673,78,yes,Republican,Yes,Voted by mail or absentee
+2.00721385807732,69,yes,Republican,Yes,In person on election day
+0.94276649981421,57,yes,Democrat,Yes,In person on election day
+1.48795791281983,56,yes,Republican,Yes,In person on election day
+0.762155411150585,31,yes,Democrat,Yes,In person on election day
+0.552986127708172,72,yes,Independent,Yes,In person on election day
+1.85597115565057,64,yes,Republican,Yes,In person on election day
+1.26671866566685,69,yes,Independent,Yes,In person on election day
+1.04337867911454,61,yes,Independent,Yes,In person on election day
+0.576171445325219,67,yes,Independent,Yes,In person on election day
+0.909111529643402,65,yes,Independent,Yes,In person early
+0.827289847044852,74,yes,Republican,Yes,In person on election day
+0.350809568452498,55,yes,Democrat,Yes,In person on election day
+0.310781191219607,30,no,Democrat,Yes,Dontknow_skipped_notasked
+0.819695359960438,57,yes,Democrat,Yes,In person on election day
+0.677751222245203,39,no,Democrat,Yes,Dontknow_skipped_notasked
+1.30667628043228,42,yes,Independent,Yes,Voted by mail or absentee
+0.560749888167612,38,no,Democrat,Yes,Dontknow_skipped_notasked
+1.18530086913767,63,yes,Democrat,Yes,In person on election day
+1.75898848097561,47,yes,Democrat,Yes,In person on election day
+0.840888146184364,52,yes,Republican,Yes,In person on election day
+2.51250347670506,71,yes,Independent,Yes,Voted by mail or absentee
+1.19373970555279,49,yes,Democrat,Yes,Voted by mail or absentee
+0.769073772820107,73,yes,Independent,Yes,In person early
+1.49227529349753,57,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.447060996749216,62,yes,Independent,Yes,Voted by mail or absentee
+0.78362174200447,47,no,Independent,Yes,Dontknow_skipped_notasked
+0.41399172057318,61,yes,Democrat,Yes,In person on election day
+1.45539175931083,73,yes,Republican,Yes,Voted by mail or absentee
+0.289386050513648,76,yes,Democrat,Yes,In person on election day
+0.695961395636729,74,yes,Democrat,Yes,Voted by mail or absentee
+0.735014043731238,61,yes,Democrat,Yes,Voted by mail or absentee
+0.465964888416248,39,yes,Democrat,Yes,In person on election day
+0.194507984484527,57,yes,Democrat,Yes,In person on election day
+0.428422482328656,60,yes,Independent,Yes,In person on election day
+0.443958327361781,50,yes,Independent,Yes,Voted by mail or absentee
+2.27492015926425,43,yes,Republican,Yes,In person on election day
+1.23750462463486,56,yes,Democrat,Yes,In person on election day
+3.00540843864269,41,yes,Democrat,Yes,In person on election day
+0.366577063655106,57,no,Democrat,Yes,In person on election day
+0.452549749786891,71,no,Democrat,Yes,Dontknow_skipped_notasked
+0.702815945039283,66,yes,Democrat,Yes,Voted by mail or absentee
+0.697546690430713,62,yes,Independent,Yes,In person on election day
+0.494429624902191,53,yes,Independent,Yes,Voted by mail or absentee
+0.766279780106419,61,yes,Republican,Yes,In person on election day
+0.165701312127068,62,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.9476310737185,60,yes,Independent,Yes,In person on election day
+0.745029800925044,61,yes,Democrat,Yes,In person on election day
+0.537539767031088,57,yes,Republican,Yes,In person on election day
+0.653664562730587,71,yes,Independent,Yes,Voted by mail or absentee
+0.199829969180333,52,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+3.41886430649336,59,yes,Democrat,Yes,In person on election day
+1.08541064913194,61,yes,Democrat,Yes,In person on election day
+0.0883388330879029,64,yes,Other,Yes,In person on election day
+0.460112361801715,60,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.332171706451593,50,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.56903035341598,37,yes,Democrat,Yes,In person on election day
+0.706035322642523,59,yes,Republican,Yes,In person on election day
+0.800630259200503,77,yes,Republican,Yes,Voted by mail or absentee
+2.23847656306707,63,yes,Independent,Yes,In person on election day
+1.06687301984811,41,yes,Democrat,Yes,In person on election day
+0.233858378177304,65,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.08324516236455,52,yes,Republican,Yes,In person on election day
+1.08324516236455,66,yes,Republican,Yes,In person early
+0.0719630638063651,51,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.718455655041614,64,yes,Democrat,Yes,Voted by mail or absentee
+1.06015527284357,58,yes,Independent,Yes,In person on election day
+0.387252966037659,72,yes,Republican,Yes,In person on election day
+0.182047263345828,41,no,Democrat,Yes,Dontknow_skipped_notasked
+1.24274763985536,57,yes,Republican,Yes,In person on election day
+2.13420515821546,46,yes,Independent,Yes,In person on election day
+1.14854737591125,59,yes,Democrat,Yes,In person on election day
+0.282475448025285,78,yes,Republican,Yes,In person early
+0.15440709631015,71,yes,Other,Yes,In person on election day
+0.470003591513701,78,yes,Republican,Yes,Voted by mail or absentee
+0.398340166416498,53,no,Republican,Yes,Dontknow_skipped_notasked
+0.763610668653302,67,yes,Republican,Yes,In person on election day
+3.2791243668951,52,yes,Republican,Yes,In person on election day
+0.681236490710633,55,yes,Democrat,Yes,In person on election day
+0.132879875750765,23,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.37628331677947,82,yes,Republican,Yes,Voted by mail or absentee
+0.282475448025285,71,yes,Republican,Yes,Voted by mail or absentee
+0.588320797502458,72,yes,Republican,Yes,In person on election day
+0.39285697715821,76,yes,Democrat,Yes,In person on election day
+1.29652663292437,85,yes,Republican,Yes,Voted by mail or absentee
+0.282475448025285,73,yes,Republican,Yes,Voted by mail or absentee
+1.29652663292437,80,yes,Independent,Yes,In person on election day
+1.50483018806991,45,yes,Democrat,Yes,In person on election day
+0.312482454500716,27,yes,Democrat,Yes,Voted by mail or absentee
+1.82285967844048,38,yes,Democrat,Yes,In person on election day
+0.991039956530645,46,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.631984132405538,49,yes,Democrat,Yes,Voted by mail or absentee
+0.607067476646821,64,yes,Republican,Yes,In person early
+0.660461361345609,54,yes,Independent,Yes,Voted by mail or absentee
+2.02735845500008,39,no,Independent,Yes,Dontknow_skipped_notasked
+1.08324516236455,62,yes,Republican,Yes,In person on election day
+0.308318762608708,65,yes,Other,Yes,In person on election day
+1.035782138851,72,yes,Republican,Yes,In person on election day
+0.202886284651031,49,no,Independent,Yes,Dontknow_skipped_notasked
+0.266816531775324,70,no,Democrat,Yes,Dontknow_skipped_notasked
+0.721281700144582,60,no,Independent,Yes,Dontknow_skipped_notasked
+2.12600415631311,42,yes,Democrat,Yes,In person on election day
+1.18871467066168,60,yes,Republican,Yes,In person on election day
+0.939527707203636,65,yes,Democrat,Yes,Voted by mail or absentee
+0.539380894344122,67,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.518824388160356,81,yes,Democrat,Yes,In person on election day
+0.467603237245976,45,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.538577885960156,70,NAorMissing,Other,Yes,In person early
+0.853418383776727,78,yes,Republican,Yes,In person on election day
+0.436531853961186,74,yes,Republican,Yes,In person on election day
+0.434216543130412,78,yes,Republican,Yes,In person early
+0.50258722418836,48,yes,Democrat,Yes,In person on election day
+1.45159803848562,68,yes,Independent,Yes,In person on election day
+0.659000592153276,61,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.378710192617776,71,yes,Republican,Yes,In person on election day
+0.378710192617776,78,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+2.76360455778654,74,yes,Democrat,Yes,Voted by mail or absentee
+2.06939984290851,59,yes,Democrat,Yes,Voted by mail or absentee
+0.123198754994751,71,yes,Independent,Yes,Voted by mail or absentee
+0.168908125354361,79,yes,Democrat,Yes,Voted by mail or absentee
+0.479809603203101,59,yes,Democrat,Yes,In person early
+0.368253593282754,65,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.09112352553213,44,yes,Republican,Yes,In person on election day
+0.995214744514417,54,yes,Democrat,Yes,In person on election day
+0.853418383776727,71,yes,Independent,Yes,In person on election day
+1.06825520743313,75,yes,Republican,Yes,In person on election day
+0.430181426377264,48,yes,Independent,Yes,Voted by mail or absentee
+0.671422670623634,61,yes,Independent,Yes,In person on election day
+0.615279636430058,52,yes,Republican,Yes,In person on election day
+1.55514209970413,54,yes,Democrat,Yes,Voted by mail or absentee
+1.51111648702132,47,yes,Democrat,Yes,In person on election day
+0.694609632183828,61,yes,Democrat,Yes,In person early
+1.035782138851,74,yes,Republican,Yes,In person early
+0.531931409321721,77,yes,Independent,Yes,In person on election day
+0.38691864529553,53,yes,Democrat,Yes,In person early
+0.500045439775781,77,yes,Democrat,Yes,Voted by mail or absentee
+1.15887711700577,68,yes,Democrat,Yes,In person on election day
+1.23679029189888,60,yes,Independent,Yes,In person on election day
+3.77494616662471,62,yes,Democrat,Yes,In person on election day
+0.214651062363243,57,yes,Other,Yes,In person early
+0.476894319798238,79,yes,Democrat,Yes,Voted by mail or absentee
+0.604303711053912,67,yes,Republican,Yes,Voted by mail or absentee
+0.304832439442422,59,yes,Democrat,Yes,In person on election day
+0.691198855409025,62,yes,Republican,Yes,In person on election day
+1.0843091697054,66,yes,Republican,Yes,Voted by mail or absentee
+0.885066913134959,81,yes,Democrat,Yes,In person early
+0.830321171354588,69,yes,Independent,Yes,Voted by mail or absentee
+0.225616045522852,73,yes,Republican,Yes,In person on election day
+2.55047860109213,39,yes,Republican,Yes,In person on election day
+2.38452001175566,38,yes,Republican,Yes,Voted by mail or absentee
+0.128258968287236,49,yes,Democrat,Yes,Voted by mail or absentee
+1.02888520343006,47,no,Democrat,Yes,Dontknow_skipped_notasked
+2.37594991062176,37,yes,Republican,Yes,In person on election day
+1.26671866566685,72,yes,Democrat,Yes,Voted by mail or absentee
+0.802781480006219,66,yes,Democrat,Yes,In person on election day
+0.238714126817022,62,yes,Democrat,Yes,In person on election day
+1.31933061614153,46,no,Republican,Yes,Dontknow_skipped_notasked
+0.441738740969122,59,no,Independent,Yes,In person on election day
+3.77762627277916,30,yes,Republican,Yes,In person early
+0.420496182060883,51,no,Republican,No,Dontknow_skipped_notasked
+1.18871467066168,66,yes,Independent,Yes,In person on election day
+1.07953588812932,44,yes,Republican,Yes,In person on election day
+0.479096397256697,48,yes,Independent,Yes,In person on election day
+0.660913571277032,76,yes,Republican,Yes,In person on election day
+0.866243733412551,52,yes,Independent,Yes,In person on election day
+2.57532668803316,75,yes,Independent,Yes,In person early
+0.870530449822096,48,no,Democrat,Yes,Dontknow_skipped_notasked
+0.468998970304765,64,yes,Independent,Yes,Voted by mail or absentee
+0.853418383776727,75,yes,Republican,Yes,In person early
+0.211894860959595,70,no,Democrat,Yes,Dontknow_skipped_notasked
+0.387252966037659,88,yes,Republican,Yes,Voted by mail or absentee
+0.853418383776727,83,yes,Republican,Yes,Voted by mail or absentee
+0.604303711053912,61,yes,Republican,Yes,In person early
+1.41936690308151,40,yes,Republican,Yes,Voted by mail or absentee
+0.671422670623634,67,yes,Democrat,Yes,In person on election day
+0.69741389231548,61,no,Democrat,Yes,Dontknow_skipped_notasked
+1.21810183960977,65,yes,Republican,Yes,Voted by mail or absentee
+0.457876451658725,48,yes,Democrat,Yes,In person on election day
+1.37628331677947,74,yes,Independent,Yes,Voted by mail or absentee
+0.765860935756739,79,yes,Independent,Yes,In person on election day
+1.16859786174667,93,yes,Republican,Yes,Voted by mail or absentee
+0.298761240424458,22,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.668522367301585,75,yes,Democrat,Yes,Voted by mail or absentee
+2.00721385807732,73,yes,Republican,Yes,Voted by mail or absentee
+0.460956579045503,51,no,Democrat,Yes,Dontknow_skipped_notasked
+0.954241009204728,85,yes,Democrat,Yes,In person on election day
+1.06825520743313,69,yes,Republican,Yes,In person early
+0.538577885960156,74,yes,Republican,Yes,Voted by mail or absentee
+0.587905997100073,70,yes,Democrat,Yes,Voted by mail or absentee
+0.732704781126725,81,yes,Republican,Yes,In person early
+0.360153728336364,65,yes,Democrat,Yes,In person on election day
+1.10987390676439,61,yes,Independent,Yes,In person on election day
+0.777155826567227,60,yes,Democrat,Yes,In person on election day
+0.574608752512407,60,no,Independent,Yes,Dontknow_skipped_notasked
+0.615279636430058,57,yes,Republican,Yes,In person on election day
+0.445805450659565,49,yes,Independent,Yes,In person on election day
+3.12747922651589,43,yes,Democrat,Yes,In person on election day
+0.282475448025285,70,yes,Independent,Yes,In person on election day
+1.5923639270372,35,yes,Democrat,Yes,In person on election day
+1.08142852059744,76,yes,Democrat,Yes,Voted by mail or absentee
+0.665789027276778,70,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.372920250964174,64,yes,Democrat,Yes,In person on election day
+0.304832439442422,66,yes,Republican,Yes,Voted by mail or absentee
+1.29652663292437,77,yes,Independent,Yes,Voted by mail or absentee
+1.035782138851,79,yes,Republican,Yes,In person early
+0.531931409321721,74,yes,Republican,Yes,Voted by mail or absentee
+0.483077049999331,53,yes,Independent,Yes,In person on election day
+1.22511767179522,35,yes,Democrat,Yes,In person on election day
+1.45970022942838,67,yes,Independent,Yes,In person on election day
+0.303062960221158,67,yes,Independent,Yes,In person on election day
+1.15970026317735,68,yes,Republican,Yes,In person on election day
+1.39327128225578,60,yes,Republican,Yes,In person on election day
+0.588320797502458,74,yes,Independent,Yes,In person on election day
+2.22809188371503,40,yes,Independent,Yes,In person on election day
+0.886062696520481,64,yes,Democrat,Yes,In person on election day
+1.20582762923044,61,no,Democrat,Yes,Dontknow_skipped_notasked
+0.695961395636729,70,yes,Democrat,Yes,Voted by mail or absentee
+0.825992145660009,23,yes,Democrat,Yes,Voted by mail or absentee
+0.885066913134959,77,yes,Independent,Yes,Voted by mail or absentee
+2.34989010196214,44,yes,Democrat,Yes,In person on election day
+1.71991725999823,65,yes,Republican,Yes,In person early
+0.802781480006219,58,yes,Democrat,Yes,Voted by mail or absentee
+0.284589977683319,49,yes,Democrat,Yes,In person on election day
+0.508798555089191,54,yes,NAorMissing,Yes,In person on election day
+0.746590139457785,46,yes,Independent,Yes,Voted by mail or absentee
+1.04342294161668,77,no,Independent,Yes,Dontknow_skipped_notasked
+0.460297595767658,63,yes,Independent,Yes,In person on election day
+2.11154008415381,45,yes,Republican,Yes,In person on election day
+0.252047077630355,27,no,Independent,Yes,Dontknow_skipped_notasked
+1.36280833783257,36,no,Democrat,Yes,Dontknow_skipped_notasked
+1.55594295404381,67,yes,Independent,Yes,Voted by mail or absentee
+0.132245522833554,52,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.990953882667631,74,yes,Democrat,Yes,In person on election day
+0.946569958210915,60,yes,Republican,Yes,In person on election day
+0.379355063812464,57,yes,Democrat,Yes,In person on election day
+0.591807110231549,65,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.261311592657155,65,no,Democrat,Yes,Dontknow_skipped_notasked
+0.419668687563507,71,yes,Democrat,Yes,In person on election day
+0.422118987071955,77,yes,Democrat,Yes,Voted by mail or absentee
+1.08125051107419,68,no,Democrat,Yes,Dontknow_skipped_notasked
+1.53583709163481,48,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.88409093047634,39,yes,NAorMissing,Yes,Voted by mail or absentee
+0.865199052069732,59,yes,Independent,Yes,In person on election day
+0.363934907320871,63,yes,Republican,Yes,In person on election day
+10.9083156735122,65,yes,Republican,Yes,In person on election day
+0.428538963659977,27,yes,Democrat,Yes,Voted by mail or absentee
+0.0411301116489187,29,no,Democrat,No,Dontknow_skipped_notasked
+0.392321837808915,63,yes,Democrat,Yes,Voted by mail or absentee
+1.55594295404381,63,yes,Independent,Yes,Voted by mail or absentee
+0.19668861668149001,32,NAorMissing,Independent,No,Dontknow_skipped_notasked
+12.069948784886,80,yes,Republican,Yes,Voted by mail or absentee
+1.48795791281983,65,yes,NAorMissing,Yes,In person on election day
+0.520578689146027,63,no,Democrat,Yes,Dontknow_skipped_notasked
+1.3839991429689,71,yes,Republican,Yes,Voted by mail or absentee
+1.80801273559343,38,yes,Democrat,Yes,In person on election day
+0.327156897308094,85,yes,Democrat,Yes,Voted by mail or absentee
+0.374687277627936,51,yes,Democrat,Yes,In person on election day
+1.84414985238871,77,yes,Independent,Yes,In person on election day
+1.71514694715717,73,yes,Independent,Yes,Voted by mail or absentee
+0.429435134978369,63,yes,Republican,Yes,In person on election day
+0.436203889441482,58,yes,Democrat,Yes,In person on election day
+0.853418383776727,68,yes,Independent,Yes,In person early
+0.702815945039283,64,yes,Democrat,Yes,In person on election day
+0.482772181038204,67,yes,Republican,Yes,In person on election day
+1.72274449203527,77,yes,Republican,Yes,Voted by mail or absentee
+1.9301422164095,71,yes,Independent,Yes,In person on election day
+0.50258722418836,67,yes,Democrat,Yes,In person early
+0.210821918827665,57,yes,Other,Yes,Voted by mail or absentee
+1.7411702110766,56,yes,Democrat,Yes,In person on election day
+2.51250347670506,76,yes,Republican,Yes,In person on election day
+0.622512314823438,82,yes,Republican,Yes,In person on election day
+0.109787963704697,85,yes,Republican,Yes,Voted by mail or absentee
+0.353584916919204,73,yes,Republican,Yes,In person on election day
+1.95279366543562,87,yes,Democrat,Yes,Voted by mail or absentee
+1.47327284296546,68,yes,Republican,Yes,Voted by mail or absentee
+0.406474068678326,51,no,Democrat,Yes,Dontknow_skipped_notasked
+0.808380464830309,68,yes,Democrat,Yes,In person early
+0.587854630074211,30,yes,Democrat,Yes,In person on election day
+0.57510262586728,79,yes,Democrat,Yes,In person on election day
+0.572826651805447,67,yes,Democrat,Yes,In person on election day
+0.254672150865305,68,no,Democrat,Yes,Dontknow_skipped_notasked
+0.929757535448682,77,yes,Democrat,Yes,In person on election day
+0.50258722418836,66,yes,Democrat,Yes,Voted by mail or absentee
+0.835451965606678,68,yes,Independent,Yes,Voted by mail or absentee
+0.779221580695835,70,yes,Republican,Yes,Voted by mail or absentee
+0.756565696571771,68,no,Democrat,Yes,Dontknow_skipped_notasked
+1.48432951709726,27,yes,Republican,Yes,In person on election day
+0.64309890985963,66,yes,Independent,Yes,Voted by mail or absentee
+0.868369281861223,54,yes,Republican,Yes,Voted by mail or absentee
+0.546964387715958,65,yes,Independent,Yes,In person on election day
+2.6196596074854,62,yes,Republican,Yes,In person on election day
+0.367219373428175,65,no,Independent,Yes,Dontknow_skipped_notasked
+0.776132222690609,52,yes,Independent,Yes,In person on election day
+0.901798095553325,67,yes,Democrat,Yes,In person on election day
+7.17148420878418,37,yes,Independent,Yes,In person on election day
+1.47409256264857,60,yes,Republican,Yes,In person on election day
+1.47327284296546,85,yes,Republican,Yes,In person on election day
+0.57608038884123,62,yes,Democrat,Yes,In person early
+0.412021203444936,73,yes,Republican,Yes,In person on election day
+0.836814057127549,77,yes,Republican,Yes,In person on election day
+0.421511022785356,64,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+2.6695655505037,46,no,Republican,Yes,Dontknow_skipped_notasked
+1.12642670584004,40,yes,Democrat,Yes,In person on election day
+0.80797298812019,43,yes,NAorMissing,Yes,In person on election day
+1.93299251271607,45,no,Democrat,Yes,Dontknow_skipped_notasked
+0.172971401958307,73,yes,Democrat,Yes,Voted by mail or absentee
+1.56750781161721,26,yes,Democrat,Yes,In person early
+0.241964455748313,31,yes,Democrat,Yes,Voted by mail or absentee
+0.695961395636729,81,yes,Democrat,Yes,Voted by mail or absentee
+0.30856747123907,63,yes,Independent,Yes,Voted by mail or absentee
+0.701996083623814,51,no,Democrat,Yes,Dontknow_skipped_notasked
+0.631984132405538,55,yes,Democrat,Yes,Voted by mail or absentee
+0.764778624617392,52,yes,Democrat,Yes,In person on election day
+0.694414496805667,53,yes,Republican,Yes,In person on election day
+0.959180609429608,60,yes,Republican,Yes,In person on election day
+1.06392123652301,59,yes,Republican,Yes,In person on election day
+5.02526674185242,25,yes,Democrat,Yes,In person on election day
+0.365798241694998,70,no,Democrat,Yes,Dontknow_skipped_notasked
+0.561674608741625,55,yes,Independent,Yes,Voted by mail or absentee
+0.781621366825088,61,yes,Independent,Yes,In person on election day
+0.519943609603639,48,yes,Democrat,Yes,In person on election day
+2.70220353446415,43,yes,Independent,Yes,Voted by mail or absentee
+0.356163932553075,49,no,Democrat,Yes,Dontknow_skipped_notasked
+1.7580328735326,80,yes,Republican,Yes,Voted by mail or absentee
+0.721881509576423,39,no,Republican,DontKnow,Dontknow_skipped_notasked
+0.413487316213767,58,yes,Democrat,Yes,In person on election day
+0.59062346643466,52,yes,Independent,Yes,In person on election day
+0.624511736169059,83,yes,Republican,Yes,Voted by mail or absentee
+1.29115342438505,81,yes,Independent,Yes,In person early
+0.45699378023818,59,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.615279636430058,60,yes,Republican,Yes,In person on election day
+0.909111529643402,62,yes,Independent,Yes,Voted by mail or absentee
+1.48795791281983,50,yes,Republican,Yes,In person on election day
+1.50736792224262,23,no,Independent,Yes,Dontknow_skipped_notasked
+0.240100185169378,72,yes,Independent,Yes,Voted by mail or absentee
+1.90900623561335,66,yes,Independent,Yes,In person on election day
+0.574891344715469,46,yes,Democrat,Yes,Voted by mail or absentee
+2.37767647819509,69,yes,Democrat,Yes,Voted by mail or absentee
+0.530434656957214,32,yes,Republican,Yes,Voted by mail or absentee
+1.9476310737185,55,yes,Democrat,Yes,Voted by mail or absentee
+0.806739844253037,66,yes,Democrat,Yes,In person on election day
+0.436203889441482,61,yes,Democrat,Yes,In person early
+1.2639028164365,53,no,Independent,Yes,Voted by mail or absentee
+1.73244305102816,49,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.71991725999823,52,yes,Independent,Yes,In person on election day
+0.374974518513558,67,yes,Democrat,Yes,Voted by mail or absentee
+4.59386169993818,89,yes,Democrat,Yes,Voted by mail or absentee
+1.33174937735081,59,yes,Republican,Yes,Voted by mail or absentee
+0.622512314823438,72,yes,Independent,Yes,In person on election day
+1.035782138851,89,yes,Republican,Yes,In person early
+0.788752028187794,74,no,Republican,Yes,Dontknow_skipped_notasked
+0.531931409321721,80,yes,Independent,Yes,In person on election day
+0.622512314823438,75,yes,Republican,Yes,In person on election day
+1.15875566123707,62,yes,Democrat,Yes,In person on election day
+0.671422670623634,63,yes,Independent,Yes,In person on election day
+0.247099009696663,68,yes,Republican,Yes,In person on election day
+0.543097486720808,49,yes,Democrat,Yes,In person on election day
+0.590657834814417,47,no,Independent,Yes,Dontknow_skipped_notasked
+1.485535947224,66,yes,Republican,Yes,In person on election day
+0.872163604893898,69,yes,Independent,Yes,In person early
+0.588320797502458,82,yes,Republican,Yes,In person on election day
+0.588320797502458,71,yes,Independent,Yes,In person on election day
+0.720154310980254,38,yes,Independent,Yes,In person on election day
+1.16669572204761,75,yes,Independent,Yes,In person on election day
+1.15875566123707,67,yes,Democrat,Yes,In person on election day
+0.729281626936373,80,yes,Democrat,Yes,Voted by mail or absentee
+1.13886838997254,46,yes,Democrat,Yes,In person on election day
+0.881430516725706,31,yes,Democrat,Yes,In person on election day
+0.470003591513701,75,yes,Republican,Yes,In person early
+0.622512314823438,72,yes,Republican,Yes,In person on election day
+0.853418383776727,78,yes,Republican,Yes,Voted by mail or absentee
+0.468498033946391,56,yes,Democrat,Yes,In person on election day
+0.418759299500579,89,yes,Independent,Yes,Voted by mail or absentee
+1.21328252475084,73,yes,Independent,Yes,In person on election day
+0.206668811015067,58,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.802484569306056,38,yes,Democrat,Yes,In person on election day
+1.20062155040805,47,yes,Independent,Yes,In person on election day
+3.01485866141292,33,no,Republican,Yes,Dontknow_skipped_notasked
+0.173253147810387,57,yes,Democrat,Yes,In person on election day
+2.29814822829318,27,no,Republican,Yes,In person early
+0.59062346643466,63,yes,Independent,Yes,In person on election day
+0.683617672894538,63,yes,Independent,Yes,In person on election day
+0.973572847575745,79,yes,Independent,Yes,Voted by mail or absentee
+0.696624350090926,64,yes,Democrat,Yes,In person early
+0.491961990215634,64,no,Democrat,Yes,Dontknow_skipped_notasked
+0.46617894620009,35,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.203392748464038,51,yes,Republican,Yes,In person on election day
+6.94929599485417,29,no,Independent,Yes,Dontknow_skipped_notasked
+1.16859786174667,71,yes,Independent,Yes,Voted by mail or absentee
+1.01877030749895,59,no,Independent,Yes,Dontknow_skipped_notasked
+1.9476310737185,59,yes,Republican,Yes,In person on election day
+0.595700980281171,68,yes,Republican,Yes,In person on election day
+0.83190960974838,68,yes,Republican,Yes,In person on election day
+0.835710537408641,66,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.403257474976257,62,yes,Democrat,Yes,In person early
+0.217398059829177,62,yes,Republican,Yes,In person on election day
+0.538577885960156,68,yes,Democrat,Yes,In person on election day
+2.45295681346118,56,yes,Republican,Yes,In person on election day
+1.48795791281983,50,yes,Republican,Yes,In person on election day
+0.759888708187139,53,yes,Republican,Yes,In person on election day
+0.419599040453587,67,yes,Democrat,Yes,In person on election day
+0.987762825848342,54,yes,Independent,Yes,Voted by mail or absentee
+0.537793329251764,64,yes,Democrat,Yes,Voted by mail or absentee
+1.55594295404381,55,yes,Republican,Yes,In person on election day
+0.244519611848205,78,yes,Democrat,Yes,In person on election day
+3.04340655534543,62,yes,Republican,Yes,Voted by mail or absentee
+0.0649224327606192,66,yes,Other,Yes,Voted by mail or absentee
+1.24353382118119,58,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.18530086913767,48,yes,Democrat,Yes,In person on election day
+0.729437602612844,57,yes,Independent,Yes,Voted by mail or absentee
+0.670496694149913,46,yes,Democrat,Yes,In person on election day
+0.562777722482379,63,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.496118923069619,41,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.182283563453575,36,yes,Independent,Yes,In person on election day
+0.44450321142617,64,yes,Independent,Yes,In person early
+9.21447482539809,45,yes,Independent,Yes,Voted by mail or absentee
+1.14854737591125,65,yes,Democrat,Yes,In person on election day
+1.53438191294549,65,yes,Democrat,Yes,In person early
+0.418154218605399,69,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.577007357166737,39,yes,Democrat,Yes,Voted by mail or absentee
+2.31962882097816,57,yes,Republican,Yes,In person on election day
+1.48795791281983,63,yes,Republican,Yes,In person on election day
+1.47327284296546,76,yes,Republican,Yes,In person early
+1.15391984565545,55,yes,Independent,Yes,In person on election day
+1.23750462463486,64,yes,Democrat,Yes,Voted by mail or absentee
+0.947842183984611,47,yes,Democrat,Yes,In person on election day
+2.24874737389244,33,yes,Republican,Yes,In person on election day
+0.992371039046273,65,no,Republican,Yes,Dontknow_skipped_notasked
+0.931501202280545,27,yes,Independent,Yes,Voted by mail or absentee
+1.1431728338288,67,yes,Democrat,Yes,In person on election day
+0.925623657776056,64,yes,Independent,Yes,In person on election day
+1.33174937735081,61,yes,Republican,Yes,Voted by mail or absentee
+0.40938374346216,64,yes,Republican,Yes,Voted by mail or absentee
+0.312832191227127,33,no,Democrat,Yes,Dontknow_skipped_notasked
+0.925623657776056,61,yes,Democrat,Yes,In person on election day
+0.678868613015395,67,yes,Republican,Yes,Voted by mail or absentee
+1.230452569785,36,no,Democrat,Yes,Dontknow_skipped_notasked
+2.19672348271749,30,yes,Democrat,Yes,Voted by mail or absentee
+0.604303711053912,51,yes,Independent,Yes,In person on election day
+1.60734943685485,30,no,Democrat,Yes,Dontknow_skipped_notasked
+1.26671866566685,72,yes,Democrat,Yes,Voted by mail or absentee
+1.58016513863716,73,yes,Democrat,Yes,Voted by mail or absentee
+1.41988854160831,68,yes,Democrat,Yes,In person on election day
+0.101399312184791,60,yes,Other,Yes,In person on election day
+0.347712356918867,52,yes,Republican,Yes,In person on election day
+0.262412178017015,25,no,Democrat,Yes,Dontknow_skipped_notasked
+0.883770404273273,49,yes,Republican,Yes,In person early
+1.04218253574292,71,yes,Democrat,Yes,In person on election day
+3.05552093032891,42,yes,Independent,Yes,In person on election day
+0.702815945039283,50,yes,Democrat,Yes,Voted by mail or absentee
+1.63767409351562,58,yes,NAorMissing,Yes,Voted by mail or absentee
+0.614278138942524,51,yes,Democrat,Yes,In person on election day
+0.449177105315333,68,yes,Independent,Yes,In person on election day
+0.543088933281077,66,no,Democrat,Yes,Dontknow_skipped_notasked
+0.304832439442422,65,yes,Democrat,Yes,In person on election day
+0.878380081724534,32,yes,Democrat,Yes,Voted by mail or absentee
+0.694609632183828,49,yes,Democrat,Yes,In person on election day
+1.68013815575288,47,yes,Independent,Yes,In person on election day
+1.17753178558185,30,yes,Democrat,Yes,In person early
+0.803141977823279,57,yes,Republican,Yes,In person on election day
+1.35593784668859,62,yes,Republican,Yes,In person on election day
+0.622512314823438,83,yes,Independent,Yes,In person on election day
+2.31962882097816,65,yes,Republican,Yes,In person on election day
+2.00721385807732,69,yes,Republican,Yes,In person early
+0.235039313273442,64,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.233858378177304,66,no,Independent,Yes,Dontknow_skipped_notasked
+0.531931409321721,77,yes,Independent,Yes,In person on election day
+0.369225104971249,80,yes,Independent,Yes,In person on election day
+0.490669087060363,47,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.338308222481317,45,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.306115999101145,56,no,Democrat,Yes,Dontknow_skipped_notasked
+0.443217656909297,61,yes,Democrat,Yes,In person on election day
+0.0115684102195296,40,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.721086972533964,49,no,Democrat,Yes,Dontknow_skipped_notasked
+0.808380464830309,68,yes,Democrat,Yes,In person early
+0.793530915963897,71,yes,Independent,Yes,In person on election day
+0.179706428746666,74,yes,Independent,Yes,In person on election day
+0.301677837383144,59,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.950293915422074,45,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.460112361801715,66,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.254484272999071,36,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.518824388160356,68,yes,Democrat,Yes,In person on election day
+0.546964387715958,64,yes,Democrat,Yes,Voted by mail or absentee
+0.556182656998048,47,no,NAorMissing,No,Dontknow_skipped_notasked
+2.45295681346118,55,yes,Republican,Yes,In person on election day
+0.185891368399232,57,yes,Democrat,Yes,In person on election day
+1.0193587184736,61,no,Democrat,Yes,Dontknow_skipped_notasked
+0.920044136239036,58,yes,Democrat,Yes,In person on election day
+1.58348210369681,66,yes,Independent,Yes,Voted by mail or absentee
+1.54801949437629,67,yes,Democrat,Yes,In person on election day
+1.45970022942838,67,yes,Independent,Yes,In person on election day
+0.42191464035135,47,yes,Democrat,Yes,In person on election day
+1.13294220007687,57,yes,Independent,Yes,Voted by mail or absentee
+0.0465116670121575,57,no,Independent,DontKnow,Dontknow_skipped_notasked
+0.410349610460734,59,yes,Independent,Yes,Voted by mail or absentee
+1.39327128225578,56,yes,Republican,Yes,In person on election day
+0.337511413219369,77,yes,Democrat,Yes,Voted by mail or absentee
+0.91426514684134,47,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.47327284296546,70,yes,Republican,Yes,In person on election day
+0.474959532965631,56,yes,Democrat,Yes,Voted by mail or absentee
+5.05525053876425,70,no,Democrat,Yes,Dontknow_skipped_notasked
+2.92847756710969,38,no,Democrat,Yes,Dontknow_skipped_notasked
+0.315798595696576,54,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+1.64928989341722,70,yes,NAorMissing,Yes,Voted by mail or absentee
+0.310369089385731,62,yes,Democrat,Yes,In person on election day
+1.14276045200596,77,yes,Democrat,Yes,In person on election day
+1.17697090780695,27,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.78762142737902,50,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.55160342901983,45,no,Independent,Yes,Dontknow_skipped_notasked
+1.37628331677947,74,yes,Republican,Yes,In person on election day
+1.45158479803226,44,yes,Independent,Yes,In person on election day
+0.41399172057318,67,no,Democrat,Yes,Dontknow_skipped_notasked
+1.08346946156798,71,yes,Democrat,Yes,In person on election day
+1.18372006570305,55,yes,NAorMissing,Yes,In person on election day
+1.08324516236455,64,yes,Independent,Yes,Voted by mail or absentee
+0.293698198923724,54,yes,Independent,Yes,In person on election day
+1.7580328735326,77,yes,Independent,Yes,Voted by mail or absentee
+0.657915782111507,68,yes,Democrat,Yes,In person early
+0.650832556562288,61,yes,Democrat,Yes,In person early
+0.253575283675292,61,no,Democrat,Yes,Dontknow_skipped_notasked
+0.582960950211517,74,yes,Republican,Yes,In person on election day
+2.00721385807732,81,yes,Republican,Yes,Voted by mail or absentee
+0.671422670623634,49,yes,Independent,Yes,In person early
+0.840444473563161,57,yes,Democrat,Yes,Voted by mail or absentee
+1.37628331677947,76,yes,Republican,Yes,Voted by mail or absentee
+0.511715680239168,67,yes,Independent,Yes,Voted by mail or absentee
+0.812596760206935,21,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.792093451208428,38,yes,Democrat,Yes,In person on election day
+0.691198855409025,57,yes,Republican,Yes,In person early
+0.50258722418836,63,yes,Democrat,Yes,Voted by mail or absentee
+8.31163057914163,45,yes,Independent,Yes,In person on election day
+1.6312293799389,51,yes,Independent,Yes,In person on election day
+1.08324516236455,67,yes,Republican,Yes,In person on election day
+0.445805450659565,57,yes,Democrat,Yes,In person on election day
+0.363934907320871,65,yes,Republican,Yes,In person early
+2.80198351789784,59,yes,Independent,Yes,In person on election day
+0.474959532965631,67,yes,Independent,Yes,Voted by mail or absentee
+0.58400686632383,74,yes,Republican,Yes,In person on election day
+0.870530449822096,59,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.483349464396654,65,NAorMissing,Republican,No,Dontknow_skipped_notasked
+5.70173979769069,68,yes,Democrat,Yes,In person early
+0.901798095553325,66,yes,Democrat,Yes,In person on election day
+2.00721385807732,78,yes,Republican,Yes,Voted by mail or absentee
+2.23847656306707,54,yes,Republican,Yes,In person on election day
+0.912622429107195,66,yes,Republican,Yes,In person on election day
+1.07206531866754,45,yes,Independent,Yes,In person on election day
+2.01793157555626,27,no,Independent,Yes,Dontknow_skipped_notasked
+0.207798831710383,58,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.706035322642523,67,yes,Republican,Yes,Voted by mail or absentee
+4.64562432007303,37,yes,Democrat,Yes,Voted by mail or absentee
+0.498738247705116,54,yes,Independent,Yes,In person on election day
+3.2791243668951,64,yes,Republican,Yes,Voted by mail or absentee
+0.695961395636729,79,yes,Democrat,Yes,Voted by mail or absentee
+0.235652615910244,57,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.419668687563507,74,yes,Democrat,Yes,In person on election day
+0.538724817835855,59,yes,NAorMissing,Yes,In person on election day
+2.00721385807732,77,yes,Republican,Yes,In person on election day
+0.431442703828184,42,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.991303772636213,47,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.64928989341722,68,yes,Democrat,Yes,In person early
+0.811885558258255,46,no,Republican,Yes,Dontknow_skipped_notasked
+1.37745370577116,67,yes,Independent,Yes,In person on election day
+1.73222217887604,21,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.513604596017025,30,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.4827167637193,49,yes,Independent,Yes,In person on election day
+0.492318049265006,68,yes,Democrat,Yes,In person on election day
+0.853491520531882,69,yes,Independent,Yes,Voted by mail or absentee
+1.39327128225578,63,yes,Republican,Yes,In person on election day
+0.323604596546512,71,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.20806758155028,35,yes,Republican,Yes,In person on election day
+1.0193587184736,59,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.08324516236455,58,yes,Republican,Yes,In person on election day
+1.05682664798653,63,yes,Democrat,Yes,Voted by mail or absentee
+1.24274763985536,62,yes,Republican,Yes,In person on election day
+0.411770462105401,61,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.200354409191952,66,yes,Democrat,Yes,In person on election day
+1.16947783443675,49,yes,Democrat,Yes,In person on election day
+0.517099253948082,39,no,Independent,Yes,Dontknow_skipped_notasked
+2.00721385807732,70,yes,Republican,Yes,In person on election day
+2.23847656306707,67,yes,Republican,Yes,In person on election day
+0.383315085418647,61,yes,Democrat,Yes,In person on election day
+0.604303711053912,64,yes,Republican,Yes,In person on election day
+0.310369089385731,66,yes,Democrat,Yes,Voted by mail or absentee
+0.348589121253432,70,yes,Democrat,Yes,Voted by mail or absentee
+3.89952238802081,30,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.37628331677947,71,yes,Democrat,Yes,In person on election day
+1.1659943457777,28,yes,Republican,Yes,In person early
+1.09505777543636,60,yes,Republican,Yes,Voted by mail or absentee
+1.26671866566685,71,yes,Independent,Yes,In person on election day
+0.446390873969237,50,yes,Independent,Yes,In person on election day
+0.835399153295442,56,yes,Independent,Yes,In person on election day
+1.08254422764512,67,yes,Democrat,Yes,Voted by mail or absentee
+1.07487694301205,68,yes,Democrat,Yes,In person on election day
+1.33174937735081,61,yes,Republican,Yes,Voted by mail or absentee
+0.399357600236255,66,yes,Democrat,Yes,In person on election day
+1.9476310737185,55,yes,Independent,Yes,Voted by mail or absentee
+2.43134700918459,61,yes,Independent,Yes,In person on election day
+0.615279636430058,62,yes,Republican,Yes,In person on election day
+0.482772181038204,65,yes,Republican,Yes,Voted by mail or absentee
+0.432738385844729,58,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.925623657776056,50,yes,Republican,Yes,Voted by mail or absentee
+1.8217674417309,70,yes,Republican,Yes,Voted by mail or absentee
+0.406673972355485,35,yes,Democrat,Yes,In person on election day
+0.499890609565294,64,yes,Democrat,Yes,Voted by mail or absentee
+0.204596902092067,76,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.6090566725226,69,yes,Democrat,Yes,Voted by mail or absentee
+1.25639534979632,29,yes,Independent,Yes,In person on election day
+1.6312293799389,61,yes,Independent,Yes,Voted by mail or absentee
+0.840019453074808,45,yes,Democrat,Yes,In person on election day
+0.356231751533279,60,yes,Democrat,Yes,In person on election day
+0.349083976162987,70,yes,Democrat,Yes,Voted by mail or absentee
+0.403809715703692,51,yes,Democrat,Yes,Voted by mail or absentee
+2.17201857251258,54,yes,Independent,Yes,In person on election day
+0.671422670623634,58,yes,Independent,Yes,Voted by mail or absentee
+0.64240784390476,34,no,Democrat,Yes,Dontknow_skipped_notasked
+1.18461667031048,61,yes,Republican,Yes,In person on election day
+0.98277512236559,46,NAorMissing,Independent,No,Dontknow_skipped_notasked
+2.07756507035934,63,yes,Independent,Yes,In person on election day
+1.46387845676115,48,yes,Republican,Yes,In person on election day
+2.40609674442337,30,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.271154314435079,58,yes,Democrat,Yes,In person on election day
+2.0923490710028,61,yes,Independent,No,In person on election day
+0.992168289481807,63,yes,NAorMissing,Yes,In person on election day
+0.730594508824265,46,no,NAorMissing,Yes,Dontknow_skipped_notasked
+8.20432395868221,35,no,Democrat,Yes,Dontknow_skipped_notasked
+0.990953882667631,68,yes,NAorMissing,Yes,Voted by mail or absentee
+0.304832439442422,62,yes,Democrat,Yes,In person on election day
+2.00721385807732,71,yes,Republican,Yes,Voted by mail or absentee
+0.353383761100495,55,yes,Independent,Yes,In person on election day
+2.80198351789784,59,yes,Republican,Yes,Voted by mail or absentee
+0.694609632183828,66,yes,Democrat,Yes,In person early
+0.283613726415462,43,NAorMissing,Independent,No,Dontknow_skipped_notasked
+2.23847656306707,61,yes,Republican,Yes,Voted by mail or absentee
+0.630452157771856,61,yes,Democrat,Yes,Voted by mail or absentee
+1.16281735417564,38,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.434916109947736,44,yes,Democrat,Yes,Voted by mail or absentee
+3.00540843864269,43,yes,Democrat,Yes,Voted by mail or absentee
+1.59613514847445,63,no,Democrat,Yes,Dontknow_skipped_notasked
+0.19668861668149001,31,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.702815945039283,58,yes,Democrat,Yes,In person on election day
+3.45258622417131,32,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.949438633072567,62,yes,Republican,Yes,In person on election day
+2.07756507035934,60,yes,Independent,Yes,In person on election day
+2.19839822540453,40,no,Independent,Yes,Dontknow_skipped_notasked
+1.23340704276686,43,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.72274449203527,81,yes,Republican,Yes,In person early
+0.483586189223339,66,yes,Independent,Yes,In person on election day
+0.671422670623634,64,yes,Democrat,Yes,Voted by mail or absentee
+1.42938438281448,41,no,Republican,Yes,Dontknow_skipped_notasked
+1.25199504545156,32,yes,Independent,Yes,In person on election day
+1.34557178733688,27,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.55594295404381,67,yes,Independent,Yes,Voted by mail or absentee
+0.695554536855904,47,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.77635499596963,42,yes,Democrat,Yes,Voted by mail or absentee
+1.45539175931083,86,yes,Republican,Yes,In person on election day
+0.718455655041614,51,yes,Democrat,Yes,In person on election day
+0.445805450659565,60,yes,Democrat,Yes,Voted by mail or absentee
+0.572164637131153,49,no,Independent,Yes,Dontknow_skipped_notasked
+0.615279636430058,58,yes,Republican,Yes,In person on election day
+1.35041718095879,60,yes,Independent,Yes,In person on election day
+0.929757535448682,80,yes,Republican,Yes,Voted by mail or absentee
+1.33776106573925,25,no,Democrat,Yes,Dontknow_skipped_notasked
+0.759888708187139,48,yes,Republican,Yes,Voted by mail or absentee
+0.808672180744218,67,yes,Republican,Yes,In person on election day
+1.05234847119263,76,yes,Republican,Yes,In person on election day
+0.227261668061634,61,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.0372077808835279,60,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.24491406520808,49,yes,Independent,Yes,Voted by mail or absentee
+0.197687874224683,28,no,Independent,Yes,Dontknow_skipped_notasked
+1.31279089481869,80,yes,Republican,Yes,In person early
+0.51932533057299,60,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.157471784796049,54,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.165105642777386,49,no,Independent,Yes,Dontknow_skipped_notasked
+0.406474068678326,63,no,Independent,Yes,Dontknow_skipped_notasked
+1.32586095084313,27,yes,Independent,Yes,In person on election day
+0.330330874738487,62,yes,Democrat,Yes,In person on election day
+0.312832191227127,40,no,NAorMissing,DontKnow,Dontknow_skipped_notasked
+0.330330874738487,60,yes,Democrat,Yes,Voted by mail or absentee
+1.02809939343218,56,yes,Independent,Yes,In person on election day
+0.702815945039283,64,yes,Independent,Yes,In person on election day
+0.425123411170718,56,yes,Republican,Yes,In person on election day
+0.264698225466186,64,yes,Democrat,Yes,In person on election day
+0.113933516215707,45,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.720670734873339,49,no,Republican,Yes,Dontknow_skipped_notasked
+0.409908653959277,45,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.910850137925215,33,yes,Democrat,Yes,Voted by mail or absentee
+0.421046818388547,65,yes,Independent,Yes,In person on election day
+0.937846090445191,32,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.992051487718756,30,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.235039313273442,59,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.946214565690331,32,yes,NAorMissing,Yes,In person on election day
+1.15391984565545,54,yes,Independent,Yes,In person on election day
+0.14804849702564,31,yes,Democrat,Yes,In person on election day
+1.24906980672089,45,yes,Democrat,Yes,In person on election day
+0.598707619768665,60,yes,Independent,Yes,In person on election day
+0.755516681560057,56,yes,Democrat,Yes,Voted by mail or absentee
+1.14854737591125,65,yes,Democrat,Yes,In person on election day
+1.29252010929034,59,yes,Republican,Yes,In person on election day
+1.37473305598896,52,yes,Democrat,Yes,Voted by mail or absentee
+0.985628568598063,59,no,Democrat,DontKnow,Dontknow_skipped_notasked
+0.615806933501105,67,no,Independent,Yes,Dontknow_skipped_notasked
+4.04214901407972,32,yes,Democrat,Yes,In person on election day
+5.06931484364174,40,yes,Republican,Yes,Voted by mail or absentee
+0.758562096637943,64,yes,Independent,Yes,In person on election day
+1.65076012107913,22,yes,Independent,No,In person on election day
+0.427037471417627,63,no,Democrat,Yes,Dontknow_skipped_notasked
+1.0193587184736,59,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+2.24874737389244,38,yes,Republican,Yes,In person on election day
+1.0843091697054,58,yes,Republican,Yes,In person on election day
+0.106516498817175,58,yes,Other,Yes,In person on election day
+1.48595030893953,41,yes,Republican,Yes,Voted by mail or absentee
+1.01224473787797,62,yes,Republican,Yes,Voted by mail or absentee
+0.330330874738487,67,yes,Democrat,Yes,In person early
+1.73244305102816,52,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.33784009471722,51,yes,Independent,Yes,In person early
+0.201412701138162,68,yes,Independent,Yes,In person on election day
+1.27805779529019,46,yes,NAorMissing,Yes,In person on election day
+1.45539175931083,76,yes,Republican,Yes,In person on election day
+1.63070411117013,29,yes,NAorMissing,Yes,In person on election day
+0.240578366312574,75,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.360412369917649,35,yes,Democrat,Yes,Voted by mail or absentee
+0.946378390797245,65,yes,Republican,Yes,In person on election day
+0.552719591689785,37,no,Independent,Yes,Dontknow_skipped_notasked
+0.730594508824265,40,no,NAorMissing,Yes,Dontknow_skipped_notasked
+2.41428006401536,60,yes,Democrat,Yes,In person on election day
+0.14813428731152,51,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.680752091775894,34,yes,Democrat,Yes,Voted by mail or absentee
+1.08324516236455,67,yes,Independent,Yes,In person on election day
+0.988059374425435,58,yes,Democrat,Yes,Voted by mail or absentee
+0.692551308372141,58,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.839885682753222,29,yes,Independent,Yes,In person on election day
+0.575758930557117,56,no,Independent,Yes,Dontknow_skipped_notasked
+0.446819483794283,35,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.811206809248066,48,yes,Democrat,Yes,Voted by mail or absentee
+14.817321129296,22,yes,Democrat,Yes,Voted by mail or absentee
+0.826526338649096,35,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.46617894620009,45,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.668411250354518,31,yes,Republican,Yes,In person on election day
+0.241793235920259,68,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.586060818113138,81,yes,Democrat,Yes,In person on election day
+1.12642670584004,46,yes,Democrat,Yes,In person early
+0.51251557590129,58,yes,Democrat,Yes,Voted by mail or absentee
+0.930223424180111,30,no,Democrat,No,Dontknow_skipped_notasked
+1.26688033948875,46,yes,Independent,Yes,In person on election day
+0.165105642777386,53,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.0965505165858,59,yes,Independent,Yes,Voted by mail or absentee
+0.849661071555193,26,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.53328034463766,64,no,Independent,Yes,Dontknow_skipped_notasked
+0.0834005797230105,62,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.667640776452859,67,yes,Independent,Yes,In person on election day
+0.0727958125495447,59,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.482763774389953,47,yes,Independent,Yes,In person on election day
+1.32003504314785,43,yes,Independent,Yes,In person on election day
+0.650144379237592,71,yes,Democrat,Yes,In person on election day
+0.199829969180333,66,no,Independent,Yes,Dontknow_skipped_notasked
+0.308249920909254,26,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.0719200660843827,66,no,Democrat,Yes,Dontknow_skipped_notasked
+1.02144322238746,64,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.28947773051781,35,yes,Democrat,Yes,Voted by mail or absentee
+0.0859386389269957,26,yes,NAorMissing,Yes,In person on election day
+0.192631033886707,96,yes,Democrat,Yes,Voted by mail or absentee
+3.29711929556914,45,yes,Republican,Yes,In person on election day
+2.43134700918459,58,yes,NAorMissing,Yes,In person on election day
+0.455971259529353,56,yes,Democrat,Yes,Voted by mail or absentee
+2.18355202037107,32,yes,Republican,Yes,In person on election day
+3.37354357544847,71,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+2.28785774839159,44,no,Democrat,Yes,Dontknow_skipped_notasked
+1.71396281487378,35,no,Democrat,Yes,Dontknow_skipped_notasked
+0.165105642777386,59,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.650893230226791,45,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.166124763110204,28,yes,NAorMissing,Yes,Voted by mail or absentee
+2.20441233075868,34,yes,Democrat,Yes,In person on election day
+0.313173040892779,50,no,Democrat,Yes,Dontknow_skipped_notasked
+1.27024177155982,66,yes,Democrat,Yes,In person on election day
+1.49907823859345,62,yes,Independent,Yes,Voted by mail or absentee
+0.363164476704331,60,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.16077303388679,38,yes,Democrat,Yes,In person on election day
+0.481141116360794,53,yes,Independent,Yes,Voted by mail or absentee
+0.173541871934828,36,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.527539145500899,30,no,Republican,Yes,Dontknow_skipped_notasked
+1.05682664798653,55,yes,Democrat,Yes,Voted by mail or absentee
+0.438234268257363,58,yes,Republican,Yes,In person on election day
+0.333984075005356,69,yes,NAorMissing,Yes,Voted by mail or absentee
+1.21865697295593,79,yes,Independent,Yes,In person on election day
+0.31863607710509,66,yes,Democrat,Yes,Voted by mail or absentee
+1.28107314181153,44,yes,Independent,Yes,Voted by mail or absentee
+0.866891967230829,65,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+4.01366852916042,47,yes,Independent,Yes,Voted by mail or absentee
+0.199829969180333,50,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.428267387980327,55,no,NAorMissing,No,Dontknow_skipped_notasked
+1.19751876858461,44,yes,Independent,Yes,In person on election day
+0.758651828909824,65,yes,Independent,Yes,In person on election day
+1.88766421973736,62,yes,Independent,Yes,Voted by mail or absentee
+2.10001577769096,66,yes,Republican,Yes,In person on election day
+0.752721885040368,53,yes,Republican,Yes,In person on election day
+1.92917512403028,27,yes,Democrat,Yes,In person on election day
+0.826657661297465,80,yes,Republican,Yes,Voted by mail or absentee
+0.187770552824916,62,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.26627886509494,35,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.98192924220244,63,yes,Democrat,Yes,In person on election day
+0.808835873448615,53,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+4.17162496174138,64,yes,Republican,Yes,In person on election day
+2.6394467119623,31,yes,Independent,Yes,In person on election day
+0.482750684407076,68,no,Democrat,Yes,Dontknow_skipped_notasked
+0.367366976508353,61,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.74187534978423,74,no,Republican,Yes,Dontknow_skipped_notasked
+0.664943619460997,71,yes,Democrat,Yes,Voted by mail or absentee
+0.868549088376845,73,yes,Democrat,Yes,In person on election day
+0.706605813987925,56,yes,Republican,Yes,In person on election day
+0.631984132405538,66,yes,Democrat,Yes,Voted by mail or absentee
+2.28095623808252,66,yes,Democrat,Yes,Voted by mail or absentee
+0.530826252486266,70,yes,Independent,Yes,Voted by mail or absentee
+2.17201857251258,66,yes,Republican,Yes,In person on election day
+0.804125546850986,44,no,Republican,Yes,Dontknow_skipped_notasked
+0.703611074641286,31,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.433120707987313,27,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.80606960079515,65,yes,Democrat,Yes,In person on election day
+1.15864207356581,33,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.149580873441025,50,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.260329512197937,55,no,Democrat,Yes,Dontknow_skipped_notasked
+0.387171324643806,62,yes,Independent,Yes,In person early
+0.875864317514876,22,yes,Democrat,Yes,Voted by mail or absentee
+0.995296678240796,47,yes,Democrat,Yes,In person on election day
+0.595700980281171,68,yes,Republican,Yes,Voted by mail or absentee
+0.177431386558194,74,yes,Democrat,Yes,In person on election day
+0.233858378177304,55,no,Independent,Yes,Dontknow_skipped_notasked
+1.9456575068468,43,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.901798095553325,52,yes,Democrat,Yes,In person early
+0.547233253508825,58,yes,Republican,Yes,In person on election day
+0.457543099647307,34,yes,Democrat,Yes,Voted by mail or absentee
+0.121352777042712,70,no,Democrat,Yes,Dontknow_skipped_notasked
+0.428267764369104,75,yes,Republican,Yes,Voted by mail or absentee
+1.2047414986673,50,yes,Democrat,Yes,In person on election day
+0.84954930550511,42,yes,Republican,Yes,In person on election day
+0.508230325404608,63,yes,Democrat,Yes,In person on election day
+0.335779955088304,75,yes,Republican,Yes,In person on election day
+0.745296204466166,59,no,Democrat,Yes,Dontknow_skipped_notasked
+0.235039313273442,60,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.0754162332237434,48,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.164078424549943,31,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.948769223579123,61,yes,Democrat,Yes,In person on election day
+0.170114617681026,63,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.750398203097559,77,yes,Independent,Yes,Voted by mail or absentee
+0.615279636430058,59,yes,Independent,Yes,In person on election day
+0.296122673400311,48,yes,Democrat,Yes,In person on election day
+0.280116187084201,31,yes,Democrat,Yes,In person on election day
+0.570493290947899,64,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.720670734873339,49,no,Independent,Yes,Dontknow_skipped_notasked
+0.25013452866272,52,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.614405332769037,68,yes,Democrat,Yes,In person on election day
+0.365338057949065,59,yes,Independent,Yes,In person on election day
+0.0451694637234808,29,yes,NAorMissing,DontKnow,Voted by mail or absentee
+1.7580328735326,77,yes,Independent,Yes,In person on election day
+2.09603046191914,50,yes,Republican,Yes,Voted by mail or absentee
+2.21274802921884,44,no,Independent,Yes,Dontknow_skipped_notasked
+0.18616310478998,29,no,Republican,Yes,Dontknow_skipped_notasked
+1.08719486738008,70,yes,Democrat,Yes,Voted by mail or absentee
+0.793530915963897,75,yes,Republican,Yes,In person on election day
+9.03047546960241,59,yes,Republican,Yes,In person on election day
+0.210879413787784,56,no,Democrat,Yes,Dontknow_skipped_notasked
+0.150413026403725,34,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.993064621541059,82,yes,Independent,Yes,In person on election day
+0.293458485636002,75,yes,Democrat,Yes,In person on election day
+0.199829969180333,57,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.781589563887228,61,yes,Republican,Yes,Voted by mail or absentee
+0.0805451006810498,57,no,Other,Yes,Dontknow_skipped_notasked
+0.590657834814417,46,no,Democrat,Yes,Dontknow_skipped_notasked
+0.730232975756707,45,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.67462369578904,57,yes,Independent,Yes,In person on election day
+0.360631694802951,61,yes,Democrat,No,In person on election day
+0.543701296213926,31,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.0692527951622604,48,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.737274493671937,54,yes,Democrat,Yes,In person on election day
+0.543701296213926,32,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.0415757869592229,61,no,Democrat,Yes,Dontknow_skipped_notasked
+0.149448620692827,40,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.32456722251299,34,yes,Democrat,Yes,In person on election day
+2.24176651370127,55,yes,Republican,Yes,In person on election day
+0.874896492355702,60,yes,Independent,Yes,In person on election day
+0.49500609841919,71,yes,Republican,Yes,Voted by mail or absentee
+0.113933516215707,38,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.50803603512718,61,yes,Republican,Yes,In person early
+0.327016484436612,48,no,Independent,Yes,Dontknow_skipped_notasked
+0.946569958210915,67,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.838205795270124,55,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.367366976508353,63,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.735014043731238,55,yes,Democrat,Yes,In person on election day
+1.78754149840839,37,yes,Independent,Yes,In person on election day
+0.526042251723866,66,no,Democrat,Yes,Dontknow_skipped_notasked
+0.703611074641286,27,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.16859786174667,77,yes,Republican,Yes,In person early
+1.08324516236455,48,yes,Republican,Yes,In person on election day
+0.266942501626617,63,yes,Democrat,Yes,In person on election day
+1.21525870604381,30,yes,Democrat,Yes,Voted by mail or absentee
+0.520578689146027,60,no,Democrat,Yes,Dontknow_skipped_notasked
+1.48011257445553,54,yes,Independent,Yes,In person on election day
+0.284471795981716,49,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.717941644163184,56,no,Republican,Yes,Dontknow_skipped_notasked
+1.88116176111437,46,yes,Independent,Yes,In person on election day
+0.034958721889214,32,NAorMissing,Republican,No,Dontknow_skipped_notasked
+1.08541064913194,61,yes,Democrat,Yes,Voted by mail or absentee
+0.599907519542661,46,no,NAorMissing,No,Dontknow_skipped_notasked
+0.77473295975009,93,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.60544660501697,64,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.0603940019097971,62,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.30005761701375,56,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.602445319711143,60,yes,Republican,Yes,In person on election day
+3.79023571652634,59,yes,Democrat,Yes,In person on election day
+0.240951365753728,60,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.10576183757378,54,yes,Democrat,Yes,Voted by mail or absentee
+0.445823505659591,65,no,Independent,Yes,Dontknow_skipped_notasked
+0.147195107190676,80,yes,Independent,Yes,In person on election day
+0.444979688657734,27,yes,Republican,Yes,In person on election day
+0.350564990291748,31,no,Independent,Yes,Dontknow_skipped_notasked
+0.217000597241138,58,no,Democrat,Yes,Dontknow_skipped_notasked
+0.481614402215692,77,yes,Democrat,Yes,In person on election day
+2.02287424607295,38,yes,NAorMissing,Yes,In person on election day
+1.55139789979047,65,yes,Independent,Yes,Voted by mail or absentee
+0.699192425853799,58,yes,Democrat,Yes,Voted by mail or absentee
+0.227261668061634,53,no,NAorMissing,DontKnow,Dontknow_skipped_notasked
+0.250790989531208,53,yes,Independent,Yes,In person early
+0.793170909501778,51,yes,Democrat,Yes,In person on election day
+0.56311032790952,55,no,Democrat,Yes,Dontknow_skipped_notasked
+0.662890790189586,71,yes,Republican,Yes,In person on election day
+0.808672180744218,63,yes,Republican,Yes,Voted by mail or absentee
+0.62204926156657,27,yes,Democrat,Yes,In person on election day
+0.683617672894538,63,yes,Democrat,Yes,In person on election day
+0.330330874738487,48,yes,Democrat,Yes,In person on election day
+0.884299036838753,29,no,Independent,Yes,Dontknow_skipped_notasked
+1.0193587184736,55,no,Democrat,Yes,In person on election day
+0.258640335922645,36,yes,Independent,Yes,In person on election day
+0.306493189055533,28,no,NAorMissing,Yes,Dontknow_skipped_notasked
+4.0719560157882,46,no,Republican,Yes,In person on election day
+2.21366729900589,34,yes,Democrat,Yes,Voted by mail or absentee
+1.31279089481869,70,yes,Republican,Yes,In person on election day
+0.357072216007369,60,yes,Democrat,Yes,In person on election day
+0.948017604682323,45,no,Democrat,Yes,Dontknow_skipped_notasked
+1.56835158163474,35,yes,Independent,Yes,In person on election day
+0.233858378177304,62,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.217329487213582,57,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.660340168455515,29,no,Republican,Yes,Dontknow_skipped_notasked
+0.705512645434729,69,no,Democrat,Yes,Dontknow_skipped_notasked
+0.371365226886489,44,no,Independent,Yes,Dontknow_skipped_notasked
+0.597243371742625,63,yes,Democrat,Yes,In person on election day
+0.781724329997837,68,yes,Republican,Yes,Voted by mail or absentee
+0.486045543393666,58,yes,Independent,Yes,Voted by mail or absentee
+1.6312293799389,54,yes,Republican,Yes,In person early
+0.287176032719129,35,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.705512645434729,70,no,Republican,Yes,Dontknow_skipped_notasked
+0.328315616494361,58,yes,Democrat,Yes,Voted by mail or absentee
+0.406090417035496,49,yes,Democrat,Yes,In person on election day
+0.553065046753243,63,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.03595442384263,39,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.8217674417309,78,yes,Republican,Yes,In person on election day
+0.140991325109481,30,no,Democrat,Yes,Dontknow_skipped_notasked
+0.426251719734767,61,no,Independent,Yes,Dontknow_skipped_notasked
+0.113933516215707,33,NAorMissing,NAorMissing,DontKnow,Dontknow_skipped_notasked
+1.0193587184736,53,no,Democrat,Yes,Dontknow_skipped_notasked
+3.2791243668951,65,yes,Independent,Yes,Voted by mail or absentee
+0.697576795786423,59,yes,Democrat,Yes,Voted by mail or absentee
+11.2797506922893,80,yes,Independent,Yes,In person on election day
+0.0154753123487687,58,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.138746972729719,69,yes,Democrat,Yes,Voted by mail or absentee
+0.747591514428747,66,yes,Independent,Yes,In person on election day
+0.383020412336429,71,yes,Democrat,Yes,In person on election day
+1.71991725999823,61,yes,Republican,Yes,In person on election day
+1.16859786174667,84,yes,Republican,Yes,Voted by mail or absentee
+1.64326869015251,70,yes,Republican,Yes,In person on election day
+0.417366863815775,80,yes,Republican,Yes,Voted by mail or absentee
+1.75627831942004,39,no,Republican,Yes,Dontknow_skipped_notasked
+1.31279089481869,68,yes,Democrat,Yes,In person early
+1.01224473787797,60,yes,Independent,Yes,Voted by mail or absentee
+1.0249526775248,33,no,Independent,Yes,Dontknow_skipped_notasked
+0.377923372831064,77,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.721086972533964,56,no,Democrat,Yes,Dontknow_skipped_notasked
+1.67462369578904,60,yes,Independent,Yes,Voted by mail or absentee
+1.17982528529476,53,yes,Democrat,Yes,In person on election day
+2.86493624577084,39,yes,Republican,Yes,In person on election day
+0.627406643288232,48,yes,Independent,Yes,In person on election day
+14.6830910517373,39,yes,Independent,Yes,In person on election day
+1.8217674417309,71,yes,Republican,Yes,In person on election day
+1.12269899806145,64,yes,Republican,Yes,In person on election day
+1.56129291463789,57,yes,Independent,Yes,In person on election day
+3.87044215608616,33,no,Independent,Yes,Dontknow_skipped_notasked
+0.950254280986775,44,no,Democrat,Yes,Dontknow_skipped_notasked
+0.615806933501105,61,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.883770404273273,56,yes,Republican,Yes,In person on election day
+0.160235740663365,54,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.852225408206508,55,yes,Independent,Yes,In person on election day
+0.813522831908708,23,no,NAorMissing,DontKnow,Dontknow_skipped_notasked
+2.10685369578857,69,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.16505158516411,44,yes,Independent,Yes,Voted by mail or absentee
+3.42715868486603,41,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.26176653168862,51,yes,Independent,Yes,In person on election day
+0.8716481051284,39,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.527475080577945,75,yes,Democrat,Yes,In person on election day
+0.447930815996672,54,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.911548991529463,63,yes,Democrat,Yes,Voted by mail or absentee
+0.615279636430058,50,yes,Independent,Yes,In person on election day
+0.615441254449654,33,no,Democrat,Yes,Dontknow_skipped_notasked
+0.537648576682615,63,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.8217674417309,71,yes,Republican,Yes,Voted by mail or absentee
+1.42450649339906,28,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.756318728693812,57,yes,Democrat,Yes,In person on election day
+0.308249920909254,29,no,Democrat,Yes,Voted by mail or absentee
+1.75898848097561,47,yes,Democrat,Yes,In person on election day
+0.650832556562288,58,yes,Democrat,Yes,In person on election day
+0.723640728172468,55,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.488949062810946,65,yes,Republican,Yes,In person on election day
+0.564223747199775,38,no,Democrat,Yes,Dontknow_skipped_notasked
+0.808835873448615,58,no,Independent,Yes,Dontknow_skipped_notasked
+0.199471912322072,51,no,Republican,Yes,Dontknow_skipped_notasked
+0.313911916116507,58,no,Democrat,Yes,Dontknow_skipped_notasked
+0.272100524266763,62,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.646739838231966,29,no,Democrat,Yes,Dontknow_skipped_notasked
+1.44544662855762,26,yes,NAorMissing,Yes,In person on election day
+0.434697657178674,62,yes,Republican,Yes,In person on election day
+0.177457307830514,73,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+1.71242965630516,46,no,Independent,Yes,Dontknow_skipped_notasked
+0.926472922743249,70,yes,Republican,Yes,Voted by mail or absentee
+0.294273552958564,52,no,Democrat,Yes,Dontknow_skipped_notasked
+0.266816531775324,68,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.171806055017929,52,yes,Democrat,Yes,In person on election day
+0.445823505659591,60,yes,Republican,Yes,Voted by mail or absentee
+0.233858378177304,60,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+0.105674103403092,66,yes,Democrat,Yes,In person on election day
+3.41876727828706,36,NAorMissing,Democrat,DontKnow,Dontknow_skipped_notasked
+0.96532570811922,60,yes,Republican,Yes,In person on election day
+12.7658580067714,65,yes,Republican,Yes,In person on election day
+0.502948461133073,75,yes,Democrat,Yes,In person on election day
+1.49377824169442,33,yes,Independent,Yes,Voted by mail or absentee
+1.6807297538084,36,yes,Republican,Yes,In person on election day
+0.703611074641286,21,no,NAorMissing,No,Dontknow_skipped_notasked
+1.45539175931083,76,yes,Republican,Yes,Voted by mail or absentee
+0.380193036457372,58,yes,Democrat,Yes,In person on election day
+0.199829969180333,59,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.90991715350702,41,no,Independent,Yes,Dontknow_skipped_notasked
+0.446819483794283,35,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.8458615760092,70,yes,Democrat,Yes,In person on election day
+0.234738391280052,59,yes,Other,Yes,In person on election day
+0.359640033790631,69,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.578620085158099,32,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.197687874224683,31,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.732831140858565,52,yes,Democrat,Yes,In person on election day
+1.80793732780366,34,yes,Democrat,Yes,Voted by mail or absentee
+2.35890889009089,27,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+1.24361971837457,72,yes,Independent,Yes,Voted by mail or absentee
+0.192493632326351,54,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.564481183917229,64,yes,Democrat,Yes,In person on election day
+1.45539175931083,83,yes,Republican,Yes,In person on election day
+0.631130696959421,37,yes,Democrat,Yes,In person on election day
+0.102406836438313,70,yes,Democrat,Yes,In person on election day
+0.392010223966424,67,no,Independent,Yes,Dontknow_skipped_notasked
+0.0651574720395424,61,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.624701690251412,68,yes,Republican,Yes,In person early
+0.865199052069732,49,yes,Independent,Yes,In person on election day
+2.44468897726576,26,yes,Independent,Yes,Voted by mail or absentee
+1.45539175931083,70,yes,Republican,Yes,Voted by mail or absentee
+2.974201552751,31,yes,Democrat,Yes,In person on election day
+0.92865876826213,77,yes,Republican,Yes,Voted by mail or absentee
+1.47912880154043,52,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+2.94105408280569,46,yes,Republican,Yes,In person on election day
+0.621446002247634,62,yes,Democrat,Yes,In person on election day
+0.315744738618042,60,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.664943619460997,71,yes,Democrat,Yes,Voted by mail or absentee
+1.9301422164095,69,yes,Democrat,Yes,Voted by mail or absentee
+0.313911916116507,65,no,Democrat,Yes,Dontknow_skipped_notasked
+1.10172287063115,39,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.164847522727811,70,yes,Other,Yes,In person on election day
+3.72358291186472,43,yes,Independent,Yes,In person on election day
+1.0727712402845,69,yes,Democrat,Yes,Voted by mail or absentee
+0.418738779456219,72,yes,Democrat,Yes,In person on election day
+0.866891967230829,65,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.808835873448615,55,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.871597025554987,31,no,Democrat,DontKnow,Dontknow_skipped_notasked
+0.252188570085117,66,no,Democrat,Yes,Dontknow_skipped_notasked
+0.835710537408641,60,no,Republican,Yes,Dontknow_skipped_notasked
+3.04340655534543,62,yes,Republican,Yes,Voted by mail or absentee
+1.23679029189888,63,yes,Independent,Yes,In person on election day
+3.25767373571089,31,yes,Independent,Yes,In person on election day
+0.0834005797230105,53,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.973245859688813,39,no,Independent,Yes,Dontknow_skipped_notasked
+1.07487694301205,89,yes,Democrat,Yes,Voted by mail or absentee
+1.16669572204761,75,yes,Democrat,Yes,In person on election day
+0.914512041701872,36,no,Democrat,Yes,Dontknow_skipped_notasked
+0.808672180744218,67,yes,Independent,Yes,In person early
+0.356617197411935,65,yes,Democrat,Yes,In person on election day
+0.0383175639067856,50,no,Republican,Yes,Dontknow_skipped_notasked
+1.86582638747108,29,yes,Republican,Yes,In person on election day
+0.83190960974838,80,yes,Independent,Yes,In person on election day
+0.559978082157472,61,no,Democrat,Yes,Dontknow_skipped_notasked
+0.402872459702585,65,yes,Republican,Yes,In person on election day
+0.264150731354682,45,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+0.453771553756661,71,yes,Independent,Yes,Voted by mail or absentee
+0.747591514428747,63,yes,Independent,Yes,In person on election day
+0.199829969180333,50,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.462284186501991,62,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+4.84897690491457,29,yes,Republican,Yes,In person on election day
+1.3737156044534,62,yes,Republican,Yes,In person on election day
+5.88302363569397,57,no,Democrat,Yes,Dontknow_skipped_notasked
+0.458764396460368,55,no,Republican,Yes,Dontknow_skipped_notasked
+0.597243371742625,59,yes,Democrat,Yes,In person on election day
+0.677151456565426,27,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.579239027552172,57,yes,NAorMissing,Yes,In person on election day
+1.14441934068225,37,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.367366976508353,50,no,NAorMissing,No,Dontknow_skipped_notasked
+0.43781406564078,32,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.779350777069377,38,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.16785059558117,35,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.389160709845774,52,yes,Republican,Yes,In person on election day
+0.711304044754187,38,yes,Democrat,Yes,In person on election day
+0.274540882392192,54,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.826657661297465,69,yes,Republican,Yes,Voted by mail or absentee
+1.64928989341722,79,yes,Democrat,Yes,Voted by mail or absentee
+1.28860379846567,66,yes,Democrat,Yes,In person on election day
+2.05740269226435,81,yes,Republican,Yes,Voted by mail or absentee
+0.247046915821752,62,yes,Independent,No,In person on election day
+0.444740424169718,46,yes,Independent,Yes,In person on election day
+0.597243371742625,50,yes,Democrat,Yes,In person on election day
+3.60777825215112,33,yes,Democrat,Yes,In person on election day
+0.621446002247634,59,yes,Democrat,Yes,In person on election day
+0.950719519769309,42,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.368253593282754,53,no,Democrat,Yes,Dontknow_skipped_notasked
+0.113933516215707,38,no,NAorMissing,No,Dontknow_skipped_notasked
+0.483343074243342,43,no,Republican,Yes,Voted by mail or absentee
+0.195379747877985,62,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.971899302924047,69,yes,Democrat,Yes,In person on election day
+0.35390165816095,55,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.290975002067903,30,no,Democrat,Yes,Dontknow_skipped_notasked
+1.16243636647977,74,yes,Independent,Yes,In person early
+0.119040124988185,75,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.298935434478014,67,yes,Democrat,Yes,Voted by mail or absentee
+1.1431728338288,63,yes,Democrat,Yes,In person on election day
+0.996606427347002,30,no,Republican,Yes,Dontknow_skipped_notasked
+1.06630114781609,32,no,Democrat,Yes,Dontknow_skipped_notasked
+0.884250082103612,44,no,Independent,Yes,In person on election day
+0.412345880356442,32,no,Republican,Yes,Dontknow_skipped_notasked
+0.514784334899646,63,yes,Republican,Yes,In person on election day
+1.10269756210789,31,no,Independent,Yes,In person on election day
+0.406586341290903,69,yes,Independent,Yes,In person early
+0.45654384355193,41,yes,Independent,Yes,Voted by mail or absentee
+0.514784334899646,60,yes,Republican,Yes,Voted by mail or absentee
+2.6695655505037,34,no,Republican,Yes,Dontknow_skipped_notasked
+1.06373389388711,30,no,Democrat,No,Dontknow_skipped_notasked
+0.341025710616089,78,yes,Democrat,Yes,Voted by mail or absentee
+1.45539175931083,69,yes,Democrat,Yes,In person on election day
+0.12751289902871699,57,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.377033829611083,74,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.187971185511818,55,yes,Democrat,Yes,In person early
+0.394329755263532,70,yes,Democrat,Yes,In person on election day
+0.714107453560779,49,no,Independent,No,Dontknow_skipped_notasked
+0.142877814076101,32,yes,Democrat,Yes,Voted by mail or absentee
+0.933581125106956,68,yes,Republican,Yes,Voted by mail or absentee
+2.56146633376695,39,yes,Republican,Yes,In person on election day
+1.19044469555823,26,yes,Democrat,Yes,In person on election day
+0.199484450784135,50,no,Democrat,Yes,Dontknow_skipped_notasked
+1.06373389388711,31,no,Democrat,Yes,Dontknow_skipped_notasked
+0.395599940941062,49,yes,Democrat,Yes,In person on election day
+1.15571068968423,61,yes,Democrat,Yes,Voted by mail or absentee
+0.860587241071079,70,yes,Democrat,Yes,Voted by mail or absentee
+0.120717509898165,32,no,Other,Yes,Dontknow_skipped_notasked
+0.468998970304765,52,yes,Independent,Yes,In person on election day
+0.904284524501629,39,yes,Democrat,Yes,In person on election day
+0.392879171876803,72,yes,Independent,Yes,In person on election day
+0.307309310141151,79,no,Democrat,Yes,Dontknow_skipped_notasked
+0.248859072025355,46,yes,Democrat,Yes,In person on election day
+0.185595036449614,69,yes,Democrat,Yes,Voted by mail or absentee
+0.199829969180333,64,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.396918216245998,31,yes,Democrat,Yes,Voted by mail or absentee
+1.26851806523144,80,yes,Republican,Yes,In person on election day
+0.486045543393666,58,yes,Democrat,Yes,In person early
+0.147229443110077,28,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.688003031781499,31,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+4.6922099679137,60,no,Democrat,Yes,Dontknow_skipped_notasked
+1.28884639569102,27,yes,Independent,Yes,In person on election day
+0.301862176735209,48,no,Democrat,Yes,Dontknow_skipped_notasked
+0.835313316199166,57,yes,Democrat,Yes,In person on election day
+0.685611445224814,88,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.53438191294549,60,yes,Democrat,Yes,In person on election day
+0.442268687017436,28,yes,Democrat,Yes,Voted by mail or absentee
+0.30897718092061,32,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.514784334899646,59,yes,Democrat,Yes,In person on election day
+0.529576811652929,80,yes,Democrat,Yes,Voted by mail or absentee
+0.568417958720903,25,yes,Democrat,Yes,In person on election day
+3.43509099769852,28,no,Independent,Yes,Dontknow_skipped_notasked
+0.44016537890187,32,yes,Democrat,Yes,In person on election day
+2.55627707897038,33,yes,Republican,Yes,In person on election day
+0.744878278174902,39,no,Democrat,Yes,Dontknow_skipped_notasked
+0.177178584870527,32,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.454586344481215,61,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.165105642777386,58,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.417587714344689,41,yes,Democrat,Yes,In person on election day
+1.18461667031048,59,yes,Independent,Yes,Voted by mail or absentee
+0.331179394164399,25,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.230182094766582,28,yes,Republican,Yes,In person on election day
+0.709341699378195,31,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.5671303537027,41,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+2.4904349876187,27,yes,Democrat,Yes,In person on election day
+1.09125554310902,30,no,Democrat,Yes,Dontknow_skipped_notasked
+0.566069124133842,22,NAorMissing,Republican,No,Dontknow_skipped_notasked
+1.56903035341598,37,yes,Democrat,Yes,In person on election day
+0.387864706926135,57,yes,Republican,Yes,Voted by mail or absentee
+1.03383483227013,30,yes,NAorMissing,Yes,In person on election day
+0.356163932553075,51,no,Independent,Yes,Dontknow_skipped_notasked
+0.313173040892779,59,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.658427734545737,32,yes,Other,Yes,In person on election day
+1.10358030362352,71,yes,Democrat,Yes,Voted by mail or absentee
+1.85147997130944,56,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.313173040892779,58,yes,Independent,Yes,In person early
+0.359640033790631,69,no,Democrat,Yes,Dontknow_skipped_notasked
+2.57817918362405,26,no,Republican,Yes,Dontknow_skipped_notasked
+0.368253593282754,56,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.06123011311779,24,no,Republican,Yes,Dontknow_skipped_notasked
+0.578620085158099,30,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.288127401596493,25,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.615490497919756,27,yes,Independent,Yes,In person on election day
+0.541231109349613,50,yes,Democrat,Yes,In person on election day
+0.658050272771277,24,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.385847773450716,27,no,Independent,Yes,Dontknow_skipped_notasked
+0.733593900393021,72,yes,Independent,Yes,Voted by mail or absentee
+0.578620085158099,23,no,Independent,Yes,Dontknow_skipped_notasked
+0.0492326976125678,31,yes,Other,Yes,Voted by mail or absentee
+1.01224473787797,63,yes,Republican,Yes,In person on election day
+2.99200995195856,26,yes,NAorMissing,Yes,In person on election day
+0.564956760902775,78,NAorMissing,Republican,No,Dontknow_skipped_notasked
+2.34156051770665,29,yes,Republican,Yes,In person on election day
+1.2088744045616,69,no,Democrat,Yes,Dontknow_skipped_notasked
+5.22207198135981,22,no,Democrat,Yes,Dontknow_skipped_notasked
+2.54520102126861,21,yes,Independent,Yes,In person early
+0.0811784535660785,80,yes,Democrat,Yes,In person on election day
+0.496118923069619,35,NAorMissing,Republican,No,Dontknow_skipped_notasked
+1.67462369578904,61,yes,Republican,Yes,In person on election day
+0.961799012198032,26,no,Democrat,Yes,Dontknow_skipped_notasked
+0.646739838231966,25,no,Democrat,Yes,Dontknow_skipped_notasked
+0.444478741125705,33,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.0838241264955172,30,yes,Other,Yes,In person on election day
+0.337913243264944,69,yes,Independent,Yes,In person on election day
+0.260329512197937,64,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.364270871462651,67,yes,Democrat,Yes,In person on election day
+0.324292442199342,50,yes,Independent,Yes,Voted by mail or absentee
+0.265961333691649,59,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.658466451410408,50,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+4.27093341661413,56,yes,Democrat,Yes,Voted by mail or absentee
+0.420318213507596,21,no,Other,Yes,Dontknow_skipped_notasked
+1.32035919260119,22,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.02888520343006,38,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.162510161100442,31,no,Democrat,Yes,Dontknow_skipped_notasked
+1.1431728338288,62,yes,Republican,Yes,Voted by mail or absentee
+4.71478527347735,21,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.69194178036457,46,no,Democrat,Yes,Dontknow_skipped_notasked
+2.02588990205955,41,no,Independent,Yes,Dontknow_skipped_notasked
+2.06038307419547,31,yes,Republican,Yes,In person on election day
+1.6202234306043,25,yes,Democrat,Yes,In person on election day
+0.360508002081454,68,no,Democrat,Yes,Dontknow_skipped_notasked
+0.447888344345357,38,yes,Independent,Yes,In person on election day
+0.491961990215634,66,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.469045939450764,28,yes,Democrat,Yes,Voted by mail or absentee
+0.416276994369211,60,yes,Independent,Yes,Voted by mail or absentee
+0.390296385362519,27,yes,Democrat,Yes,Voted by mail or absentee
+0.570493290947899,51,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.657594594011851,61,yes,Democrat,Yes,Voted by mail or absentee
+0.531777562151902,31,yes,Republican,Yes,Voted by mail or absentee
+0.961823803819351,28,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.664275960081161,35,yes,Democrat,Yes,In person on election day
+0.44003314109256,30,yes,Democrat,Yes,In person on election day
+0.906811987880918,23,no,Democrat,Yes,Dontknow_skipped_notasked
+0.395229312679745,48,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.16859786174667,79,yes,Republican,Yes,Voted by mail or absentee
+1.29700691549743,28,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.543701296213926,21,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.312832191227127,46,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.531996405233839,50,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.621218964350377,80,yes,Republican,Yes,Voted by mail or absentee
+0.246202382098895,28,no,Independent,DontKnow,Dontknow_skipped_notasked
+0.8716481051284,33,no,Republican,Yes,Dontknow_skipped_notasked
+0.313173040892779,54,no,Democrat,Yes,Dontknow_skipped_notasked
+0.0541630686464874,63,yes,Democrat,Yes,Voted by mail or absentee
+1.25049968772626,29,no,Democrat,Yes,Dontknow_skipped_notasked
+0.280116187084201,28,yes,Democrat,Yes,In person on election day
+0.597393478555956,32,yes,Republican,Yes,Voted by mail or absentee
+0.720651384753828,32,no,Democrat,Yes,Dontknow_skipped_notasked
+2.08265889271571,30,no,Democrat,Yes,Dontknow_skipped_notasked
+0.404473942371656,38,no,Democrat,Yes,Dontknow_skipped_notasked
+1.60926203962498,33,yes,Republican,Yes,Voted by mail or absentee
+0.266891734168882,27,yes,Democrat,Yes,Voted by mail or absentee
+0.356617197411935,65,yes,Democrat,Yes,Voted by mail or absentee
+0.875834540698891,80,yes,Republican,Yes,In person on election day
+0.906811987880918,24,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.411127323309722,67,yes,Democrat,Yes,Voted by mail or absentee
+0.671706042258955,67,yes,Democrat,Yes,In person on election day
+1.33472839992684,32,no,Democrat,Yes,Dontknow_skipped_notasked
+0.629989430420662,68,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.78390113520319,37,no,Democrat,Yes,Dontknow_skipped_notasked
+0.185425140620507,66,no,Democrat,Yes,Dontknow_skipped_notasked
+0.118402767888301,32,yes,Other,Yes,Voted by mail or absentee
+0.456015314395375,29,no,Democrat,Yes,Dontknow_skipped_notasked
+0.290576556596782,27,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+0.292729140874857,59,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.661875338749792,21,no,Independent,Yes,Dontknow_skipped_notasked
+1.34613963130788,31,yes,Democrat,Yes,Voted by mail or absentee
+2.2824726664023,44,no,Democrat,Yes,Dontknow_skipped_notasked
+0.438032799348945,60,yes,Republican,Yes,In person on election day
+1.43095151914748,67,yes,Independent,Yes,In person on election day
+0.819846913082796,47,no,Democrat,Yes,Dontknow_skipped_notasked
+0.583356530033394,25,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+2.06612471352204,31,yes,Democrat,Yes,In person early
+0.661897212734866,33,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.321875743762119,30,no,Republican,Yes,Dontknow_skipped_notasked
+0.280777070632196,28,yes,Democrat,Yes,In person on election day
+0.532949909700188,30,yes,Independent,Yes,In person on election day
+0.109552085262917,51,no,Independent,No,Dontknow_skipped_notasked
+0.73583928085939,31,yes,Independent,Yes,In person on election day
+1.12683900215158,32,yes,Republican,Yes,In person on election day
+1.15678774676877,22,no,NAorMissing,Yes,Voted by mail or absentee
+1.84361815534852,57,yes,Democrat,Yes,In person on election day
+0.874896492355702,60,yes,Independent,Yes,In person on election day
+0.971965503704996,30,no,Independent,DontKnow,Dontknow_skipped_notasked
+0.381498364630883,50,no,Republican,Yes,Dontknow_skipped_notasked
+1.33453414262263,31,yes,Democrat,Yes,In person on election day
+0.730594508824265,41,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.800199425268963,25,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.76774223393552,42,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.42450649339906,23,no,Democrat,Yes,Dontknow_skipped_notasked
+0.902022237656465,67,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.591165366822178,74,yes,Independent,Yes,Voted by mail or absentee
+0.227261668061634,64,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.0941686748070187,30,no,Democrat,Yes,Dontknow_skipped_notasked
+0.89294521025487,37,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.425330589070122,49,yes,Independent,Yes,In person on election day
+1.01224473787797,62,yes,Republican,Yes,Voted by mail or absentee
+0.294847148028236,61,yes,Other,Yes,Voted by mail or absentee
+1.4199060645939099,38,yes,Democrat,Yes,In person on election day
+0.134558283298744,59,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.511898208573247,65,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+2.30399434248917,47,no,Democrat,Yes,Dontknow_skipped_notasked
+0.592835207335724,57,yes,NAorMissing,Yes,In person on election day
+0.655334966248257,56,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.0951567640677893,69,yes,Democrat,Yes,In person on election day
+0.511898208573247,56,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.233858378177304,66,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.461264066244601,67,yes,Independent,Yes,Voted by mail or absentee
+0.280116187084201,30,yes,Democrat,Yes,In person on election day
+0.614405332769037,68,yes,Democrat,Yes,In person on election day
+2.05959278551877,26,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.602445319711143,67,yes,Republican,Yes,In person on election day
+1.11592231274015,57,yes,Democrat,Yes,Voted by mail or absentee
+0.59842237638112,25,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.208249017567367,31,no,Democrat,Yes,Dontknow_skipped_notasked
+0.62204926156657,27,yes,Democrat,Yes,Voted by mail or absentee
+0.844288222122527,55,yes,Democrat,Yes,In person early
+2.33953139180518,33,no,Democrat,Yes,Dontknow_skipped_notasked
+0.303922598729841,54,yes,Democrat,Yes,Voted by mail or absentee
+0.602445319711143,63,yes,Republican,Yes,Voted by mail or absentee
+0.615806933501105,67,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+2.50140244033821,21,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.02888520343006,37,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.178556329059332,38,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.0749200102125337,27,no,Democrat,Yes,Dontknow_skipped_notasked
+0.0435633850461047,27,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+0.356163932553075,61,no,Republican,Yes,Dontknow_skipped_notasked
+1.13508994724211,30,no,Democrat,Yes,Dontknow_skipped_notasked
+1.09588528864857,64,yes,Democrat,Yes,In person on election day
+0.309815954896651,32,no,Democrat,Yes,Dontknow_skipped_notasked
+1.22139663924338,45,no,Republican,Yes,Dontknow_skipped_notasked
+0.851591605200829,30,no,Democrat,No,Dontknow_skipped_notasked
+0.102318126535071,57,yes,Independent,Yes,In person on election day
+0.36650228057608,66,no,Democrat,Yes,Dontknow_skipped_notasked
+0.585451457162144,60,yes,Democrat,Yes,In person early
+0.313173040892779,61,no,Independent,Yes,Dontknow_skipped_notasked
+1.99486333229369,38,yes,Democrat,Yes,In person on election day
+1.39666280508727,56,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.15010167271017,40,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+0.279999863213958,29,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.438815103520055,27,no,Independent,Yes,Dontknow_skipped_notasked
+0.443759020360119,62,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.459907423793275,74,yes,Democrat,Yes,In person on election day
+0.550909296968835,27,yes,Democrat,Yes,Voted by mail or absentee
+0.380174342242778,32,yes,Democrat,Yes,In person on election day
+0.219886181390664,63,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.165105642777386,58,NAorMissing,NAorMissing,DontKnow,Dontknow_skipped_notasked
+0.326856791299542,51,yes,Democrat,Yes,In person early
+1.01887472562811,38,yes,Democrat,Yes,In person on election day
+1.49569418665977,36,yes,Republican,Yes,In person on election day
+0.164912009157802,32,no,Republican,Yes,Dontknow_skipped_notasked
+1.24361971837457,71,yes,Republican,Yes,Voted by mail or absentee
+0.708124401106976,29,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.140459701427875,42,yes,Independent,Yes,Voted by mail or absentee
+0.359310364488917,65,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.405300270546769,78,yes,Democrat,Yes,Voted by mail or absentee
+0.743999590504258,29,yes,Republican,Yes,Voted by mail or absentee
+1.16859786174667,68,yes,Republican,Yes,In person on election day
+2.73492910991351,27,yes,NAorMissing,Yes,In person on election day
+1.81949251250548,23,no,Republican,Yes,Dontknow_skipped_notasked
+1.04544171701455,33,yes,NAorMissing,Yes,In person on election day
+0.0644590107789452,28,no,Democrat,Yes,Dontknow_skipped_notasked
+0.946378390797245,61,yes,Democrat,Yes,In person on election day
+0.887840232562864,63,yes,Democrat,Yes,In person on election day
+5.92762254380328,31,yes,Independent,Yes,In person on election day
+0.808672180744218,66,yes,Independent,Yes,Voted by mail or absentee
+0.878502073370706,60,yes,Democrat,Yes,In person on election day
+0.203734858750639,49,yes,NAorMissing,Yes,Voted by mail or absentee
+0.440882793544622,54,yes,Democrat,Yes,In person on election day
+0.35496251875154,27,yes,Democrat,Yes,In person on election day
+0.155642473756398,54,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+2.46816621347187,33,yes,Independent,Yes,In person on election day
+0.370652634257853,61,yes,Independent,Yes,In person early
+0.594373819702105,27,yes,Republican,Yes,Voted by mail or absentee
+0.216767933568687,38,yes,Democrat,Yes,In person early
+2.21328099015249,32,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.301677837383144,62,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.82378527644652,22,NAorMissing,Republican,DontKnow,Dontknow_skipped_notasked
+0.364306066453788,31,no,Democrat,Yes,Dontknow_skipped_notasked
+0.439705725450816,27,no,NAorMissing,DontKnow,Dontknow_skipped_notasked
+1.21656213550804,69,yes,Democrat,Yes,In person on election day
+0.5036986897713,57,yes,Democrat,Yes,In person on election day
+1.65322280390883,63,yes,Independent,Yes,In person on election day
+0.800199425268963,27,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.555469501661381,60,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+1.96210723167439,25,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.282150629669553,67,yes,Democrat,Yes,In person on election day
+0.682346783342915,26,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.254672150865305,74,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.45539175931083,74,yes,Republican,Yes,In person on election day
+0.0719200660843827,65,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.211843554427038,68,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.49569418665977,39,yes,Republican,Yes,In person on election day
+0.528812327592551,28,no,Independent,Yes,Dontknow_skipped_notasked
+1.29449287847538,29,yes,Democrat,Yes,In person on election day
+0.165105642777386,62,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.240951365753728,57,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.793530915963897,75,yes,Republican,Yes,Voted by mail or absentee
+0.369314205580193,55,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.53021996790647,72,yes,Independent,Yes,Voted by mail or absentee
+0.380193036457372,62,yes,Democrat,Yes,Voted by mail or absentee
+0.605926992932447,24,no,NAorMissing,Yes,In person on election day
+0.948683581958443,30,yes,Republican,Yes,In person on election day
+0.64240784390476,44,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.599067724124879,54,no,Democrat,Yes,Dontknow_skipped_notasked
+0.303451247795714,70,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.779350777069377,39,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.507887307687638,28,yes,Independent,Yes,In person on election day
+0.234422780462172,53,no,Democrat,Yes,Dontknow_skipped_notasked
+0.150690677880702,26,no,Republican,Yes,In person on election day
+0.313911916116507,54,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.946378390797245,56,yes,Republican,Yes,In person on election day
+0.959878729785334,27,yes,Democrat,Yes,In person on election day
+0.456042795840812,70,yes,Democrat,Yes,Voted by mail or absentee
+0.115598325215998,22,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+0.206668811015067,51,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.595062964432718,55,yes,Republican,Yes,In person on election day
+0.631984132405538,51,yes,Democrat,Yes,In person early
+1.29115342438505,74,yes,Democrat,Yes,In person on election day
+0.537539767031088,66,yes,Republican,Yes,Voted by mail or absentee
+0.578620085158099,22,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.308146972665532,57,yes,Republican,Yes,In person on election day
+1.16243636647977,70,yes,Republican,Yes,Voted by mail or absentee
+0.39691865384272,31,yes,Democrat,Yes,In person on election day
+0.491961990215634,56,no,Democrat,Yes,Dontknow_skipped_notasked
+0.216767933568687,35,yes,Democrat,Yes,In person on election day
+1.04675165351588,30,yes,Independent,Yes,In person on election day
+0.332913592082045,59,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+4.92528182469544,24,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+1.77628643905387,26,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.0833018974412553,33,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.747591514428747,59,yes,Independent,Yes,In person on election day
+0.402872459702585,65,yes,Republican,Yes,In person on election day
+0.188213265838373,22,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+2.06447687406592,72,yes,Republican,Yes,In person on election day
+7.76861389084183,56,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.310781191219607,30,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.988059374425435,49,yes,Independent,Yes,In person on election day
+0.214650712528834,64,no,Democrat,Yes,Dontknow_skipped_notasked
+0.160491744592394,73,yes,Democrat,Yes,In person early
+0.316040829823173,48,yes,Democrat,Yes,Voted by mail or absentee
+0.547728115352264,77,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.196807928205154,30,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.14854737591125,61,yes,Democrat,Yes,In person on election day
+0.602854476681048,68,no,Independent,Yes,Dontknow_skipped_notasked
+0.598835249626508,32,yes,Democrat,Yes,In person on election day
+1.88657972127472,35,yes,Independent,Yes,In person on election day
+2.45354830144055,24,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.45984676819041,57,no,Democrat,Yes,Dontknow_skipped_notasked
+1.17602223584623,76,yes,Independent,Yes,In person early
+0.59752429880141,29,yes,Republican,Yes,Voted by mail or absentee
+0.704174335799911,74,yes,Democrat,Yes,Voted by mail or absentee
+1.64791036367985,52,yes,Independent,Yes,In person on election day
+0.575736630639635,49,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+1.42938438281448,34,no,Independent,Yes,Dontknow_skipped_notasked
+0.44003314109256,27,yes,Democrat,Yes,Voted by mail or absentee
+0.664943619460997,71,yes,Democrat,Yes,Voted by mail or absentee
+1.63111348426039,34,yes,Republican,Yes,In person on election day
+0.425330589070122,67,yes,Democrat,Yes,In person early
+0.0941686748070187,28,no,Independent,Yes,Dontknow_skipped_notasked
+3.52593207556752,28,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.340885171317417,50,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.115699625192876,41,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+2.12115265782061,32,yes,NAorMissing,Yes,In person on election day
+3.39205230903996,60,yes,Independent,Yes,In person on election day
+0.293458485636002,70,yes,Democrat,Yes,In person on election day
+1.16439490389119,23,no,Independent,Yes,Dontknow_skipped_notasked
+2.96500158558674,23,yes,Democrat,Yes,Voted by mail or absentee
+0.684296751272536,64,yes,Democrat,Yes,In person on election day
+0.874896492355702,60,yes,Independent,Yes,In person on election day
+0.570493290947899,63,no,Independent,Yes,Dontknow_skipped_notasked
+0.146371750987101,68,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.912622429107195,64,yes,Democrat,Yes,Voted by mail or absentee
+0.52261793065638,34,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.47912880154043,65,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.32574430511798,21,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+4.3653751759511,38,yes,Democrat,Yes,In person on election day
+0.561703627880836,72,yes,Republican,Yes,In person on election day
+0.669252084897901,60,no,Independent,Yes,Dontknow_skipped_notasked
+2.88006198329813,35,yes,Republican,Yes,In person on election day
+1.09538710684083,58,yes,Republican,Yes,In person on election day
+0.514784334899646,65,yes,Independent,Yes,In person early
+1.10326465737332,67,yes,Republican,Yes,Voted by mail or absentee
+1.86420951845496,41,no,Democrat,Yes,Dontknow_skipped_notasked
+1.2639028164365,63,no,Independent,Yes,Dontknow_skipped_notasked
+1.71242965630516,46,no,Independent,Yes,Dontknow_skipped_notasked
+0.849992051556902,39,yes,Independent,Yes,In person on election day
+0.583375809089863,47,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+3.07119673014717,30,no,Republican,Yes,Dontknow_skipped_notasked
+1.08324516236455,67,yes,Independent,Yes,In person on election day
+0.684244895995056,69,yes,Democrat,Yes,In person on election day
+0.467123914920064,45,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.914258498346274,28,no,Democrat,Yes,Dontknow_skipped_notasked
+3.32426527798744,23,no,Democrat,Yes,Dontknow_skipped_notasked
+0.147977428093093,31,no,Democrat,Yes,Dontknow_skipped_notasked
+0.676009790062233,35,no,Independent,Yes,Dontknow_skipped_notasked
+0.298890450360523,26,yes,Democrat,Yes,In person on election day
+2.09603046191914,60,yes,Independent,Yes,Voted by mail or absentee
+0.147229443110077,30,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.547728115352264,68,no,Democrat,Yes,Dontknow_skipped_notasked
+1.55436629124057,47,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.456510564157613,70,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.631984132405538,50,yes,Democrat,Yes,In person on election day
+0.198819617543425,38,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+2.09603046191914,55,yes,Republican,Yes,In person on election day
+1.55991116473455,30,yes,Independent,Yes,In person on election day
+1.17575471509932,32,yes,Democrat,Yes,In person on election day
+0.168291059053101,29,no,Republican,Yes,Dontknow_skipped_notasked
+0.227261668061634,56,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.514784334899646,63,yes,Republican,Yes,Voted by mail or absentee
+2.23847656306707,55,yes,Republican,Yes,Voted by mail or absentee
+0.68751452580186,74,yes,Democrat,Yes,In person on election day
+0.486908192472833,60,yes,Democrat,Yes,In person on election day
+0.455469246133905,44,yes,Democrat,Yes,In person on election day
+0.543701296213926,27,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.482750684407076,70,NAorMissing,Democrat,DontKnow,Dontknow_skipped_notasked
+0.552719591689785,37,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.90059968531225,26,yes,Republican,Yes,In person early
+0.658050272771277,24,no,Republican,Yes,Dontknow_skipped_notasked
+0.376887923017287,33,no,Democrat,DontKnow,Dontknow_skipped_notasked
+0.46617894620009,33,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.363428953845993,32,no,Republican,Yes,Dontknow_skipped_notasked
+0.906811987880918,27,no,Republican,Yes,Dontknow_skipped_notasked
+0.703611074641286,26,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.447060996749216,63,yes,Democrat,Yes,In person on election day
+5.30156047033797,67,no,Independent,Yes,Dontknow_skipped_notasked
+1.76108292794008,35,yes,Independent,Yes,In person on election day
+0.147590130918115,39,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.603658281269763,69,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.67462369578904,63,yes,Republican,Yes,Voted by mail or absentee
+0.422344462487245,43,no,Democrat,Yes,Dontknow_skipped_notasked
+0.249818796147908,70,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.835313316199166,57,yes,Democrat,Yes,In person on election day
+6.44389225924272,27,yes,Republican,Yes,In person on election day
+1.5600672968494,70,yes,Independent,Yes,Voted by mail or absentee
+1.5820736827494,61,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.447060996749216,63,yes,Democrat,Yes,In person on election day
+0.720670734873339,62,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.293458485636002,76,yes,Democrat,Yes,In person early
+0.199577733637158,71,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.973572847575745,69,yes,Republican,Yes,In person on election day
+0.578620085158099,24,no,Independent,Yes,Dontknow_skipped_notasked
+0.0513943503592685,53,NAorMissing,Other,No,Dontknow_skipped_notasked
+1.8217674417309,75,yes,Republican,Yes,In person on election day
+0.471947124080075,78,yes,Democrat,Yes,In person on election day
+0.356163932553075,49,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.482750684407076,73,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.33784009471722,56,yes,Republican,Yes,In person on election day
+0.267462392031447,64,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.459907423793275,76,yes,Independent,Yes,Voted by mail or absentee
+1.37976270340878,36,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.376151529486751,52,yes,Democrat,Yes,In person on election day
+0.392935101283805,59,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.943907265659348,35,yes,Democrat,Yes,In person on election day
+1.16243636647977,70,yes,Independent,Yes,In person on election day
+1.33784009471722,65,yes,Republican,Yes,In person on election day
+0.136143917337607,80,yes,Democrat,Yes,In person on election day
+0.253908367150584,84,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.750398203097559,77,yes,Independent,Yes,Voted by mail or absentee
+0.187770552824916,51,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.377923372831064,78,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.505145712346433,68,yes,Independent,Yes,In person on election day
+1.38099698555863,64,yes,Republican,Yes,Voted by mail or absentee
+0.2197778606875,58,yes,Democrat,Yes,In person on election day
+3.05715997972251,25,no,Independent,Yes,Dontknow_skipped_notasked
+0.32847443536091,62,yes,Republican,Yes,In person on election day
+1.34546303847003,70,yes,Democrat,Yes,In person on election day
+0.473615073552885,25,yes,NAorMissing,Yes,In person on election day
+1.61390401412212,44,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.541624439247,74,yes,Independent,Yes,In person on election day
+0.25875316114616,63,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.14968657358472,85,yes,Democrat,Yes,In person early
+1.17781274459231,34,yes,Republican,Yes,In person on election day
+0.582793515938875,71,yes,Independent,Yes,In person on election day
+0.52174137049876,57,no,Republican,Yes,Dontknow_skipped_notasked
+0.482750684407076,81,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.409009691170213,70,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.114800461729,33,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.459907423793275,73,yes,Democrat,Yes,In person on election day
+0.564215969982097,27,yes,Republican,Yes,In person on election day
+0.218396905301589,31,yes,Democrat,Yes,In person on election day
+0.619559008960978,76,yes,Republican,Yes,In person on election day
+1.75198834787934,32,yes,Independent,Yes,In person on election day
+0.671905258844095,76,yes,Democrat,Yes,In person early
+0.212786003257098,34,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.308249920909254,32,no,Democrat,Yes,Dontknow_skipped_notasked
+0.356163932553075,49,no,Democrat,Yes,Dontknow_skipped_notasked
+0.787750510425534,76,yes,Democrat,Yes,Voted by mail or absentee
+1.08324516236455,63,yes,Republican,Yes,In person on election day
+1.32172634383732,46,yes,Democrat,Yes,In person on election day
+2.05740269226435,73,yes,Independent,Yes,Voted by mail or absentee
+0.800199425268963,27,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+4.29982985608866,28,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.40682180637477,57,no,Democrat,Yes,Dontknow_skipped_notasked
+5.13005375387777,21,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.187235885731254,60,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.636203136982668,38,yes,Republican,Yes,In person on election day
+1.49506856071852,33,yes,Independent,Yes,In person on election day
+0.833101221139087,31,no,Independent,Yes,Dontknow_skipped_notasked
+1.8217674417309,70,yes,Independent,Yes,Voted by mail or absentee
+0.165105642777386,53,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.83727262510784894,75,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+3.01485866141292,37,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.152298228006634,29,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.0856776187162277,32,no,Democrat,Yes,Voted by mail or absentee
+1.09116555099755,44,no,Democrat,Yes,Dontknow_skipped_notasked
+0.367366976508353,59,no,Republican,No,Dontknow_skipped_notasked
+0.294273552958564,59,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.575736630639635,61,no,Republican,Yes,Dontknow_skipped_notasked
+0.639426687847265,69,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.411701484736315,29,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.150576179942643,58,yes,Other,Yes,Voted by mail or absentee
+0.308249920909254,28,no,Republican,Yes,Dontknow_skipped_notasked
+0.578620085158099,32,no,Republican,Yes,Dontknow_skipped_notasked
+0.587854630074211,28,yes,Independent,Yes,Voted by mail or absentee
+0.700254406503552,38,no,Independent,Yes,Dontknow_skipped_notasked
+0.389160709845774,62,yes,Republican,Yes,In person on election day
+0.969559333292468,69,yes,Independent,Yes,In person on election day
+1.11560008807754,62,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.851591605200829,21,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.332913592082045,57,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.29449287847538,30,yes,Democrat,Yes,In person on election day
+1.53438191294549,56,yes,Democrat,Yes,Voted by mail or absentee
+0.366647298177292,67,NAorMissing,Democrat,DontKnow,Dontknow_skipped_notasked
+0.322932265818169,74,NAorMissing,Independent,No,Dontknow_skipped_notasked
+2.43599906503388,45,no,Independent,Yes,Dontknow_skipped_notasked
+0.567881803072065,61,yes,Democrat,Yes,Voted by mail or absentee
+0.235039313273442,57,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.660303612068248,37,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.769924566318262,70,yes,Independent,Yes,In person on election day
+0.763416218054128,23,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.120385272987512,27,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.208172072009447,61,no,Republican,Yes,Dontknow_skipped_notasked
+1.1431728338288,67,yes,Democrat,Yes,In person on election day
+0.356163932553075,61,no,Independent,Yes,Voted by mail or absentee
+0.391117993322371,79,yes,Democrat,Yes,Voted by mail or absentee
+0.45984676819041,49,NAorMissing,Republican,No,Dontknow_skipped_notasked
+1.25303146520621,29,no,Independent,Yes,In person on election day
+0.715741382646736,27,yes,NAorMissing,Yes,In person on election day
+0.182379369421047,32,no,Independent,Yes,Dontknow_skipped_notasked
+0.19668861668149001,28,no,Independent,Yes,Dontknow_skipped_notasked
+1.4601916522323,26,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+0.34218693067758,64,yes,Republican,Yes,Voted by mail or absentee
+0.0934024182175562,48,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.98192924220244,65,yes,Democrat,Yes,In person early
+0.331179394164399,26,NAorMissing,Democrat,DontKnow,Dontknow_skipped_notasked
+0.361591920972987,26,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.409908653959277,35,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+5.22207198135981,27,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.308249920909254,31,no,Republican,Yes,Dontknow_skipped_notasked
+0.846186339827763,47,NAorMissing,Democrat,DontKnow,Dontknow_skipped_notasked
+1.4199060645939099,33,yes,Independent,Yes,Voted by mail or absentee
+0.46617894620009,36,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.33776106573925,25,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+0.926472922743249,71,yes,Republican,Yes,In person on election day
+0.325864033796965,63,no,Democrat,Yes,Dontknow_skipped_notasked
+0.361358555596325,68,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.274070143939764,53,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.667640776452859,61,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.296122673400311,48,yes,Democrat,Yes,In person on election day
+0.0447386103711977,53,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.236130998064816,46,yes,Republican,Yes,In person on election day
+3.12842465897309,78,yes,Democrat,Yes,Voted by mail or absentee
+1.7525613121743,24,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.36179457045753,63,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.12415233697471,70,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.03482621226492,38,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.673196252869421,43,yes,Democrat,Yes,Voted by mail or absentee
+0.091323089135969,33,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.578620085158099,31,no,Democrat,No,Dontknow_skipped_notasked
+0.573824202859622,56,no,Democrat,Yes,Dontknow_skipped_notasked
+0.312593666677307,53,yes,Independent,Yes,Voted by mail or absentee
+0.223689085771875,24,NAorMissing,NAorMissing,DontKnow,Dontknow_skipped_notasked
+0.726760188762627,37,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+5.04833992596466,25,yes,Independent,Yes,Voted by mail or absentee
+3.69868406342746,32,yes,Independent,Yes,In person on election day
+2.50519407791916,54,yes,Democrat,Yes,In person on election day
+1.94194186199481,62,yes,Republican,Yes,In person on election day
+5.18202766160899,37,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.01312370699981,55,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.425006598770186,60,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.392935101283805,62,no,Democrat,Yes,Dontknow_skipped_notasked
+0.193166193968804,73,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.877683771470986,63,yes,Independent,Yes,Voted by mail or absentee
+0.302579783551387,72,no,Democrat,Yes,Dontknow_skipped_notasked
+1.16098477589678,27,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.231282008324501,32,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.398889639790747,31,yes,Democrat,Yes,In person on election day
+0.219844363162573,30,no,Democrat,Yes,Dontknow_skipped_notasked
+1.16378673862876,22,no,Democrat,Yes,Dontknow_skipped_notasked
+0.437657825168467,78,yes,Democrat,Yes,In person early
+1.2548384945508,27,yes,Democrat,Yes,Voted by mail or absentee
+1.27349966302588,27,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.566685977673245,32,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+4.0042212922758,44,yes,Independent,Yes,In person on election day
+0.51932533057299,56,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+3.75068839212266,21,yes,Independent,Yes,In person on election day
+0.959535162296725,23,no,Democrat,Yes,Dontknow_skipped_notasked
+1.02612795029124,27,no,Independent,Yes,Dontknow_skipped_notasked
+1.42938438281448,44,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.384409300773531,54,yes,Republican,Yes,In person on election day
+0.667640776452859,63,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.208172072009447,65,no,Republican,Yes,Dontknow_skipped_notasked
+0.843891824223545,59,yes,Independent,Yes,Voted by mail or absentee
+2.95273309504797,22,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+3.22468776246061,47,no,Independent,Yes,Dontknow_skipped_notasked
+0.539376514942526,54,yes,Republican,Yes,In person on election day
+0.514784334899646,63,yes,Independent,Yes,In person on election day
+0.491961990215634,50,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.308651532948544,66,yes,Republican,Yes,In person on election day
+0.170114617681026,67,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.40290093267195,37,yes,Democrat,Yes,In person on election day
+0.184292513823989,28,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.13688486216721,28,yes,Democrat,Yes,In person on election day
+1.42450649339906,23,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.844530278643403,23,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.909495217046457,57,yes,Republican,Yes,In person on election day
+0.946378390797245,61,yes,Republican,Yes,In person on election day
+0.887840232562864,61,yes,Democrat,Yes,Voted by mail or absentee
+0.371365226886489,38,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.62720635502204,39,yes,Republican,Yes,In person on election day
+0.704833993104805,68,yes,Republican,Yes,In person on election day
+2.19186851538971,21,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.467603237245976,40,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.777516367637284,42,no,Independent,Yes,Dontknow_skipped_notasked
+0.36650228057608,66,yes,NAorMissing,Yes,Voted by mail or absentee
+0.515998875555945,59,yes,Democrat,Yes,In person on election day
+0.779350777069377,42,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.951658189110055,68,yes,Democrat,Yes,Voted by mail or absentee
+0.883770404273273,61,yes,Independent,Yes,In person on election day
+0.742590956902597,24,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.73222217887604,30,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.570493290947899,60,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.680570927472099,32,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.48294239181856,49,yes,Democrat,Yes,Voted by mail or absentee
+1.1034698568966,30,yes,Independent,Yes,In person on election day
+0.361591920972987,26,no,Republican,Yes,Dontknow_skipped_notasked
+0.0129899131916046,55,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.749235846612209,28,no,Independent,Yes,In person on election day
+0.91426514684134,44,no,Independent,Yes,Dontknow_skipped_notasked
+0.156792102539727,59,yes,Independent,Yes,Voted by mail or absentee
+1.33784009471722,55,yes,Republican,Yes,In person on election day
+0.34218693067758,58,yes,Independent,Yes,Voted by mail or absentee
+1.6637724400748,23,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.82818686592626,23,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.746777854616233,39,yes,Independent,Yes,In person on election day
+0.277244705648107,60,yes,Democrat,Yes,In person early
+1.04632499841438,55,no,Republican,Yes,Dontknow_skipped_notasked
+1.09486449992108,64,yes,Republican,Yes,In person on election day
+0.0950281380844323,44,no,Democrat,Yes,Dontknow_skipped_notasked
+0.845933107388483,25,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.356959609507488,33,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+3.89034382445263,21,no,Independent,Yes,Dontknow_skipped_notasked
+2.20303189828146,22,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.452549749786891,68,no,Democrat,Yes,Dontknow_skipped_notasked
+0.646739838231966,28,no,Independent,Yes,Dontknow_skipped_notasked
+0.296321404863621,50,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.170473665203512,28,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+2.07082249073726,42,no,Democrat,Yes,Dontknow_skipped_notasked
+0.586060818113138,69,yes,NAorMissing,Yes,Voted by mail or absentee
+0.49154073786787,50,yes,Republican,Yes,In person on election day
+1.07947199472466,66,yes,Republican,Yes,In person early
+0.933581125106956,70,yes,Republican,Yes,In person on election day
+0.48294239181856,61,yes,Democrat,Yes,In person on election day
+0.655639554373917,68,yes,Republican,Yes,In person on election day
+1.06951292739124,74,no,Independent,Yes,Dontknow_skipped_notasked
+1.33472839992684,31,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.918473086441654,68,yes,Democrat,Yes,In person on election day
+0.950719519769309,42,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.16669572204761,80,yes,Democrat,Yes,In person on election day
+0.329779676705497,35,NAorMissing,Republican,No,Dontknow_skipped_notasked
+1.21229960835261,29,no,NAorMissing,DontKnow,Dontknow_skipped_notasked
+2.45354830144055,27,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.01877030749895,57,no,Republican,Yes,Dontknow_skipped_notasked
+0.227261668061634,64,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.897609486109267,35,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.633404950841369,40,no,Democrat,Yes,Dontknow_skipped_notasked
+3.26909800613165,30,yes,Democrat,Yes,In person on election day
+1.55594295404381,55,yes,Republican,Yes,In person on election day
+0.578620085158099,26,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.615806933501105,57,no,Democrat,Yes,Dontknow_skipped_notasked
+0.777602646297248,69,yes,Republican,No,In person on election day
+0.244799262299807,30,no,Democrat,No,Dontknow_skipped_notasked
+0.323310775512692,32,yes,Republican,Yes,In person on election day
+0.337425440017932,28,no,Independent,Yes,Dontknow_skipped_notasked
+0.485703505616201,28,yes,Democrat,Yes,Voted by mail or absentee
+0.44003314109256,28,yes,Democrat,Yes,In person on election day
+1.17149722521267,32,no,Republican,Yes,Dontknow_skipped_notasked
+0.669432814635585,53,no,Independent,Yes,Dontknow_skipped_notasked
+0.314271681795158,52,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.484228285238153,31,no,Independent,Yes,Dontknow_skipped_notasked
+0.4892945569263,80,yes,Democrat,Yes,Voted by mail or absentee
+0.723640728172468,60,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.22139663924338,41,no,Democrat,Yes,Dontknow_skipped_notasked
+0.327016484436612,55,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.622512314823438,68,yes,Republican,Yes,In person on election day
+0.499028835349718,76,yes,Democrat,Yes,In person on election day
+0.397213682029977,69,yes,Republican,Yes,In person on election day
+0.139904831645296,57,yes,Other,Yes,Voted by mail or absentee
+1.10684837922062,47,no,Independent,Yes,Dontknow_skipped_notasked
+0.148731463586974,62,yes,Other,Yes,Voted by mail or absentee
+2.01437253594902,43,yes,Republican,Yes,In person on election day
+0.564744952088146,78,yes,Independent,Yes,Voted by mail or absentee
+0.036463220587049,67,NAorMissing,Other,No,Dontknow_skipped_notasked
+0.39285697715821,74,yes,Independent,Yes,Voted by mail or absentee
+0.0590151105043147,60,yes,Other,Yes,In person on election day
+0.402071894678932,70,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.226310880304121,64,yes,Republican,Yes,In person on election day
+2.07292461931706,40,yes,Independent,Yes,In person on election day
+0.315818745653944,49,yes,Independent,Yes,In person on election day
+0.678785718430516,31,no,Independent,Yes,In person on election day
+0.992051487718756,23,NAorMissing,Independent,No,Dontknow_skipped_notasked
+3.53425663840797,43,yes,Independent,Yes,In person on election day
+0.906015997794372,33,yes,Democrat,Yes,In person on election day
+0.665838126770225,69,yes,Independent,Yes,In person on election day
+0.925623657776056,57,yes,Independent,Yes,In person on election day
+0.835313316199166,63,yes,Independent,Yes,In person early
+0.145375658560551,70,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.035782138851,68,yes,Republican,Yes,In person on election day
+1.46169782609739,26,yes,Republican,Yes,In person on election day
+0.338196953518469,41,yes,Independent,Yes,In person on election day
+0.261250193469065,54,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.574209090820137,60,no,Independent,Yes,Dontknow_skipped_notasked
+1.12586251737198,38,no,Republican,Yes,Dontknow_skipped_notasked
+2.62378911742312,40,yes,Independent,Yes,In person early
+1.2315711335871,22,yes,Republican,Yes,In person on election day
+1.428330808212,56,yes,Republican,Yes,Voted by mail or absentee
+0.132879875750765,28,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.174187993434351,50,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.73583928085939,28,yes,Democrat,Yes,In person on election day
+0.408950350795393,57,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.319711102103021,38,yes,Democrat,Yes,In person on election day
+0.695458055665139,59,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+5.63345937809613,39,yes,Republican,Yes,In person on election day
+0.640456203666537,62,yes,Democrat,Yes,Voted by mail or absentee
+0.68233155865733,64,yes,Democrat,Yes,Voted by mail or absentee
+1.36179713865191,46,yes,Democrat,Yes,In person on election day
+0.736916266058801,46,yes,Other,Yes,In person on election day
+0.838158877536677,51,no,Republican,Yes,Dontknow_skipped_notasked
+0.262412178017015,29,no,Democrat,Yes,Dontknow_skipped_notasked
+0.109350009574337,32,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.443759020360119,56,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.03488350334599,31,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.282879030535631,72,yes,Democrat,Yes,Voted by mail or absentee
+1.67452477230807,30,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.294273552958564,57,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.64917995483586,55,yes,Democrat,Yes,Voted by mail or absentee
+0.595748640190626,55,yes,Democrat,Yes,In person on election day
+0.730594508824265,37,no,Independent,Yes,Dontknow_skipped_notasked
+0.800199425268963,21,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.60993946637475,46,yes,Democrat,Yes,In person on election day
+0.704007700270282,58,yes,Democrat,Yes,Voted by mail or absentee
+2.05740269226435,77,yes,Republican,Yes,In person on election day
+1.09744763495092,60,yes,Independent,Yes,Voted by mail or absentee
+1.20691068859015,22,no,Republican,Yes,Dontknow_skipped_notasked
+0.498803946615784,70,yes,Republican,Yes,In person on election day
+0.195567678330008,24,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+1.65322280390883,50,yes,Democrat,Yes,In person on election day
+1.58922490691738,47,yes,Independent,Yes,In person on election day
+0.925623657776056,61,yes,Republican,Yes,Voted by mail or absentee
+0.709341699378195,29,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.946378390797245,62,yes,Republican,Yes,In person on election day
+0.379713137483983,81,yes,Democrat,Yes,In person on election day
+0.25013452866272,61,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.184292513823989,32,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.955852312511105,41,yes,Democrat,Yes,In person on election day
+0.154008319237396,39,no,Independent,DontKnow,Dontknow_skipped_notasked
+0.278005989930116,37,yes,Other,Yes,In person on election day
+0.450508180275281,61,yes,Independent,Yes,In person on election day
+1.18719087202753,60,yes,Republican,Yes,In person on election day
+0.700659633466401,65,yes,Republican,Yes,Voted by mail or absentee
+1.13776798694927,27,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+2.08674686631739,32,no,Republican,Yes,Dontknow_skipped_notasked
+0.706035322642523,53,yes,Republican,Yes,Voted by mail or absentee
+0.367219373428175,56,no,Independent,Yes,Dontknow_skipped_notasked
+0.129527541553464,47,yes,Other,Yes,In person on election day
+0.430316333151509,64,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.254173548755592,48,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.754102984197622,67,yes,Republican,Yes,In person on election day
+1.91140385702618,40,yes,Independent,Yes,In person on election day
+0.238762805989241,62,yes,Democrat,Yes,Voted by mail or absentee
+0.262699160731789,30,no,Democrat,No,Dontknow_skipped_notasked
+1.01877030749895,61,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.10991263361087,24,yes,Democrat,Yes,In person on election day
+0.254235509593087,63,no,Democrat,Yes,Dontknow_skipped_notasked
+0.363352578396974,38,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.878380081724534,32,yes,NAorMissing,Yes,In person on election day
+0.412672820026787,30,no,Independent,Yes,Dontknow_skipped_notasked
+0.463218151533631,23,yes,Independent,Yes,In person on election day
+0.49154073786787,50,yes,Republican,Yes,In person on election day
+1.72274449203527,68,yes,Independent,Yes,In person on election day
+1.10884366986622,29,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.29090964617745,32,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.23650178432286,48,yes,Democrat,Yes,In person on election day
+0.292729140874857,59,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.679815116901828,66,yes,Democrat,Yes,Voted by mail or absentee
+1.29090964617745,31,no,Independent,Yes,Dontknow_skipped_notasked
+1.91299730175417,32,yes,Independent,Yes,In person on election day
+1.7525613121743,23,no,NAorMissing,Yes,Dontknow_skipped_notasked
+5.75526781248465,29,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.80285932767008,68,yes,Independent,Yes,In person on election day
+0.606117755803967,72,yes,Independent,Yes,Voted by mail or absentee
+1.20092906858863,46,yes,Democrat,Yes,Voted by mail or absentee
+0.911548991529463,60,yes,Independent,Yes,In person early
+0.650058633939231,62,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.223689085771875,31,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.699145078787594,40,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.425006598770186,50,no,Republican,Yes,Dontknow_skipped_notasked
+0.968494012680217,31,no,Independent,DontKnow,Dontknow_skipped_notasked
+2.67681733021851,74,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.81091932342635,30,yes,Democrat,Yes,In person on election day
+0.162510161100442,32,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.37628331677947,82,yes,Republican,Yes,Voted by mail or absentee
+1.9476310737185,66,yes,Republican,Yes,In person on election day
+0.298585147018819,31,yes,Democrat,Yes,In person on election day
+0.572045393157409,32,yes,Democrat,Yes,In person on election day
+0.191448246318329,58,yes,Democrat,Yes,In person on election day
+0.227261668061634,54,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.33680770866116,31,yes,Independent,Yes,In person early
+0.32347283712228603,27,NAorMissing,NAorMissing,Yes,Dontknow_skipped_notasked
+0.356959609507488,44,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.840231703280787,30,yes,Republican,Yes,In person on election day
+2.09653588330113,30,no,Independent,Yes,Dontknow_skipped_notasked
+0.342212704917726,65,yes,Democrat,Yes,In person on election day
+0.695458055665139,63,no,Independent,Yes,Dontknow_skipped_notasked
+0.887840232562864,65,yes,Democrat,Yes,Voted by mail or absentee
+1.45539175931083,74,yes,Independent,Yes,In person on election day
+0.559587479014702,44,no,Republican,Yes,Dontknow_skipped_notasked
+0.614405332769037,70,yes,Democrat,Yes,In person on election day
+2.66672283150237,32,yes,Independent,Yes,In person on election day
+0.25875316114616,49,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.63371462545933,46,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.946378390797245,56,yes,Republican,Yes,In person on election day
+1.33692305095132,44,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.597243371742625,54,yes,Democrat,Yes,In person on election day
+1.93352617482092,51,no,Democrat,Yes,Dontknow_skipped_notasked
+0.585451457162144,60,yes,Republican,Yes,Voted by mail or absentee
+0.557776198268929,35,yes,Other,Yes,In person on election day
+0.140359148141027,62,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.571431078448844,78,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.223505530187497,37,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.10172287063115,34,no,Democrat,Yes,Dontknow_skipped_notasked
+0.702757007171629,57,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.462298743408148,63,yes,Democrat,Yes,In person on election day
+0.177314760188019,66,yes,Democrat,Yes,In person early
+0.205572141141113,73,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.545290699034305,42,yes,Republican,Yes,In person on election day
+0.409908653959277,36,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.368253593282754,63,no,Democrat,Yes,Dontknow_skipped_notasked
+0.566335604029325,47,yes,Democrat,Yes,Voted by mail or absentee
+0.416813954252015,54,no,Republican,Yes,Dontknow_skipped_notasked
+0.572164637131153,52,no,Republican,Yes,Dontknow_skipped_notasked
+0.883770404273273,60,yes,Republican,Yes,In person on election day
+0.788784487264324,40,no,Republican,Yes,In person on election day
+3.00099991505006,34,yes,Independent,Yes,In person on election day
+0.0621501316922304,64,yes,Other,Yes,In person on election day
+1.46039598426717,80,yes,Democrat,Yes,In person on election day
+1.71242965630516,44,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.940251441803159,30,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.218382054625588,60,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.26206421442447,48,yes,Democrat,Yes,In person on election day
+0.416813954252015,56,no,Republican,Yes,Dontknow_skipped_notasked
+0.583380480817546,47,yes,Republican,Yes,In person on election day
+1.44754267546147,61,yes,Democrat,Yes,Voted by mail or absentee
+0.426251719734767,66,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.33743856563229,66,yes,Republican,Yes,In person on election day
+4.73403219258175,21,yes,Democrat,Yes,In person on election day
+0.584822311562977,45,yes,Democrat,Yes,In person early
+1.46965447950551,63,yes,Independent,Yes,In person on election day
+0.0458908740935022,57,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.373089678636039,25,yes,Democrat,Yes,In person on election day
+0.206668811015067,65,no,NAorMissing,DontKnow,Dontknow_skipped_notasked
+0.313173040892779,48,no,Democrat,Yes,Dontknow_skipped_notasked
+1.10459565202043,55,yes,NAorMissing,Yes,In person on election day
+1.8217674417309,75,yes,Republican,Yes,In person on election day
+0.925623657776056,62,yes,Republican,Yes,In person on election day
+0.950719519769309,46,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.331836012611528,67,yes,Other,Yes,In person on election day
+0.949632422112916,57,yes,Democrat,Yes,Voted by mail or absentee
+0.46617894620009,41,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.195567678330008,28,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.90991715350702,37,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.985894734960001,60,NAorMissing,Independent,No,Dontknow_skipped_notasked
+2.57617074953132,34,no,Independent,Yes,Dontknow_skipped_notasked
+1.7580328735326,74,yes,Democrat,Yes,Voted by mail or absentee
+0.0990679038448594,29,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.49377824169442,38,yes,Independent,Yes,In person on election day
+0.759888708187139,60,yes,Republican,Yes,In person on election day
+0.130874097377228,58,yes,Other,Yes,In person on election day
+0.303451247795714,77,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+3.04340655534543,62,yes,Republican,Yes,Voted by mail or absentee
+0.0995556253918989,49,yes,Other,Yes,Voted by mail or absentee
+0.227824235293199,26,no,Independent,Yes,Dontknow_skipped_notasked
+0.59062346643466,60,yes,Independent,No,In person on election day
+2.28785774839159,44,no,Democrat,Yes,Dontknow_skipped_notasked
+0.844530278643403,31,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+3.3325102661621,42,yes,Republican,Yes,In person on election day
+1.28426505133062,46,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.979007037269148,46,no,Independent,Yes,Dontknow_skipped_notasked
+2.55627707897038,39,yes,Republican,Yes,In person on election day
+0.706035322642523,67,yes,Republican,Yes,Voted by mail or absentee
+7.1039273500693,21,yes,Republican,Yes,In person on election day
+0.758651828909824,63,yes,Democrat,Yes,In person on election day
+3.61366024700988,44,yes,Republican,Yes,In person on election day
+0.567881803072065,55,yes,Democrat,Yes,In person on election day
+0.454586344481215,61,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.619756760216979,72,yes,NAorMissing,Yes,Voted by mail or absentee
+3.1621623421909,47,yes,Republican,Yes,In person on election day
+0.45077765444409,28,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.22511767179522,35,yes,Democrat,Yes,In person on election day
+3.32426527798744,24,no,Independent,Yes,Dontknow_skipped_notasked
+0.570493290947899,66,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.18871467066168,57,yes,Republican,Yes,In person on election day
+1.59369023057028,53,no,Democrat,Yes,Dontknow_skipped_notasked
+0.985590011281542,65,yes,Republican,Yes,In person early
+1.22139663924338,43,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.374974518513558,65,yes,Democrat,Yes,In person on election day
+1.33784009471722,60,yes,Republican,Yes,In person on election day
+0.714597047140874,61,yes,Democrat,Yes,In person on election day
+1.78273056628322,53,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.134516014158822,28,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.570493290947899,63,no,Independent,Yes,Dontknow_skipped_notasked
+1.329539847904,62,yes,Democrat,Yes,Voted by mail or absentee
+5.02575233012823,41,yes,Democrat,Yes,In person on election day
+0.868369281861223,61,yes,Democrat,Yes,In person on election day
+2.65512486671521,27,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+2.43134700918459,67,yes,Independent,Yes,In person on election day
+0.575736630639635,65,no,Independent,Yes,Dontknow_skipped_notasked
+0.236748934720696,54,no,Republican,Yes,Dontknow_skipped_notasked
+2.09603046191914,60,yes,Democrat,Yes,In person on election day
+1.74290617492644,36,no,Democrat,Yes,Dontknow_skipped_notasked
+13.2847347919886,77,yes,Democrat,Yes,In person on election day
+0.313698237155767,53,yes,Democrat,Yes,In person on election day
+0.414227951104744,54,no,Democrat,Yes,Dontknow_skipped_notasked
+1.45539175931083,69,yes,Republican,Yes,Voted by mail or absentee
+2.33701701523604,59,no,Democrat,Yes,Dontknow_skipped_notasked
+0.92452670153344,39,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.235039313273442,48,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+2.99554746835235,44,yes,Independent,Yes,In person on election day
+0.171958608657668,39,yes,Other,Yes,In person on election day
+0.268226152350431,52,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.555305693621279,67,yes,Independent,Yes,In person on election day
+0.379217732489217,64,no,Republican,Yes,Dontknow_skipped_notasked
+6.25797715871884,34,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.767906586302576,40,yes,Democrat,Yes,In person on election day
+1.03352572720754,73,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.2210523112392,65,yes,Independent,Yes,In person on election day
+1.55594295404381,66,yes,Independent,Yes,Voted by mail or absentee
+1.50164687289286,59,yes,Democrat,Yes,Dontknow_skipped_notasked
+0.702815945039283,60,yes,Democrat,Yes,In person on election day
+0.254173548755592,66,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+1.2291169797299,49,yes,Democrat,Yes,In person on election day
+0.124691968675116,59,yes,Republican,Yes,In person on election day
+1.45662238779185,36,yes,Independent,Yes,In person on election day
+0.343063688375145,59,no,Independent,Yes,Dontknow_skipped_notasked
+0.340451632438033,58,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.701015055018664,52,yes,Republican,Yes,In person on election day
+2.06793379295968,44,yes,Democrat,Yes,In person on election day
+14.2008883066359,32,yes,Democrat,Yes,In person on election day
+0.249267365181985,47,yes,Democrat,Yes,Voted by mail or absentee
+0.29745595283514,58,yes,NAorMissing,Yes,Voted by mail or absentee
+0.623216055335135,43,no,Independent,Yes,Dontknow_skipped_notasked
+8.14565967996912,65,yes,Republican,Yes,In person on election day
+0.450508180275281,62,yes,Independent,Yes,Voted by mail or absentee
+1.11912200226458,67,yes,Independent,Yes,Voted by mail or absentee
+0.611597383970011,47,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.60926203962498,41,yes,Independent,Yes,In person on election day
+0.0697454907269303,65,yes,Other,Yes,In person on election day
+0.50287400878145,62,yes,Democrat,Yes,In person on election day
+1.012449638062,53,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.2291169797299,58,yes,Democrat,Yes,In person on election day
+1.50639745220806,38,yes,Democrat,Yes,Voted by mail or absentee
+0.214870079737383,43,no,Other,Yes,Voted by mail or absentee
+4.72204057318725,41,yes,Republican,Yes,Voted by mail or absentee
+0.664503042296603,23,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+2.23250862399311,44,yes,Republican,Yes,Voted by mail or absentee
+1.94905745225062,61,yes,Independent,Yes,In person on election day
+4.86930064977505,36,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.367896780911604,79,yes,Democrat,Yes,Voted by mail or absentee
+1.45554128842943,36,no,Independent,Yes,Dontknow_skipped_notasked
+0.155546695023025,60,yes,Republican,Yes,In person on election day
+0.427037471417627,50,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+0.363164476704331,67,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.394329755263532,74,yes,Democrat,Yes,Voted by mail or absentee
+1.61618427188146,73,yes,Republican,Yes,Voted by mail or absentee
+1.30416212669431,62,yes,Independent,Yes,In person on election day
+0.669252084897901,55,no,Independent,Yes,Dontknow_skipped_notasked
+0.704865926940352,54,no,Independent,Yes,Dontknow_skipped_notasked
+0.844530278643403,22,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.413017952687947,49,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.203521613547621,41,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.385933945140158,59,yes,Other,Yes,In person on election day
+0.959180609429608,61,yes,Republican,Yes,Voted by mail or absentee
+0.735014043731238,63,yes,Republican,Yes,In person on election day
+1.3994215582038,46,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.65322280390883,65,yes,Independent,Yes,In person early
+1.9476310737185,66,yes,Republican,Yes,Voted by mail or absentee
+2.11498266489215,46,yes,Republican,Yes,In person on election day
+0.213307896432969,39,yes,Other,Yes,In person on election day
+1.93871989317435,53,yes,Republican,Yes,Voted by mail or absentee
+0.81247409287658,48,yes,Democrat,Yes,In person on election day
+2.13420515821546,43,yes,Independent,Yes,In person on election day
+0.850393214732948,58,yes,Democrat,Yes,Voted by mail or absentee
+0.277721435600461,58,yes,Republican,Yes,In person on election day
+1.04337867911454,57,yes,Independent,Yes,In person on election day
+1.04632499841438,65,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.46056279243715,40,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.157962586482399,42,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+4.91585339295927,39,yes,Democrat,Yes,Voted by mail or absentee
+0.332262049725329,36,yes,Other,Yes,In person on election day
+1.70461160960065,34,yes,Independent,Yes,In person on election day
+0.531931409321721,69,yes,Independent,Yes,In person early
+0.250123408623737,80,yes,Independent,Yes,In person on election day
+0.425006598770186,66,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+2.3873557872369,58,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.23729613363307,70,yes,Democrat,No,In person on election day
+0.531996405233839,66,no,Independent,Yes,Dontknow_skipped_notasked
+0.1305846378256,66,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+3.04340655534543,59,yes,Democrat,Yes,Voted by mail or absentee
+0.83190960974838,74,yes,Republican,Yes,In person on election day
+2.07756507035934,62,yes,Independent,Yes,In person on election day
+0.963323613393749,51,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.427152791745993,65,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.524738329566436,62,yes,Democrat,Yes,In person on election day
+0.592280589240105,71,no,Independent,Yes,Dontknow_skipped_notasked
+0.331766473852322,48,yes,Democrat,Yes,In person on election day
+0.956714349366965,63,yes,Democrat,Yes,In person on election day
+1.3586484661923,66,yes,Democrat,Yes,In person on election day
+1.06043708565867,62,yes,Democrat,Yes,Voted by mail or absentee
+0.269839190949415,40,yes,Other,Yes,In person on election day
+1.035782138851,81,yes,Republican,Yes,In person on election day
+0.12486299516246,70,no,Other,Yes,Dontknow_skipped_notasked
+1.66423397130015,65,yes,Independent,Yes,Voted by mail or absentee
+3.01377313835077,29,yes,Republican,Yes,In person on election day
+0.413122226302323,69,yes,Republican,Yes,In person on election day
+1.21865697295593,74,yes,Independent,Yes,Voted by mail or absentee
+0.294069453254509,83,yes,Democrat,Yes,Voted by mail or absentee
+0.0881541437004984,68,yes,Other,Yes,In person on election day
+1.16653248323189,21,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.82837699970155,53,yes,Independent,Yes,In person on election day
+0.0658821962481482,68,yes,Other,Yes,In person on election day
+0.492042277252325,34,no,Democrat,Yes,Dontknow_skipped_notasked
+0.660913571277032,74,yes,Republican,Yes,In person on election day
+0.294069453254509,71,yes,Democrat,Yes,Voted by mail or absentee
+0.0559740833532154,74,yes,Other,Yes,In person early
+0.0925281446352752,65,yes,Other,Yes,In person on election day
+0.108349139380451,28,yes,Other,No,In person on election day
+0.107019402034886,70,yes,Other,Yes,Voted by mail or absentee
+1.55594295404381,57,yes,Republican,Yes,Voted by mail or absentee
+0.282475448025285,83,yes,Republican,Yes,Voted by mail or absentee
+1.55474067481198,30,no,Independent,Yes,Dontknow_skipped_notasked
+0.17836089834125,69,yes,Independent,Yes,Voted by mail or absentee
+0.4892945569263,69,yes,Democrat,Yes,Voted by mail or absentee
+2.74065556730385,64,yes,Democrat,Yes,In person on election day
+0.356959609507488,44,no,NAorMissing,Yes,Dontknow_skipped_notasked
+1.97716026622087,48,NAorMissing,NAorMissing,No,Dontknow_skipped_notasked
+0.328047962894165,76,yes,Democrat,Yes,In person on election day
+0.141883869618582,62,no,Independent,Yes,Dontknow_skipped_notasked
+0.469956677115463,33,yes,Other,Yes,Voted by mail or absentee
+0.215580325881642,23,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.987572718593795,33,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.531931409321721,82,yes,Independent,Yes,In person on election day
+3.33210828147205,25,NAorMissing,Republican,No,Dontknow_skipped_notasked
+0.0321887927496595,72,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.308318762608708,56,yes,Other,Yes,In person on election day
+0.483349464396654,62,NAorMissing,Democrat,No,Dontknow_skipped_notasked
+0.353584916919204,84,yes,Republican,Yes,In person on election day
+1.25931589635294,28,yes,Democrat,Yes,Voted by mail or absentee
+0.0931338294765485,71,yes,Other,Yes,Voted by mail or absentee
+0.208022600797036,78,yes,Democrat,Yes,In person on election day
+0.207798831710383,50,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.376284425288365,91,yes,Republican,Yes,Voted by mail or absentee
+1.10884366986622,26,yes,Democrat,Yes,Voted by mail or absentee
+1.46965447950551,63,yes,Independent,Yes,In person on election day
+0.848407138405307,47,yes,Independent,Yes,In person on election day
+0.17836089834125,71,yes,Democrat,Yes,In person early
+0.297666752009526,38,NAorMissing,Independent,No,Dontknow_skipped_notasked
+1.3704821992449,48,yes,Republican,Yes,In person on election day
+0.885066913134959,70,yes,Republican,Yes,Voted by mail or absentee
+0.600120162257136,59,yes,Republican,Yes,In person on election day
+0.353584916919204,74,yes,Republican,Yes,In person on election day
+0.877683771470986,60,yes,Independent,Yes,In person on election day
+0.578800068004793,78,yes,Democrat,Yes,In person on election day
+5.32937096301661,40,yes,Republican,Yes,In person on election day
+3.04340655534543,65,yes,Independent,Yes,In person on election day
+0.149279234908695,36,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+2.44174636483034,38,NAorMissing,Independent,No,Dontknow_skipped_notasked
+0.051193536102803,75,yes,Other,Yes,Voted by mail or absentee
+0.282475448025285,70,yes,Republican,Yes,In person early
+0.427257383676612,67,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.34726521427556,29,yes,Democrat,Yes,In person on election day
+0.470003591513701,78,yes,Independent,Yes,In person on election day
+0.643923489178813,42,NAorMissing,Independent,DontKnow,Dontknow_skipped_notasked
+0.0524684796574653,50,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+1.59369023057028,59,no,Independent,Yes,Dontknow_skipped_notasked
+0.89294521025487,40,no,Independent,No,Dontknow_skipped_notasked
+0.574891344715469,45,yes,Democrat,Yes,In person on election day
+0.174356191075601,42,yes,Other,Yes,Voted by mail or absentee
+2.12600415631311,46,yes,Democrat,Yes,In person early
+2.34104562138396,36,yes,Democrat,Yes,In person on election day
+1.69138787167086,44,yes,Democrat,Yes,In person early
+1.71451683662346,40,yes,Republican,Yes,In person on election day
+4.21942613398567,47,yes,Independent,Yes,In person on election day
+0.437484414255934,40,yes,Republican,Yes,In person on election day
+0.403623648726509,37,yes,Independent,Yes,In person on election day
+1.12122874203716,47,yes,Independent,Yes,In person on election day
+0.802484569306056,41,yes,Democrat,Yes,In person early
+2.00647644802772,39,yes,Republican,Yes,In person on election day
+0.780757643040616,46,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.982006119953215,44,yes,Other,Yes,In person on election day
+1.09400172391891,36,yes,Republican,Yes,In person on election day
+1.18644895412898,41,yes,Independent,Yes,In person on election day
+0.947842183984611,36,yes,Democrat,Yes,In person early
+0.672427801007196,39,yes,Independent,Yes,In person on election day
+1.28789348496458,39,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.465964888416248,40,yes,Democrat,Yes,In person on election day
+1.0249526775248,42,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.397594483815508,38,yes,Other,Yes,Voted by mail or absentee
+0.592051385289265,45,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.58819613727078,40,yes,Democrat,Yes,In person on election day
+0.518049272766906,46,no,Republican,Yes,Dontknow_skipped_notasked
+0.553892993897269,47,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+1.13886838997254,38,yes,Democrat,Yes,Voted by mail or absentee
+0.121424688393579,54,yes,Other,Yes,In person on election day
+1.2292132104406,47,yes,Other,Yes,In person on election day
+3.3325102661621,46,yes,Independent,Yes,In person on election day
+1.37072412932233,50,yes,Democrat,Yes,In person on election day
+5.99874620591285,24,yes,Republican,Yes,In person early
+1.58776500553513,50,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+1.39100343913858,57,yes,Democrat,Yes,In person on election day
+0.992818640029049,50,yes,Republican,Yes,In person on election day
+0.367771021849125,50,yes,Other,Yes,In person on election day
+0.0777956077405632,53,yes,Other,Yes,In person on election day
+0.450508180275281,59,yes,Republican,Yes,In person on election day
+1.27513638054094,61,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.902022237656465,62,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.234785907397224,62,NAorMissing,Other,Yes,Dontknow_skipped_notasked
+0.0974015349838629,60,yes,Other,Yes,In person on election day
+0.808835873448615,56,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.0985460200582388,49,yes,Other,Yes,In person on election day
+1.18485646229425,67,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.18871467066168,55,yes,Republican,Yes,In person on election day
+0.110139104910604,62,yes,Other,Yes,In person on election day
+0.669596730854453,50,NAorMissing,Republican,Yes,Dontknow_skipped_notasked
+3.25304486945029,42,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+0.41399172057318,66,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+2.10001577769096,67,yes,Independent,Yes,In person on election day
+0.683617672894538,54,yes,Independent,Yes,In person early
+0.384799647836599,83,yes,Other,Yes,Voted by mail or absentee
+0.0974015349838629,60,yes,Other,Yes,In person on election day
+0.352900654961736,55,no,NAorMissing,Yes,Dontknow_skipped_notasked
+0.445805450659565,53,yes,Democrat,Yes,In person on election day
+0.604303711053912,60,yes,Independent,Yes,In person on election day
+0.276084464797966,56,yes,Other,Yes,In person on election day
+0.475568056306565,83,NAorMissing,Independent,Yes,Dontknow_skipped_notasked
+1.23750462463486,59,yes,Democrat,Yes,In person on election day
+1.15375337098021,27,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.819941877934367,52,yes,NAorMissing,Yes,Voted by mail or absentee
+1.06392123652301,59,yes,Republican,Yes,In person on election day
+0.852878510068502,67,yes,Independent,Yes,In person on election day
+0.580087380549223,64,yes,Republican,Yes,In person on election day
+0.50258722418836,51,yes,Democrat,Yes,Voted by mail or absentee
+3.60611512716165,30,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
+0.263893556677374,60,yes,Other,Yes,In person on election day
+0.443958327361781,48,yes,Republican,Yes,In person on election day
+0.609043527546308,65,NAorMissing,Democrat,Yes,Dontknow_skipped_notasked
